@@ -1,0 +1,1967 @@
+fileFormatVersion: 2
+guid: 8dc918fc66e8f3a4aa1618520e461d48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9206387566859087404
+    second: Cacao
+  - first:
+      213: -8306023897889498000
+    second: DescriptionBox
+  - first:
+      213: -3199050088549413070
+    second: DescriptionBox_Divider
+  - first:
+      213: -8033050013691433640
+    second: Flower
+  - first:
+      213: -1881266448387814687
+    second: ItemBox_Big
+  - first:
+      213: -6931998392817959393
+    second: ItemBox_LeftCorner
+  - first:
+      213: 7375686865553816279
+    second: ItemBox_Small
+  - first:
+      213: -7099824767841454583
+    second: ItemNumber
+  - first:
+      213: -1856675509873192083
+    second: ItemsBox
+  - first:
+      213: -4746094440126761889
+    second: Lifes
+  - first:
+      213: 514264123681888848
+    second: Paper_Menu_Box
+  - first:
+      213: -7076160666587591998
+    second: RightCorner_LifesBox
+  - first:
+      213: 5356597850277936741
+    second: Tab_Bag
+  - first:
+      213: -4908181918762138803
+    second: Tab_Empty
+  - first:
+      213: -5392334212527406598
+    second: Tab_Map
+  - first:
+      213: 964028523633117804
+    second: ToolsBox
+  - first:
+      213: -2176477371184306051
+    second: Botella_1
+  - first:
+      213: 4509949678261678953
+    second: Botella_2
+  - first:
+      213: -7161791373059898468
+    second: Botella_3
+  - first:
+      213: -687396201950346467
+    second: Botella_4
+  - first:
+      213: -1894571251569686062
+    second: Botella_5
+  - first:
+      213: -5291618423968664416
+    second: Botella_6
+  - first:
+      213: 1423597122847864809
+    second: ItemBox_RightCorner
+  - first:
+      213: 6389194877667865042
+    second: "Tools_Ca\xF1a2"
+  - first:
+      213: 6476213949028603247
+    second: Tools_Mascara2
+  - first:
+      213: 160609207233913567
+    second: Tools_Mosqueton2
+  - first:
+      213: 244302820041723379
+    second: Tools_Pala2
+  - first:
+      213: 3008703395092919598
+    second: Tools_Quinque2
+  - first:
+      213: -6454239530400309507
+    second: Tools_Red2
+  - first:
+      213: 4446236810083706376
+    second: Tools_Tijeras2
+  - first:
+      213: -8814232520551655133
+    second: abono
+  - first:
+      213: 3195350438639579537
+    second: bananas
+  - first:
+      213: 1973007212486090540
+    second: basura
+  - first:
+      213: 2131223536631260748
+    second: cacaoIcon
+  - first:
+      213: -7691279091549912297
+    second: cangrejo
+  - first:
+      213: -5902922258104950816
+    second: carambolo
+  - first:
+      213: 4971951864374700707
+    second: diamante
+  - first:
+      213: 4305365174359407542
+    second: flor_especial
+  - first:
+      213: 2571309276665385765
+    second: pescado
+  - first:
+      213: 3211258500599456984
+    second: piedra_resurreccion
+  - first:
+      213: -5168438959376528794
+    second: Flor_comun
+  - first:
+      213: -605831898725699064
+    second: fish_grid
+  - first:
+      213: -1663688675535588109
+    second: fish_tab
+  - first:
+      213: 679963853517771207
+    second: Flecha 3
+  - first:
+      213: -7502892584515194579
+    second: "Tools_Ca\xF1a1"
+  - first:
+      213: -1418587129527212260
+    second: Tools_Mascara1
+  - first:
+      213: 774479432806694443
+    second: Tools_Mosqueton1
+  - first:
+      213: -8953717923043353620
+    second: Tools_Pala1
+  - first:
+      213: -7247864089490603751
+    second: Tools_Quinque
+  - first:
+      213: 8003810938291682834
+    second: Tools_Red1
+  - first:
+      213: -4589216664732223638
+    second: Tools_Tijeras1
+  - first:
+      213: -2933006110921536866
+    second: comida_gallina
+  - first:
+      213: 6863780634567675632
+    second: corona_flores
+  - first:
+      213: -1881416516266597662
+    second: garrafon (1)
+  - first:
+      213: 4372803597575206161
+    second: boton3.3_copy
+  - first:
+      213: -7682074697557575503
+    second: boton_icono_inventory
+  - first:
+      213: -6469465705297164194
+    second: boton_mediano
+  - first:
+      213: -7705501075300049934
+    second: UI_canvas_botones
+  - first:
+      213: 6796756300602231606
+    second: abono_gde
+  - first:
+      213: -1732055174500347177
+    second: banana_gde
+  - first:
+      213: 8128599099706550431
+    second: bananas_gdes
+  - first:
+      213: -6798617430415336529
+    second: basura_gde
+  - first:
+      213: 2913763812268154190
+    second: cacao_gde
+  - first:
+      213: 3294126135849390900
+    second: cangrejo_gde
+  - first:
+      213: 3894310230426419893
+    second: carambolo_gde
+  - first:
+      213: -7382909229234614524
+    second: comida_gallina_gde
+  - first:
+      213: 4885233475775583932
+    second: corona_flores_gde
+  - first:
+      213: 7588230788453850457
+    second: diamante_gde
+  - first:
+      213: 7210711546550421726
+    second: flor_comun_gde
+  - first:
+      213: 210767263911788401
+    second: flor_especial_gde
+  - first:
+      213: 1551835054292840265
+    second: piedra_resurreccion_gde
+  - first:
+      213: -800286052328729512
+    second: "camapana_pestan\u0303a"
+  - first:
+      213: 3254593962983139358
+    second: misiones_descipcion_canvas
+  - first:
+      213: 76517799508747680
+    second: dialogo
+  - first:
+      213: -3731471042344532667
+    second: interaccion
+  - first:
+      213: -4688294554233553475
+    second: ' resortera'
+  - first:
+      213: -3735995219934024905
+    second: resortera
+  - first:
+      213: 3135420976845447640
+    second: Tab_Historial
+  - first:
+      213: 1463621435139238216
+    second: coco_bebida
+  - first:
+      213: 6281437588423953453
+    second: coco_bebida_gde
+  - first:
+      213: -8286835656369026950
+    second: vida_cacao_canvas
+  - first:
+      213: -5681984352797596789
+    second: Misiones_minimizado
+  - first:
+      213: -4201955221615703338
+    second: WhiteCircle
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: abono
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1337
+        width: 104
+        height: 85
+      alignment: 9
+      pivot: {x: 0.50961536, y: 0.49411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32992dce83e8da580800000000000000
+      internalID: -8814232520551655133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bananas
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 753
+        width: 113
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5132743, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19130045b4a285c20800000000000000
+      internalID: 3195350438639579537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bananas_gdes
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 757
+        width: 300
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98a19360d59ec070800000000000000
+      internalID: 8128599099706550431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basura
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 956
+        width: 126
+        height: 106
+      alignment: 9
+      pivot: {x: 0.50793654, y: 0.44339624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f54873b97816b10800000000000000
+      internalID: 1973007212486090540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basura_gde
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 521
+        width: 296
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5067568, y: 0.4915254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab9058b77576a1a0800000000000000
+      internalID: -6798617430415336529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botella_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 444
+        width: 188
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7822e4cc599bc1e0800000000000000
+      internalID: -2176477371184306051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botella_2
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 632
+        width: 188
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963bcaf665f869e30800000000000000
+      internalID: 4509949678261678953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botella_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 191
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93ce45e0b43c9c90800000000000000
+      internalID: -7161791373059898468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botella_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 443
+        width: 190
+        height: 207
+      alignment: 9
+      pivot: {x: 0.5026316, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d130ccadbc0e576f0800000000000000
+      internalID: -687396201950346467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botella_5
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 460
+        width: 185
+        height: 200
+      alignment: 9
+      pivot: {x: 0.4972973, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9858c0c7125b5e0800000000000000
+      internalID: -1894571251569686062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botella_6
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 268
+        width: 167
+        height: 192
+      alignment: 9
+      pivot: {x: 0.46107784, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a47f6064156096b0800000000000000
+      internalID: -5291618423968664416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton3.3_copy
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 270
+        width: 172
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115350234b15fac30800000000000000
+      internalID: 4372803597575206161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_icono_inventory
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 269
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8701293c9c36590800000000000000
+      internalID: -7682074697557575503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_mediano
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 863
+        width: 150
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58c03db737d736a0800000000000000
+      internalID: -6469465705297164194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cacao_gde
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 416
+        width: 220
+        height: 238
+      alignment: 9
+      pivot: {x: 0.46363637, y: 0.49159664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d91addfb4cf6820800000000000000
+      internalID: 2913763812268154190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cacaoIcon
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1960
+        width: 86
+        height: 88
+      alignment: 9
+      pivot: {x: 0.44186047, y: 0.47727272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46abddc380a39d10800000000000000
+      internalID: 2131223536631260748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cangrejo
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 897
+        width: 111
+        height: 66
+      alignment: 9
+      pivot: {x: 0.4774775, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71347c79a66134590800000000000000
+      internalID: -7691279091549912297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cangrejo_gde
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 655
+        width: 294
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49726775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43312ac744617bd20800000000000000
+      internalID: 3294126135849390900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carambolo
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1251
+        width: 102
+        height: 86
+      alignment: 9
+      pivot: {x: 0.46078432, y: 0.5755814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef58e43b7b941ea0800000000000000
+      internalID: -5902922258104950816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco_bebida
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 858
+        width: 129
+        height: 155
+      alignment: 9
+      pivot: {x: 0.50775194, y: 0.4967742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8492f1fc0f3df4410800000000000000
+      internalID: 1463621435139238216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco_bebida_gde
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 257
+        width: 196
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48207173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ccbc8c4362c2750800000000000000
+      internalID: 6281437588423953453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corona_flores
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 654
+        width: 241
+        height: 130
+      alignment: 9
+      pivot: {x: 0.49585062, y: 0.5346154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe8c9b0f1c014f50800000000000000
+      internalID: 6863780634567675632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corona_flores_gde
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 290
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5365854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6537096f5dbc340800000000000000
+      internalID: 4885233475775583932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DescriptionBox
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 963
+        width: 539
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c1466a5431bbc80800000000000000
+      internalID: -8306023897889498000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DescriptionBox_Divider
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1249
+        width: 509
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f845dc4e0ba93d0800000000000000
+      internalID: -3199050088549413070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialogo
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 841
+        width: 59
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4732143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5a6b28888df0100800000000000000
+      internalID: 76517799508747680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diamante
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1013
+        width: 115
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa256cc0ebeff440800000000000000
+      internalID: 4971951864374700707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diamante_gde
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 65
+        width: 213
+        height: 192
+      alignment: 9
+      pivot: {x: 0.45539907, y: 0.546875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d597ba2bfce4960800000000000000
+      internalID: 7588230788453850457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_grid
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 826
+        height: 784
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802bad21917a797f0800000000000000
+      internalID: -605831898725699064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_tab
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 838
+        width: 255
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f47cd5d6f369e8e0800000000000000
+      internalID: -1663688675535588109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecha 3
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1514
+        width: 93
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1580da587bf6900800000000000000
+      internalID: 679963853517771207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor_comun
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 880
+        width: 75
+        height: 83
+      alignment: 9
+      pivot: {x: 0.52, y: 0.5180723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a821766240648b0800000000000000
+      internalID: -5168438959376528794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor_comun_gde
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 63
+        width: 174
+        height: 194
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed802f592f7911460800000000000000
+      internalID: 7210711546550421726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor_especial
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 857
+        width: 65
+        height: 106
+      alignment: 9
+      pivot: {x: 0.50769234, y: 0.509434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbb706b0dabfbb30800000000000000
+      internalID: 4305365174359407542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor_especial_gde
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 508
+        width: 177
+        height: 245
+      alignment: 9
+      pivot: {x: 0.53107345, y: 0.51836735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f3eb7b5bbcce200800000000000000
+      internalID: 210767263911788401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 853
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85da9fec29fd48090800000000000000
+      internalID: -8033050013691433640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interaccion
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 891
+        width: 49
+        height: 53
+      alignment: 9
+      pivot: {x: 0.47959185, y: 0.5188679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545c56f6bd6273cc0800000000000000
+      internalID: -3731471042344532667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemBox_Big
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1422
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eacbffe12664e5e0800000000000000
+      internalID: -1881266448387814687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemBox_LeftCorner
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 339
+        width: 296
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1eb18460389ccf90800000000000000
+      internalID: -6931998392817959393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemBox_RightCorner
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 660
+        width: 292
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e77d9a6a02a1c310800000000000000
+      internalID: 1423597122847864809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemBox_Small
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 350
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da79db4024bb5660800000000000000
+      internalID: 7375686865553816279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemNumber
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1215
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9063a497dfa587d90800000000000000
+      internalID: -7099824767841454583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lifes
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1643
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54b9c9a04c722eb0800000000000000
+      internalID: -4746094440126761889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misiones_descipcion_canvas
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1255
+        width: 539
+        height: 649
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18adbb37f3aa2d20800000000000000
+      internalID: 3254593962983139358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Misiones_minimizado
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1127
+        width: 121
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83eb28e5598521b0800000000000000
+      internalID: -5681984352797596789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pescado
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1303
+        width: 303
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5239e4be9202fa320800000000000000
+      internalID: 2571309276665385765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piedra_resurreccion
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 849
+        width: 114
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.47663552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d42f22a79ea09c20800000000000000
+      internalID: 3211258500599456984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piedra_resurreccion_gde
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 784
+        width: 254
+        height: 249
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47389558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94faf1982c9398510800000000000000
+      internalID: 1551835054292840265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resortera
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 53
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5377358, y: 0.5217391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b66414424172cc0800000000000000
+      internalID: -3735995219934024905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCorner_LifesBox
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 719
+        width: 241
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca84766d5d6ccd90800000000000000
+      internalID: -7076160666587591998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tab_Bag
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1122
+        width: 255
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56eff664d55765a40800000000000000
+      internalID: 5356597850277936741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tab_Empty
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 980
+        width: 255
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43003fac82a2ebb0800000000000000
+      internalID: -4908181918762138803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tab_Historial
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1175
+        width: 259
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d16e2a24c0438b20800000000000000
+      internalID: 3135420976845447640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tab_Map
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1033
+        width: 255
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af14e108a949a25b0800000000000000
+      internalID: -5392334212527406598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tools_Ca\xF1a1"
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1140
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d213f0842fe50e790800000000000000
+      internalID: -7502892584515194579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tools_Ca\xF1a2"
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1023
+        width: 301
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1732cc3eafaa850800000000000000
+      internalID: 6389194877667865042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tools_Mascara1
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1802
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17e69d858a205ce0800000000000000
+      internalID: -1418587129527212260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tools_Mascara2
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 650
+        width: 299
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f659741364220e950800000000000000
+      internalID: 6476213949028603247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tools_Mosqueton1
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1062
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ef946d0f08fba00800000000000000
+      internalID: 774479432806694443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tools_Mosqueton2
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1615
+        width: 280
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2a5d819399a3200800000000000000
+      internalID: 160609207233913567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tools_Pala1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 884
+        width: 73
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebd3f1ecf00eb380800000000000000
+      internalID: -8953717923043353620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tools_Pala2
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1326
+        width: 272
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd8636de10f36300800000000000000
+      internalID: 244302820041723379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tools_Quinque
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 882
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9114a9de20a6a6b90800000000000000
+      internalID: -7247864089490603751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tools_Quinque2
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 421
+        width: 238
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25760b0ccf01c920800000000000000
+      internalID: 3008703395092919598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tools_Red1
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1725
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ef24274af331f60800000000000000
+      internalID: 8003810938291682834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tools_Red2
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1467
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe9437d75fed66a0800000000000000
+      internalID: -6454239530400309507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tools_Tijeras1
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1881
+        width: 83
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67355512c3df40c0800000000000000
+      internalID: -4589216664732223638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tools_Tijeras2
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1755
+        width: 309
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8062e4452d434bd30800000000000000
+      internalID: 4446236810083706376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToolsBox
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1904
+        width: 825
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a0f78a5dae06d00800000000000000
+      internalID: 964028523633117804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_canvas_botones
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1069
+        width: 488
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5083333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb9956f89f801590800000000000000
+      internalID: -7705501075300049934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vida_cacao_canvas
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 944
+        width: 441
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78451640ee3ffc80800000000000000
+      internalID: -8286835656369026950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCircle
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da8f752df7afa5c0800000000000000
+      internalID: -4201955221615703338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ItemBox_LeftCorner: -6931998392817959393
+      Tools_Mascara1: -1418587129527212260
+      piedra_resurreccion_gde: 1551835054292840265
+      coco_bebida: 1463621435139238216
+      Tools_Red1: 8003810938291682834
+      misiones_descipcion_canvas: 3254593962983139358
+      corona_flores_gde: 4885233475775583932
+      Tools_Tijeras1: -4589216664732223638
+      DescriptionBox_Divider: -3199050088549413070
+      Lifes: -4746094440126761889
+      basura_gde: -6798617430415336529
+      Tab_Map: -5392334212527406598
+      Flecha 3: 679963853517771207
+      boton3.3_copy: 4372803597575206161
+      Tools_Quinque: -7247864089490603751
+      pescado: 2571309276665385765
+      resortera: -3735995219934024905
+      cangrejo_gde: 3294126135849390900
+      Tab_Bag: 5356597850277936741
+      Botella_4: -687396201950346467
+      coco_bebida_gde: 6281437588423953453
+      Misiones_minimizado: -5681984352797596789
+      interaccion: -3731471042344532667
+      Tools_Quinque2: 3008703395092919598
+      Botella_6: -5291618423968664416
+      piedra_resurreccion: 3211258500599456984
+      corona_flores: 6863780634567675632
+      Flower: -8033050013691433640
+      ItemBox_Small: 7375686865553816279
+      Botella_5: -1894571251569686062
+      ItemNumber: -7099824767841454583
+      DescriptionBox: -8306023897889498000
+      Tab_Historial: 3135420976845447640
+      UI_canvas_botones: -7705501075300049934
+      bananas_gdes: 8128599099706550431
+      Tab_Empty: -4908181918762138803
+      Flor_comun: -5168438959376528794
+      Botella_3: -7161791373059898468
+      Botella_2: 4509949678261678953
+      Tools_Mosqueton2: 160609207233913567
+      Tools_Red2: -6454239530400309507
+      Tools_Mascara2: 6476213949028603247
+      basura: 1973007212486090540
+      "Tools_Ca\xF1a2": 6389194877667865042
+      ItemBox_Big: -1881266448387814687
+      ToolsBox: 964028523633117804
+      Tools_Pala2: 244302820041723379
+      fish_tab: -1663688675535588109
+      boton_icono_inventory: -7682074697557575503
+      Tools_Mosqueton1: 774479432806694443
+      flor_comun_gde: 7210711546550421726
+      "Tools_Ca\xF1a1": -7502892584515194579
+      WhiteCircle: -4201955221615703338
+      cacao_gde: 2913763812268154190
+      abono: -8814232520551655133
+      ItemBox_RightCorner: 1423597122847864809
+      flor_especial: 4305365174359407542
+      carambolo: -5902922258104950816
+      flor_especial_gde: 210767263911788401
+      bananas: 3195350438639579537
+      diamante_gde: 7588230788453850457
+      diamante: 4971951864374700707
+      Botella_1: -2176477371184306051
+      vida_cacao_canvas: -8286835656369026950
+      cacaoIcon: 2131223536631260748
+      dialogo: 76517799508747680
+      fish_grid: -605831898725699064
+      Tools_Pala1: -8953717923043353620
+      RightCorner_LifesBox: -7076160666587591998
+      cangrejo: -7691279091549912297
+      boton_mediano: -6469465705297164194
+      Tools_Tijeras2: 4446236810083706376
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

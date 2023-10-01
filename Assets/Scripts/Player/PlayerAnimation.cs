@@ -10,8 +10,8 @@ public class PlayerAnimation : MonoBehaviour
     [SerializeField] private float _currentShirtID = 0;
     [SerializeField] private float _currentPantsID = 0;
 
-    private int[] shirtsUnlocked = new int[0];
-    private int[] pantsUnlocked = new int[0];
+    private List<int> shirtsUnlocked;
+    private List<int> pantsUnlocked;
 
     public static Action<bool> WalkEvent;
     public static Action<bool> BodyFlipEvent;

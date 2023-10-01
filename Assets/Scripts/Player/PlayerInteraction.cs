@@ -5,7 +5,6 @@ using UnityEngine;
 public class PlayerInteraction : MonoBehaviour
 {
     [SerializeField] private Interactable _currentInteractable;
-
     [SerializeField] private bool _canInteract = false;
 
     private void Update()
@@ -16,6 +15,7 @@ public class PlayerInteraction : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.E))
         {
             _currentInteractable.Interact();
+            _canInteract = false;
         }
     }
 
