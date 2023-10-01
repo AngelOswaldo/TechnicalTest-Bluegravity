@@ -1,0 +1,934 @@
+fileFormatVersion: 2
+guid: adcfc0a0ddce8b74ea836fed86e83359
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2003602777987295063
+    second: RESORTERA_00000
+  - first:
+      213: -4022686840784005171
+    second: RESORTERA_00001
+  - first:
+      213: -4274352692859696758
+    second: RESORTERA_00002
+  - first:
+      213: 9040894322677028646
+    second: RESORTERA_00003
+  - first:
+      213: 6422352918655310947
+    second: RESORTERA_00004
+  - first:
+      213: -5058059838959093609
+    second: RESORTERA_00005
+  - first:
+      213: -1672059669558324846
+    second: RESORTERA_00006
+  - first:
+      213: 5553195323940896124
+    second: RESORTERA_00007
+  - first:
+      213: -8698499443946250182
+    second: RESORTERA_00008
+  - first:
+      213: -1822397229766016511
+    second: RESORTERA_00009
+  - first:
+      213: -1469170584868880286
+    second: RESORTERA_00010
+  - first:
+      213: 7146479859328085414
+    second: RESORTERA_00011
+  - first:
+      213: -3357824569640054487
+    second: RESORTERA_00012
+  - first:
+      213: -5775109085936705134
+    second: RESORTERA_00013
+  - first:
+      213: -8177126316753384290
+    second: RESORTERA_00014
+  - first:
+      213: 3444228964023726857
+    second: RESORTERA_00015
+  - first:
+      213: 8342768500607983079
+    second: TOA_SHOT_00000
+  - first:
+      213: 366304601847305239
+    second: TOA_SHOT_00001
+  - first:
+      213: 3128932161162599063
+    second: TOA_SHOT_00002
+  - first:
+      213: 2430945382960223266
+    second: TOA_SHOT_00003
+  - first:
+      213: -4857200603501855277
+    second: TOA_SHOT_00004
+  - first:
+      213: 4493293893961043877
+    second: TOA_SHOT_00005
+  - first:
+      213: 7948860618804254702
+    second: TOA_SHOT_00006
+  - first:
+      213: 5651527370970345915
+    second: TOA_SHOT_00007
+  - first:
+      213: -6907168985230240152
+    second: TOA_SHOT_00008
+  - first:
+      213: -4022485190911636557
+    second: TOA_SHOT_00009
+  - first:
+      213: -815709054277633538
+    second: TOA_SHOT_00010
+  - first:
+      213: -7251818376334556465
+    second: TOA_SHOT_00011
+  - first:
+      213: -99998778385376054
+    second: TOA_SHOT_00012
+  - first:
+      213: -6233922891173549196
+    second: TOA_SHOT_00013
+  - first:
+      213: -7774878692396238661
+    second: TOA_SHOT_00014
+  - first:
+      213: -237017056553961440
+    second: TOA_SHOT_00015
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RESORTERA_00000
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1148
+        width: 95
+        height: 105
+      alignment: 9
+      pivot: {x: -0.9631579, y: 0.48095238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8d41393e5c134e0800000000000000
+      internalID: -2003602777987295063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESORTERA_00001
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1957
+        width: 60
+        height: 90
+      alignment: 9
+      pivot: {x: -1.9583334, y: 0.11666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc75e64a1ab8c28c0800000000000000
+      internalID: -4022686840784005171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESORTERA_00002
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1957
+        width: 60
+        height: 90
+      alignment: 9
+      pivot: {x: -1.9583334, y: 0.11666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a890d515fd27ea4c0800000000000000
+      internalID: -4274352692859696758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESORTERA_00003
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 892
+        width: 181
+        height: 96
+      alignment: 9
+      pivot: {x: 0.08563536, y: 0.036458332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627920b5c75b77d70800000000000000
+      internalID: 9040894322677028646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESORTERA_00004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 888
+        width: 218
+        height: 114
+      alignment: 9
+      pivot: {x: 0.23165138, y: 0.13596492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c94a2d3f7c02950800000000000000
+      internalID: 6422352918655310947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESORTERA_00005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 888
+        width: 218
+        height: 114
+      alignment: 9
+      pivot: {x: 0.23165138, y: 0.13596492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7987c2e00692ec9b0800000000000000
+      internalID: -5058059838959093609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESORTERA_00006
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 785
+        width: 213
+        height: 107
+      alignment: 9
+      pivot: {x: 0.24178404, y: 0.088785045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29118b8e696abc8e0800000000000000
+      internalID: -1672059669558324846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESORTERA_00007
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 888
+        width: 214
+        height: 113
+      alignment: 9
+      pivot: {x: 0.25467288, y: 0.119469024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d7bdb99b9e01d40800000000000000
+      internalID: 5553195323940896124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESORTERA_00008
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 888
+        width: 214
+        height: 113
+      alignment: 9
+      pivot: {x: 0.25467288, y: 0.119469024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30a6a4a7d8b84780800000000000000
+      internalID: -8698499443946250182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESORTERA_00009
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 894
+        width: 214
+        height: 107
+      alignment: 9
+      pivot: {x: 0.2593458, y: 0.07943925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1020420006b85b6e0800000000000000
+      internalID: -1822397229766016511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESORTERA_00010
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 888
+        width: 214
+        height: 113
+      alignment: 9
+      pivot: {x: 0.25467288, y: 0.119469024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260007613257c9be0800000000000000
+      internalID: -1469170584868880286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESORTERA_00011
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 894
+        width: 214
+        height: 107
+      alignment: 9
+      pivot: {x: 0.2593458, y: 0.07943925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adebb181956d2360800000000000000
+      internalID: 7146479859328085414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESORTERA_00012
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 894
+        width: 214
+        height: 107
+      alignment: 9
+      pivot: {x: 0.2593458, y: 0.07943925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921968c285c9661d0800000000000000
+      internalID: -3357824569640054487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESORTERA_00013
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 888
+        width: 214
+        height: 113
+      alignment: 9
+      pivot: {x: 0.25467288, y: 0.119469024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291ac9952e0badfa0800000000000000
+      internalID: -5775109085936705134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESORTERA_00014
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1255
+        width: 102
+        height: 99
+      alignment: 9
+      pivot: {x: -1.1617647, y: 0.0959596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c8a6e60f2058e80800000000000000
+      internalID: -8177126316753384290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESORTERA_00015
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1255
+        width: 102
+        height: 99
+      alignment: 9
+      pivot: {x: -1.1617647, y: 0.0959596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903feb59efb5ccf20800000000000000
+      internalID: 3444228964023726857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SHOT_00000
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1342
+        width: 293
+        height: 353
+      alignment: 9
+      pivot: {x: 0.40784982, y: 0.51699716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed9e0adfb777c370800000000000000
+      internalID: 8342768500607983079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SHOT_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1004
+        width: 289
+        height: 351
+      alignment: 9
+      pivot: {x: 0.4065744, y: 0.517094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71413b83810651500800000000000000
+      internalID: 366304601847305239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SHOT_00002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1004
+        width: 289
+        height: 351
+      alignment: 9
+      pivot: {x: 0.4065744, y: 0.517094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a546809333c6b20800000000000000
+      internalID: 3128932161162599063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SHOT_00003
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1003
+        width: 285
+        height: 351
+      alignment: 9
+      pivot: {x: 0.4122807, y: 0.517094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22458b332f37cb120800000000000000
+      internalID: 2430945382960223266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SHOT_00004
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 990
+        width: 280
+        height: 350
+      alignment: 9
+      pivot: {x: 0.44107142, y: 0.51857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd757129c1c79cb0800000000000000
+      internalID: -4857200603501855277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SHOT_00005
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 990
+        width: 280
+        height: 350
+      alignment: 9
+      pivot: {x: 0.44107142, y: 0.51857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afcaf47df26b5e30800000000000000
+      internalID: 4493293893961043877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SHOT_00006
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1356
+        width: 294
+        height: 346
+      alignment: 9
+      pivot: {x: 0.46768707, y: 0.5245665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee75be03e96005e60800000000000000
+      internalID: 7948860618804254702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SHOT_00007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1357
+        width: 302
+        height: 343
+      alignment: 9
+      pivot: {x: 0.48178807, y: 0.52915454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1b51963324e6e40800000000000000
+      internalID: 5651527370970345915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SHOT_00008
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1704
+        width: 302
+        height: 343
+      alignment: 9
+      pivot: {x: 0.48178807, y: 0.52915454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86691c7576ec420a0800000000000000
+      internalID: -6907168985230240152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SHOT_00009
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1697
+        width: 317
+        height: 350
+      alignment: 9
+      pivot: {x: 0.4747634, y: 0.51857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb4179e7034d28c0800000000000000
+      internalID: -4022485190911636557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SHOT_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1357
+        width: 302
+        height: 343
+      alignment: 9
+      pivot: {x: 0.48178807, y: 0.52915454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef936bbdfe40ea4f0800000000000000
+      internalID: -815709054277633538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SHOT_00011
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1697
+        width: 317
+        height: 350
+      alignment: 9
+      pivot: {x: 0.4747634, y: 0.51857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2cde6cb9d5c5b90800000000000000
+      internalID: -7251818376334556465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SHOT_00012
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1697
+        width: 317
+        height: 350
+      alignment: 9
+      pivot: {x: 0.4747634, y: 0.51857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accdd5014abbc9ef0800000000000000
+      internalID: -99998778385376054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SHOT_00013
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1704
+        width: 302
+        height: 343
+      alignment: 9
+      pivot: {x: 0.48178807, y: 0.52915454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bac62c828ac79a0800000000000000
+      internalID: -6233922891173549196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SHOT_00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1702
+        width: 330
+        height: 345
+      alignment: 9
+      pivot: {x: 0.45909092, y: 0.526087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8f7f7b5051a1490800000000000000
+      internalID: -7774878692396238661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SHOT_00015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1702
+        width: 330
+        height: 345
+      alignment: 9
+      pivot: {x: 0.45909092, y: 0.526087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028746a2e32f5bcf0800000000000000
+      internalID: -237017056553961440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RESORTERA_00008: -8698499443946250182
+      TOA_SHOT_00009: -4022485190911636557
+      RESORTERA_00010: -1469170584868880286
+      TOA_SHOT_00012: -99998778385376054
+      RESORTERA_00006: -1672059669558324846
+      TOA_SHOT_00004: -4857200603501855277
+      TOA_SHOT_00003: 2430945382960223266
+      TOA_SHOT_00006: 7948860618804254702
+      TOA_SHOT_00002: 3128932161162599063
+      TOA_SHOT_00008: -6907168985230240152
+      TOA_SHOT_00007: 5651527370970345915
+      RESORTERA_00003: 9040894322677028646
+      TOA_SHOT_00015: -237017056553961440
+      RESORTERA_00014: -8177126316753384290
+      TOA_SHOT_00005: 4493293893961043877
+      TOA_SHOT_00010: -815709054277633538
+      TOA_SHOT_00001: 366304601847305239
+      RESORTERA_00015: 3444228964023726857
+      RESORTERA_00011: 7146479859328085414
+      RESORTERA_00001: -4022686840784005171
+      TOA_SHOT_00000: 8342768500607983079
+      TOA_SHOT_00014: -7774878692396238661
+      TOA_SHOT_00013: -6233922891173549196
+      RESORTERA_00013: -5775109085936705134
+      RESORTERA_00002: -4274352692859696758
+      RESORTERA_00007: 5553195323940896124
+      RESORTERA_00004: 6422352918655310947
+      RESORTERA_00000: -2003602777987295063
+      RESORTERA_00005: -5058059838959093609
+      RESORTERA_00012: -3357824569640054487
+      RESORTERA_00009: -1822397229766016511
+      TOA_SHOT_00011: -7251818376334556465
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

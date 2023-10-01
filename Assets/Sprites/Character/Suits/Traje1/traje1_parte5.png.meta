@@ -1,0 +1,2404 @@
+fileFormatVersion: 2
+guid: 4ebde0bea3fe63d4e961c6bb745ce152
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3403970201764828928
+    second: PANTS-TOA_T1_PANTS_TIRAR_00000
+  - first:
+      213: -9136704731776071424
+    second: PANTS-TOA_T1_PANTS_TIRAR_00001
+  - first:
+      213: -7735421255534098190
+    second: PANTS-TOA_T1_PANTS_TIRAR_00002
+  - first:
+      213: 6092421184785013596
+    second: PANTS-TOA_T1_PANTS_TIRAR_00003
+  - first:
+      213: -5385133930427611184
+    second: PANTS-TOA_T1_PANTS_TIRAR_00004
+  - first:
+      213: -8614005318154186458
+    second: PANTS-TOA_T1_PANTS_TIRAR_00005
+  - first:
+      213: 831548408505534529
+    second: PANTS-TOA_T1_PANTS_TIRAR_00006
+  - first:
+      213: 5381353830949071618
+    second: PANTS-TOA_T1_PANTS_TIRAR_00007
+  - first:
+      213: 1318711412102872992
+    second: PANTS-TOA_T1_PANTS_TIRAR_00008
+  - first:
+      213: -7568642116183414420
+    second: PANTS-TOA_T1_PANTS_TIRAR_00009
+  - first:
+      213: -7885259611981131430
+    second: PANTS-TOA_T1_PANTS_TIRAR_00010
+  - first:
+      213: 5341243875735631099
+    second: PANTS-TOA_T1_PANTS_TIRAR_00011
+  - first:
+      213: 611164224943320978
+    second: PANTS-TOA_T1_PANTS_TIRAR_00012
+  - first:
+      213: 2439018052570418955
+    second: PANTS-TOA_T1_PANTS_TIRAR_00013
+  - first:
+      213: 3536491941297341116
+    second: PANTS-TOA_T1_PANTS_TIRAR_00014
+  - first:
+      213: -8346697699461563039
+    second: PANTS-TOA_T1_PANTS_TIRAR_00015
+  - first:
+      213: 4677493738088088673
+    second: PANTS-TOA_T1_PANTS_TIRAR_00016
+  - first:
+      213: -2972315159538981420
+    second: PANTS-TOA_T1_PANTS_TIRAR_00017
+  - first:
+      213: -4278782848942240090
+    second: PANTS-TOA_T1_PANTS_TIRAR_00018
+  - first:
+      213: 2403333344735665132
+    second: PANTS-TOA_T1_PANTS_TIRAR_00019
+  - first:
+      213: 2016842872287374800
+    second: PANTS-TOA_T1_PANTS_TIRAR_00020
+  - first:
+      213: 5624920662412357382
+    second: PANTS-TOA_T1_PANTS_TIRAR_00021
+  - first:
+      213: -2434998464113212496
+    second: PANTS-TOA_T1_PANTS_TIRAR_00022
+  - first:
+      213: 8269555150133536418
+    second: PANTS-TOA_T1_PANTS_TIRAR_00023
+  - first:
+      213: 7438428998645260916
+    second: PANTS-TOA_T1_PANTS_TIRAR_00024
+  - first:
+      213: 7666755287060332656
+    second: PANTS-TOA_T1_PANTS_TIRAR_00025
+  - first:
+      213: -6146567784983605590
+    second: PANTS-TOA_T1_PANTS_TIRAR_00026
+  - first:
+      213: 2510849029549812258
+    second: PANTS-TOA_T1_PANTS_TIRAR_00027
+  - first:
+      213: -1609363218507898875
+    second: PANTS-TOA_T1_PANTS_TIRAR_00028
+  - first:
+      213: 3352222363163322725
+    second: PANTS-TOA_T1_PANTS_TIRAR_00029
+  - first:
+      213: -7581661511667155530
+    second: PANTS-TOA_T1_PANTS_TIRAR_00030
+  - first:
+      213: 8002024196950262056
+    second: PANTS-TOA_T1_PANTS_TIRAR_00031
+  - first:
+      213: 3211048023424971937
+    second: PANTS-TOA_T1_PANTS_TIROLEZA_00000
+  - first:
+      213: 6077634064824218230
+    second: PANTS-TOA_T1_PANTS_TIROLEZA_00001
+  - first:
+      213: 5572223063756095832
+    second: PANTS-TOA_T1_PANTS_TIROLEZA_00002
+  - first:
+      213: 4267134372971665784
+    second: PANTS-TOA_T1_PANTS_TIROLEZA_00003
+  - first:
+      213: 6568074711950361049
+    second: PANTS-TOA_T1_PANTS_TIROLEZA_00004
+  - first:
+      213: -8094799396034786123
+    second: PANTS-TOA_T1_PANTS_TIROLEZA_00005
+  - first:
+      213: -7755103437548327930
+    second: PANTS-TOA_T1_PANTS_TIROLEZA_00006
+  - first:
+      213: -1014335377656986991
+    second: PANTS-TOA_T1_PANTS_TIROLEZA_00007
+  - first:
+      213: 7237558788245821261
+    second: PANTS-TOA_T1_PANTS_TIROLEZA_00008
+  - first:
+      213: 6865275948717200463
+    second: PANTS-TOA_T1_PANTS_TIROLEZA_00009
+  - first:
+      213: -6647720871419437986
+    second: PANTS-TOA_T1_PANTS_TIROLEZA_00010
+  - first:
+      213: 1209332678011298060
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00000
+  - first:
+      213: 2239049044427102826
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00001
+  - first:
+      213: -994306053917850042
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00002
+  - first:
+      213: 1015983908361723984
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00003
+  - first:
+      213: -5362237307312541097
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00004
+  - first:
+      213: 9124016986704984700
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00005
+  - first:
+      213: 5324422917011708211
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00006
+  - first:
+      213: 8832938292141014003
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00007
+  - first:
+      213: 4897133721720926878
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00008
+  - first:
+      213: -831555862603812644
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00009
+  - first:
+      213: 7212210900085163891
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00010
+  - first:
+      213: 8775463531557461382
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00011
+  - first:
+      213: 6140892086442124352
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00012
+  - first:
+      213: 5304091767284282822
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00013
+  - first:
+      213: -8622111046745053960
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00014
+  - first:
+      213: -5029160766254331472
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00015
+  - first:
+      213: 4583628753635383811
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00016
+  - first:
+      213: -3648332349333662650
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00017
+  - first:
+      213: -8478678239279707587
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00018
+  - first:
+      213: -5259657698746811015
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00019
+  - first:
+      213: 4264503532796310916
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00020
+  - first:
+      213: -356675745223981482
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00021
+  - first:
+      213: 2627695315315374220
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00022
+  - first:
+      213: -2364224018528080723
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00023
+  - first:
+      213: 1157436076680317821
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00024
+  - first:
+      213: -3458765981827914516
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00025
+  - first:
+      213: -5527456882070819959
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00026
+  - first:
+      213: 2507762293625062110
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00027
+  - first:
+      213: -1978933353701347243
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00028
+  - first:
+      213: 3177951836034074749
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00029
+  - first:
+      213: -740891057352964953
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00030
+  - first:
+      213: -9184058147089316137
+    second: SHIRT-TOA_T1_SHIRT_TIRAR_00031
+  - first:
+      213: -8319371448249203890
+    second: SHIRT-TOA_T1_SHIRT_TIROLEZA_00000
+  - first:
+      213: 5427903200725511626
+    second: SHIRT-TOA_T1_SHIRT_TIROLEZA_00001
+  - first:
+      213: -3953803301127083289
+    second: SHIRT-TOA_T1_SHIRT_TIROLEZA_00002
+  - first:
+      213: 1276478218790476913
+    second: SHIRT-TOA_T1_SHIRT_TIROLEZA_00003
+  - first:
+      213: -3231126644727932087
+    second: SHIRT-TOA_T1_SHIRT_TIROLEZA_00004
+  - first:
+      213: -8424217895298109033
+    second: SHIRT-TOA_T1_SHIRT_TIROLEZA_00005
+  - first:
+      213: 6302885238591800246
+    second: SHIRT-TOA_T1_SHIRT_TIROLEZA_00006
+  - first:
+      213: -8109090138503922896
+    second: SHIRT-TOA_T1_SHIRT_TIROLEZA_00007
+  - first:
+      213: -1292924087624157632
+    second: SHIRT-TOA_T1_SHIRT_TIROLEZA_00008
+  - first:
+      213: 6800465606612017189
+    second: SHIRT-TOA_T1_SHIRT_TIROLEZA_00009
+  - first:
+      213: -722171678956427380
+    second: SHIRT-TOA_T1_SHIRT_TIROLEZA_00010
+  - first:
+      213: -2455667325256736606
+    second: PANTS-POSTIT_PANTS01
+  - first:
+      213: 3994993297012984467
+    second: PANTS-POSTIT_PANTS02
+  - first:
+      213: -5733696106713803037
+    second: PANTS-POSTIT_PANTS03
+  - first:
+      213: 7628351430751209858
+    second: PANTS-POSTIT_PANTS04
+  - first:
+      213: 2862679638727252852
+    second: PANTS-POSTIT_PANTS05
+  - first:
+      213: 2982110063778397408
+    second: PANTS-POSTIT_PANTS06
+  - first:
+      213: 8715797004836243528
+    second: PANTS-POSTIT_PANTS07
+  - first:
+      213: 6139217711143421630
+    second: PANTS-POSTIT_PANTS08
+  - first:
+      213: 5578696890314792579
+    second: PANTS-POSTIT_PANTS09
+  - first:
+      213: -3259902193878631454
+    second: PANTS-POSTIT_PANTS10
+  - first:
+      213: 8398733489176805755
+    second: PANTS-POSTIT_PANTS11
+  - first:
+      213: 7887864436488367725
+    second: PANTS-POSTIT_PANTS12
+  - first:
+      213: 4117976978540874789
+    second: PANTS-POSTIT_PANTS13
+  - first:
+      213: 5004121396488852348
+    second: PANTS-POSTIT_PANTS14
+  - first:
+      213: -6757228033843341596
+    second: PANTS-POSTIT_PANTS15
+  - first:
+      213: -4106551603641978763
+    second: PANTS-POSTIT_PANTS16
+  - first:
+      213: -792019849003649952
+    second: PANTS-POSTIT_PANTS17
+  - first:
+      213: 6969062368907180013
+    second: PANTS-POSTIT_PANTS18
+  - first:
+      213: -182358929091736933
+    second: PANTS-POSTIT_PANTS19
+  - first:
+      213: -5851024225713815613
+    second: PANTS-POSTIT_PANTS20
+  - first:
+      213: 2574609013570304454
+    second: SHIRT-POSTIT_SHIRT01
+  - first:
+      213: -5435769254414734013
+    second: SHIRT-POSTIT_SHIRT02
+  - first:
+      213: -757858198346451024
+    second: SHIRT-POSTIT_SHIRT03
+  - first:
+      213: 6120227055778057208
+    second: SHIRT-POSTIT_SHIRT04
+  - first:
+      213: -2247329709521850568
+    second: SHIRT-POSTIT_SHIRT05
+  - first:
+      213: 8585302750639327096
+    second: SHIRT-POSTIT_SHIRT06
+  - first:
+      213: 6296078659328076740
+    second: SHIRT-POSTIT_SHIRT07
+  - first:
+      213: -3557298349792741238
+    second: SHIRT-POSTIT_SHIRT08
+  - first:
+      213: -7192930457862052318
+    second: SHIRT-POSTIT_SHIRT09
+  - first:
+      213: -3838266689273411141
+    second: SHIRT-POSTIT_SHIRT10
+  - first:
+      213: 6844775367500967267
+    second: SHIRT-POSTIT_SHIRT11
+  - first:
+      213: -5847065515538238488
+    second: SHIRT-POSTIT_SHIRT12
+  - first:
+      213: -2013297000241599871
+    second: SHIRT-POSTIT_SHIRT13
+  - first:
+      213: -5627128823827031441
+    second: SHIRT-POSTIT_SHIRT14
+  - first:
+      213: 6819283957922500143
+    second: SHIRT-POSTIT_SHIRT15
+  - first:
+      213: 3694152794160518046
+    second: SHIRT-POSTIT_SHIRT16
+  - first:
+      213: -2505456933020406441
+    second: SHIRT-POSTIT_SHIRT17
+  - first:
+      213: -6066686595503364779
+    second: SHIRT-POSTIT_SHIRT18
+  - first:
+      213: -2002920201615397608
+    second: SHIRT-POSTIT_SHIRT19
+  - first:
+      213: 5539452348949909707
+    second: SHIRT-POSTIT_SHIRT20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1467
+        width: 252
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5257937, y: 1.5041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007153e0dd45d3f20800000000000000
+      internalID: 3403970201764828928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00001
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 985
+        width: 240
+        height: 117
+      alignment: 9
+      pivot: {x: 0.46875, y: 1.5427351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0094bdc6477e33180800000000000000
+      internalID: -9136704731776071424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00002
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 985
+        width: 240
+        height: 117
+      alignment: 9
+      pivot: {x: 0.46875, y: 1.5427351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f842e32a5346a490800000000000000
+      internalID: -7735421255534098190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00003
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1219
+        width: 245
+        height: 121
+      alignment: 9
+      pivot: {x: 0.4755102, y: 1.5661157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bdc2dd9c0ac8450800000000000000
+      internalID: 6092421184785013596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00004
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1104
+        width: 242
+        height: 113
+      alignment: 9
+      pivot: {x: 0.46900827, y: 1.6061947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d785f0d8392445b0800000000000000
+      internalID: -5385133930427611184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00005
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1104
+        width: 242
+        height: 113
+      alignment: 9
+      pivot: {x: 0.46900827, y: 1.6061947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62118165dc7e47880800000000000000
+      internalID: -8614005318154186458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00006
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1034
+        width: 242
+        height: 113
+      alignment: 9
+      pivot: {x: 0.46900827, y: 1.6061947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148838e2fd04a8b00800000000000000
+      internalID: 831548408505534529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00007
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1034
+        width: 242
+        height: 113
+      alignment: 9
+      pivot: {x: 0.46900827, y: 1.6061947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b28603cc86eaa40800000000000000
+      internalID: 5381353830949071618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 943
+        width: 242
+        height: 113
+      alignment: 9
+      pivot: {x: 0.46900827, y: 1.6061947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af35afda010d4210800000000000000
+      internalID: 1318711412102872992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 943
+        width: 242
+        height: 113
+      alignment: 9
+      pivot: {x: 0.46900827, y: 1.6061947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69a3d08818c6f690800000000000000
+      internalID: -7568642116183414420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 943
+        width: 242
+        height: 113
+      alignment: 9
+      pivot: {x: 0.46900827, y: 1.6061947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51512a292ee19290800000000000000
+      internalID: -7885259611981131430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00011
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1060
+        width: 242
+        height: 113
+      alignment: 9
+      pivot: {x: 0.46900827, y: 1.6061947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4f3ff7109ef1a40800000000000000
+      internalID: 5341243875735631099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00012
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 524
+        width: 228
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5153509, y: 1.6261262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f6c2fdf9a4b7800800000000000000
+      internalID: 611164224943320978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00013
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 524
+        width: 228
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5153509, y: 1.6261262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f89301ff129d120800000000000000
+      internalID: 2439018052570418955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00014
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 873
+        width: 235
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5382979, y: 1.6409091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb24f08fea4241130800000000000000
+      internalID: 3536491941297341116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00015
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 873
+        width: 235
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5382979, y: 1.6409091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16df5004aa29a2c80800000000000000
+      internalID: -8346697699461563039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00016
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 329
+        width: 220
+        height: 112
+      alignment: 9
+      pivot: {x: 0.48863637, y: 1.6205357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164cad9b5cbc9e040800000000000000
+      internalID: 4677493738088088673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00017
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 329
+        width: 220
+        height: 112
+      alignment: 9
+      pivot: {x: 0.48863637, y: 1.6205357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5ab234c1730c6d0800000000000000
+      internalID: -2972315159538981420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00018
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 329
+        width: 220
+        height: 112
+      alignment: 9
+      pivot: {x: 0.48863637, y: 1.6205357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae83c93ba5be94c0800000000000000
+      internalID: -4278782848942240090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00019
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1621
+        width: 255
+        height: 117
+      alignment: 9
+      pivot: {x: 0.4764706, y: 1.551282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb12d191fa5a5120800000000000000
+      internalID: 2403333344735665132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1058
+        width: 246
+        height: 123
+      alignment: 9
+      pivot: {x: 0.46544716, y: 1.5243902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dda77a18e34dfb10800000000000000
+      internalID: 2016842872287374800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1058
+        width: 246
+        height: 123
+      alignment: 9
+      pivot: {x: 0.46544716, y: 1.5243902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fe7d45a8bbf0e40800000000000000
+      internalID: 5624920662412357382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00022
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1589
+        width: 254
+        height: 120
+      alignment: 9
+      pivot: {x: 0.52952754, y: 1.5041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b309ed4cc5253ed0800000000000000
+      internalID: -2434998464113212496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00023
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1589
+        width: 254
+        height: 120
+      alignment: 9
+      pivot: {x: 0.52952754, y: 1.5041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a62636589c53c270800000000000000
+      internalID: 8269555150133536418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00024
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1589
+        width: 254
+        height: 120
+      alignment: 9
+      pivot: {x: 0.52952754, y: 1.5041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472273783cb9a3760800000000000000
+      internalID: 7438428998645260916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00025
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1589
+        width: 254
+        height: 120
+      alignment: 9
+      pivot: {x: 0.52952754, y: 1.5041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07044193059c56a60800000000000000
+      internalID: 7666755287060332656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00026
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1589
+        width: 254
+        height: 120
+      alignment: 9
+      pivot: {x: 0.52952754, y: 1.5041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae413c5a2103baa0800000000000000
+      internalID: -6146567784983605590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00027
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1589
+        width: 254
+        height: 120
+      alignment: 9
+      pivot: {x: 0.52952754, y: 1.5041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a63faa3e358d220800000000000000
+      internalID: 2510849029549812258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00028
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1589
+        width: 254
+        height: 120
+      alignment: 9
+      pivot: {x: 0.52952754, y: 1.5041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500e146fda46aa9e0800000000000000
+      internalID: -1609363218507898875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00029
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1589
+        width: 254
+        height: 120
+      alignment: 9
+      pivot: {x: 0.52952754, y: 1.5041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569687c7a7c758e20800000000000000
+      internalID: 3352222363163322725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00030
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1589
+        width: 254
+        height: 120
+      alignment: 9
+      pivot: {x: 0.52952754, y: 1.5041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdf3d5460788c690800000000000000
+      internalID: -7581661511667155530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIRAR_00031
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1589
+        width: 254
+        height: 120
+      alignment: 9
+      pivot: {x: 0.52952754, y: 1.5041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8210d4f4c96ec0f60800000000000000
+      internalID: 8002024196950262056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIROLEZA_00000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 237
+        width: 222
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5067568, y: 1.3848921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a437f81a2fef8c20800000000000000
+      internalID: 3211048023424971937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIROLEZA_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 237
+        width: 222
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5067568, y: 1.3848921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67239a43bf7185450800000000000000
+      internalID: 6077634064824218230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIROLEZA_00002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 378
+        width: 229
+        height: 143
+      alignment: 9
+      pivot: {x: 0.49563318, y: 1.3671329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851cb648a53845d40800000000000000
+      internalID: 5572223063756095832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIROLEZA_00003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 378
+        width: 229
+        height: 143
+      alignment: 9
+      pivot: {x: 0.49563318, y: 1.3671329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879d5dd9a18e73b30800000000000000
+      internalID: 4267134372971665784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIROLEZA_00004
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 95
+        width: 220
+        height: 140
+      alignment: 9
+      pivot: {x: 0.42954546, y: 1.3821429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d10700c62d762b50800000000000000
+      internalID: 6568074711950361049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIROLEZA_00005
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 319
+        width: 222
+        height: 143
+      alignment: 9
+      pivot: {x: 0.40765765, y: 1.3601398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bccc4f56de79af80800000000000000
+      internalID: -8094799396034786123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIROLEZA_00006
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 319
+        width: 222
+        height: 143
+      alignment: 9
+      pivot: {x: 0.40765765, y: 1.3601398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c65880386506490800000000000000
+      internalID: -7755103437548327930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIROLEZA_00007
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 253
+        width: 217
+        height: 132
+      alignment: 9
+      pivot: {x: 0.38018432, y: 1.405303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192c4a3295b5ce1f0800000000000000
+      internalID: -1014335377656986991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIROLEZA_00008
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 387
+        width: 221
+        height: 135
+      alignment: 9
+      pivot: {x: 0.4638009, y: 1.4111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4716662f59f07460800000000000000
+      internalID: 7237558788245821261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIROLEZA_00009
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 387
+        width: 221
+        height: 135
+      alignment: 9
+      pivot: {x: 0.4638009, y: 1.4111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4452500a1c564f50800000000000000
+      internalID: 6865275948717200463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_TIROLEZA_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 84
+        width: 221
+        height: 151
+      alignment: 9
+      pivot: {x: 0.49095023, y: 1.3609271}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c181da61d8eb3a0800000000000000
+      internalID: -6647720871419437986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00000
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1740
+        width: 281
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5142349, y: 0.7195946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01a220d9a968c010800000000000000
+      internalID: 1209332678011298060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00001
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 443
+        width: 223
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5044843, y: 0.68543047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a51cf2e33b21f10800000000000000
+      internalID: 2239049044427102826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00002
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 443
+        width: 223
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5044843, y: 0.68543047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646c43a79e38332f0800000000000000
+      internalID: -994306053917850042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00003
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 734
+        width: 234
+        height: 137
+      alignment: 9
+      pivot: {x: 0.50641024, y: 0.73357666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050e9635bff791e00800000000000000
+      internalID: 1015983908361723984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00004
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 596
+        width: 232
+        height: 136
+      alignment: 9
+      pivot: {x: 0.51508623, y: 0.7316176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752f94054918595b0800000000000000
+      internalID: -5362237307312541097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00005
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 596
+        width: 232
+        height: 136
+      alignment: 9
+      pivot: {x: 0.51508623, y: 0.7316176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a3e29bb150f9e70800000000000000
+      internalID: 9124016986704984700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 523
+        width: 233
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5171674, y: 0.7316176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3399e6ade6624e940800000000000000
+      internalID: 5324422917011708211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 523
+        width: 233
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5171674, y: 0.7316176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbb20ae396e49a70800000000000000
+      internalID: 8832938292141014003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00008
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 602
+        width: 233
+        height: 137
+      alignment: 9
+      pivot: {x: 0.50429183, y: 0.73357666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9233cc7c2d16f340800000000000000
+      internalID: 4897133721720926878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00009
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 464
+        width: 232
+        height: 136
+      alignment: 9
+      pivot: {x: 0.51508623, y: 0.7316176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd03b964958b574f0800000000000000
+      internalID: -831555862603812644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00010
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 464
+        width: 232
+        height: 136
+      alignment: 9
+      pivot: {x: 0.51508623, y: 0.7316176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377c6c80a9be61460800000000000000
+      internalID: 7212210900085163891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00011
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 637
+        width: 232
+        height: 138
+      alignment: 9
+      pivot: {x: 0.51939654, y: 0.73550725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d90e96695b8c970800000000000000
+      internalID: 8775463531557461382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00012
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1175
+        width: 244
+        height: 165
+      alignment: 9
+      pivot: {x: 0.48565573, y: 0.6393939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044e36811d4d83550800000000000000
+      internalID: 6140892086442124352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00013
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1175
+        width: 244
+        height: 165
+      alignment: 9
+      pivot: {x: 0.48565573, y: 0.6393939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5bd0d2c5beb9940800000000000000
+      internalID: 5304091767284282822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00014
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1866
+        width: 324
+        height: 181
+      alignment: 9
+      pivot: {x: 0.48919752, y: 0.5607735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f42ac45fab185880800000000000000
+      internalID: -8622111046745053960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00015
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1866
+        width: 324
+        height: 181
+      alignment: 9
+      pivot: {x: 0.48919752, y: 0.5607735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b94411cde4d43ab0800000000000000
+      internalID: -5029160766254331472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1871
+        width: 332
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5165663, y: 0.5880682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a14baf0125c9f30800000000000000
+      internalID: 4583628753635383811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1871
+        width: 332
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5165663, y: 0.5880682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6449667de058e5dc0800000000000000
+      internalID: -3648332349333662650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00018
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1871
+        width: 332
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5165663, y: 0.5880682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a06e6301fa55a80800000000000000
+      internalID: -8478678239279707587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1711
+        width: 300
+        height: 158
+      alignment: 9
+      pivot: {x: 0.495, y: 0.636076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d3c0a9031f107b0800000000000000
+      internalID: -5259657698746811015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00020
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1890
+        width: 294
+        height: 157
+      alignment: 9
+      pivot: {x: 0.48809522, y: 0.66560507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485f8b76e5f8e2b30800000000000000
+      internalID: 4264503532796310916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00021
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1890
+        width: 294
+        height: 157
+      alignment: 9
+      pivot: {x: 0.48809522, y: 0.66560507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6564de9ac45dc0bf0800000000000000
+      internalID: -356675745223981482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00022
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1718
+        width: 280
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.71575344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88b45797f2777420800000000000000
+      internalID: 2627695315315374220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00023
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1718
+        width: 280
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.71575344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacef2608c6903fd0800000000000000
+      internalID: -2364224018528080723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00024
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1718
+        width: 280
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.71575344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b80c8baf9001010800000000000000
+      internalID: 1157436076680317821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00025
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1718
+        width: 280
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.71575344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce421f33aaeffffc0800000000000000
+      internalID: -3458765981827914516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00026
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1718
+        width: 280
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.71575344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b61e060478a43b0800000000000000
+      internalID: -5527456882070819959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00027
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1718
+        width: 280
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.71575344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed204a4f48c5dc220800000000000000
+      internalID: 2507762293625062110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00028
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1718
+        width: 280
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.71575344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5507572899a6984e0800000000000000
+      internalID: -1978933353701347243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00029
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1718
+        width: 280
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.71575344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d788c1c7b5a5a1c20800000000000000
+      internalID: 3177951836034074749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00030
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1718
+        width: 280
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.71575344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4863d3283d7b5f0800000000000000
+      internalID: -740891057352964953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIRAR_00031
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1718
+        width: 280
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.71575344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6853246cbab8080800000000000000
+      internalID: -9184058147089316137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIROLEZA_00000
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 741
+        width: 239
+        height: 291
+      alignment: 9
+      pivot: {x: 0.5376569, y: 0.32130584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e434498eeb7ab8c80800000000000000
+      internalID: -8319371448249203890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIROLEZA_00001
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 741
+        width: 239
+        height: 291
+      alignment: 9
+      pivot: {x: 0.5376569, y: 0.32130584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd237ae339c35b40800000000000000
+      internalID: 5427903200725511626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIROLEZA_00002
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 777
+        width: 237
+        height: 281
+      alignment: 9
+      pivot: {x: 0.5084388, y: 0.33629894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eaad8488d44129c0800000000000000
+      internalID: -3953803301127083289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIROLEZA_00003
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 777
+        width: 237
+        height: 281
+      alignment: 9
+      pivot: {x: 0.5084388, y: 0.33629894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c978a4d26f6b110800000000000000
+      internalID: 1276478218790476913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIROLEZA_00004
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1342
+        width: 250
+        height: 277
+      alignment: 9
+      pivot: {x: 0.482, y: 0.32310468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b11b49f6bb823d0800000000000000
+      internalID: -3231126644727932087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIROLEZA_00005
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1149
+        width: 249
+        height: 288
+      alignment: 9
+      pivot: {x: 0.4678715, y: 0.328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7917448257a271b80800000000000000
+      internalID: -8424217895298109033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIROLEZA_00006
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1149
+        width: 249
+        height: 288
+      alignment: 9
+      pivot: {x: 0.4678715, y: 0.328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3415afab8587750800000000000000
+      internalID: 6302885238591800246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIROLEZA_00007
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1439
+        width: 254
+        height: 277
+      alignment: 9
+      pivot: {x: 0.4547244, y: 0.32310468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bb9da9b79b67f80800000000000000
+      internalID: -8109090138503922896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIROLEZA_00008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1183
+        width: 250
+        height: 282
+      alignment: 9
+      pivot: {x: 0.51, y: 0.33156028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046bd9b746c9e0ee0800000000000000
+      internalID: -1292924087624157632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIROLEZA_00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1183
+        width: 250
+        height: 282
+      alignment: 9
+      pivot: {x: 0.51, y: 0.33156028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520ee55507b106e50800000000000000
+      internalID: 6800465606612017189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_TIROLEZA_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 661
+        width: 239
+        height: 280
+      alignment: 9
+      pivot: {x: 0.5083682, y: 0.33392859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8764f82fa45af5f0800000000000000
+      internalID: -722171678956427380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PANTS-TOA_T1_PANTS_TIRAR_00019: 2403333344735665132
+      SHIRT-TOA_T1_SHIRT_TIROLEZA_00003: 1276478218790476913
+      PANTS-TOA_T1_PANTS_TIROLEZA_00005: -8094799396034786123
+      SHIRT-TOA_T1_SHIRT_TIRAR_00003: 1015983908361723984
+      SHIRT-TOA_T1_SHIRT_TIRAR_00008: 4897133721720926878
+      SHIRT-TOA_T1_SHIRT_TIRAR_00015: -5029160766254331472
+      PANTS-TOA_T1_PANTS_TIRAR_00031: 8002024196950262056
+      PANTS-TOA_T1_PANTS_TIRAR_00001: -9136704731776071424
+      SHIRT-TOA_T1_SHIRT_TIRAR_00005: 9124016986704984700
+      PANTS-TOA_T1_PANTS_TIROLEZA_00009: 6865275948717200463
+      SHIRT-TOA_T1_SHIRT_TIROLEZA_00009: 6800465606612017189
+      SHIRT-TOA_T1_SHIRT_TIRAR_00011: 8775463531557461382
+      SHIRT-TOA_T1_SHIRT_TIROLEZA_00002: -3953803301127083289
+      SHIRT-TOA_T1_SHIRT_TIROLEZA_00010: -722171678956427380
+      SHIRT-TOA_T1_SHIRT_TIRAR_00014: -8622111046745053960
+      SHIRT-TOA_T1_SHIRT_TIRAR_00010: 7212210900085163891
+      PANTS-TOA_T1_PANTS_TIRAR_00026: -6146567784983605590
+      PANTS-TOA_T1_PANTS_TIROLEZA_00003: 4267134372971665784
+      SHIRT-TOA_T1_SHIRT_TIRAR_00030: -740891057352964953
+      PANTS-TOA_T1_PANTS_TIROLEZA_00001: 6077634064824218230
+      SHIRT-TOA_T1_SHIRT_TIROLEZA_00000: -8319371448249203890
+      PANTS-TOA_T1_PANTS_TIRAR_00023: 8269555150133536418
+      SHIRT-TOA_T1_SHIRT_TIRAR_00002: -994306053917850042
+      PANTS-TOA_T1_PANTS_TIRAR_00029: 3352222363163322725
+      SHIRT-TOA_T1_SHIRT_TIRAR_00016: 4583628753635383811
+      PANTS-TOA_T1_PANTS_TIRAR_00000: 3403970201764828928
+      PANTS-TOA_T1_PANTS_TIRAR_00014: 3536491941297341116
+      SHIRT-TOA_T1_SHIRT_TIRAR_00009: -831555862603812644
+      PANTS-TOA_T1_PANTS_TIRAR_00009: -7568642116183414420
+      PANTS-TOA_T1_PANTS_TIRAR_00030: -7581661511667155530
+      SHIRT-TOA_T1_SHIRT_TIROLEZA_00004: -3231126644727932087
+      PANTS-TOA_T1_PANTS_TIRAR_00007: 5381353830949071618
+      SHIRT-TOA_T1_SHIRT_TIRAR_00000: 1209332678011298060
+      SHIRT-TOA_T1_SHIRT_TIROLEZA_00008: -1292924087624157632
+      PANTS-TOA_T1_PANTS_TIRAR_00020: 2016842872287374800
+      SHIRT-TOA_T1_SHIRT_TIROLEZA_00006: 6302885238591800246
+      PANTS-TOA_T1_PANTS_TIROLEZA_00010: -6647720871419437986
+      PANTS-TOA_T1_PANTS_TIRAR_00006: 831548408505534529
+      SHIRT-TOA_T1_SHIRT_TIRAR_00019: -5259657698746811015
+      SHIRT-TOA_T1_SHIRT_TIRAR_00020: 4264503532796310916
+      PANTS-TOA_T1_PANTS_TIRAR_00025: 7666755287060332656
+      PANTS-TOA_T1_PANTS_TIROLEZA_00007: -1014335377656986991
+      PANTS-TOA_T1_PANTS_TIROLEZA_00004: 6568074711950361049
+      SHIRT-TOA_T1_SHIRT_TIRAR_00023: -2364224018528080723
+      PANTS-TOA_T1_PANTS_TIRAR_00027: 2510849029549812258
+      PANTS-TOA_T1_PANTS_TIRAR_00004: -5385133930427611184
+      PANTS-TOA_T1_PANTS_TIROLEZA_00008: 7237558788245821261
+      PANTS-TOA_T1_PANTS_TIRAR_00015: -8346697699461563039
+      PANTS-TOA_T1_PANTS_TIRAR_00021: 5624920662412357382
+      SHIRT-TOA_T1_SHIRT_TIRAR_00031: -9184058147089316137
+      PANTS-TOA_T1_PANTS_TIROLEZA_00000: 3211048023424971937
+      PANTS-TOA_T1_PANTS_TIROLEZA_00006: -7755103437548327930
+      PANTS-TOA_T1_PANTS_TIRAR_00024: 7438428998645260916
+      SHIRT-TOA_T1_SHIRT_TIRAR_00028: -1978933353701347243
+      SHIRT-TOA_T1_SHIRT_TIRAR_00017: -3648332349333662650
+      SHIRT-TOA_T1_SHIRT_TIRAR_00018: -8478678239279707587
+      SHIRT-TOA_T1_SHIRT_TIROLEZA_00005: -8424217895298109033
+      SHIRT-TOA_T1_SHIRT_TIRAR_00004: -5362237307312541097
+      SHIRT-TOA_T1_SHIRT_TIRAR_00013: 5304091767284282822
+      PANTS-TOA_T1_PANTS_TIRAR_00028: -1609363218507898875
+      PANTS-TOA_T1_PANTS_TIRAR_00010: -7885259611981131430
+      PANTS-TOA_T1_PANTS_TIRAR_00013: 2439018052570418955
+      PANTS-TOA_T1_PANTS_TIRAR_00016: 4677493738088088673
+      SHIRT-TOA_T1_SHIRT_TIROLEZA_00007: -8109090138503922896
+      PANTS-TOA_T1_PANTS_TIRAR_00011: 5341243875735631099
+      SHIRT-TOA_T1_SHIRT_TIRAR_00007: 8832938292141014003
+      SHIRT-TOA_T1_SHIRT_TIRAR_00022: 2627695315315374220
+      SHIRT-TOA_T1_SHIRT_TIRAR_00001: 2239049044427102826
+      SHIRT-TOA_T1_SHIRT_TIRAR_00021: -356675745223981482
+      SHIRT-TOA_T1_SHIRT_TIRAR_00027: 2507762293625062110
+      PANTS-TOA_T1_PANTS_TIRAR_00005: -8614005318154186458
+      PANTS-TOA_T1_PANTS_TIRAR_00022: -2434998464113212496
+      SHIRT-TOA_T1_SHIRT_TIRAR_00006: 5324422917011708211
+      PANTS-TOA_T1_PANTS_TIRAR_00008: 1318711412102872992
+      SHIRT-TOA_T1_SHIRT_TIRAR_00025: -3458765981827914516
+      SHIRT-TOA_T1_SHIRT_TIRAR_00029: 3177951836034074749
+      SHIRT-TOA_T1_SHIRT_TIRAR_00012: 6140892086442124352
+      PANTS-TOA_T1_PANTS_TIRAR_00002: -7735421255534098190
+      PANTS-TOA_T1_PANTS_TIRAR_00018: -4278782848942240090
+      SHIRT-TOA_T1_SHIRT_TIRAR_00026: -5527456882070819959
+      PANTS-TOA_T1_PANTS_TIRAR_00017: -2972315159538981420
+      PANTS-TOA_T1_PANTS_TIRAR_00003: 6092421184785013596
+      PANTS-TOA_T1_PANTS_TIRAR_00012: 611164224943320978
+      PANTS-TOA_T1_PANTS_TIROLEZA_00002: 5572223063756095832
+      SHIRT-TOA_T1_SHIRT_TIRAR_00024: 1157436076680317821
+      SHIRT-TOA_T1_SHIRT_TIROLEZA_00001: 5427903200725511626
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

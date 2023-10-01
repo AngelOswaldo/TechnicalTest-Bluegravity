@@ -5,8 +5,12 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     [SerializeField] private float _speed = 5.0f;
-
     private Rigidbody2D _rb;
+    private Vector2 _movementInput;
+
+    private bool _isWalking = false;
+    private bool _bodyFlip = false;
+    private bool _isFacingRight = true;
 
     private void Awake()
     {
@@ -21,12 +25,29 @@ public class PlayerController : MonoBehaviour
     private void Movement()
     {
         float horizontalMovement = Input.GetAxis("Horizontal");
-        float verticalMovevement = Input.GetAxis("Vertical");
-        
-        Vector2 movement = new Vector2 (horizontalMovement, verticalMovevement);
+        float verticalMovement = Input.GetAxis("Vertical");
 
-        movement.Normalize();
+        _movementInput = new Vector2(horizontalMovement, verticalMovement).normalized;
 
-        _rb.velocity = movement * _speed;
+        _isWalking = _movementInput.magnitude > 0;
+
+        PlayerAnimation.WalkEvent?.Invoke(_isWalking);
+
+        if (_isWalking)
+        {
+            if (horizontalMovement < 0)
+            {
+                _isFacingRight = false;
+            }
+            else if (horizontalMovement > 0)
+            {
+                _isFacingRight = true;
+            }
+
+            _bodyFlip = !_isFacingRight;
+            PlayerAnimation.BodyFlipEvent?.Invoke(_bodyFlip);
+        }
+
+        _rb.velocity = _movementInput * _speed;
     }
 }

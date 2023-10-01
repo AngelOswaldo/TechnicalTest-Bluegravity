@@ -1,0 +1,423 @@
+fileFormatVersion: 2
+guid: f4a74dc64e07ace4a9ab68aed0675a33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 758135426358703548
+    second: TRAJE3_PANTS_RUN_00000
+  - first:
+      213: 7556190665970155660
+    second: TRAJE3_PANTS_RUN_00001
+  - first:
+      213: 5628323994728704129
+    second: TRAJE3_PANTS_RUN_00002
+  - first:
+      213: 1117074148489359441
+    second: TRAJE3_PANTS_RUN_00003
+  - first:
+      213: -5171165538513781815
+    second: TRAJE3_PANTS_RUN_00004
+  - first:
+      213: -1923836102447523038
+    second: TRAJE3_PANTS_RUN_00005
+  - first:
+      213: -8653726763130435622
+    second: TRAJE3_PANTS_RUN_00006
+  - first:
+      213: -1233718163349934581
+    second: TRAJE3_PANTS_RUN_00007
+  - first:
+      213: 6487028951962032779
+    second: TRAJE3_PANTS_RUN_00008
+  - first:
+      213: -7475766116202214631
+    second: TRAJE3_PANTS_RUN_00009
+  - first:
+      213: 5635047583159151438
+    second: TRAJE3_PANTS_RUN_00010
+  - first:
+      213: 1734931096413891593
+    second: TRAJE3_PANTS_RUN_00011
+  - first:
+      213: 5788148069080369631
+    second: TRAJE3_PANTS_RUN_00012
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TRAJE3_PANTS_RUN_00000
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 904
+        width: 247
+        height: 119
+      alignment: 9
+      pivot: {x: 0.4271255, y: 1.222689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5ffbb4720758a00800000000000000
+      internalID: 758135426358703548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAJE3_PANTS_RUN_00001
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 904
+        width: 247
+        height: 119
+      alignment: 9
+      pivot: {x: 0.4271255, y: 1.222689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c800644506bfcd860800000000000000
+      internalID: 7556190665970155660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAJE3_PANTS_RUN_00002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 626
+        width: 226
+        height: 134
+      alignment: 9
+      pivot: {x: 0.51106197, y: 1.2723881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188ac926ad2db1e40800000000000000
+      internalID: 5628323994728704129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAJE3_PANTS_RUN_00003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 495
+        width: 221
+        height: 129
+      alignment: 9
+      pivot: {x: 0.48190045, y: 1.3217055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150fa700505a08f00800000000000000
+      internalID: 1117074148489359441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAJE3_PANTS_RUN_00004
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 518
+        width: 226
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5154867, y: 1.3867188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbf42a37545c38b0800000000000000
+      internalID: -5171165538513781815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAJE3_PANTS_RUN_00005
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 518
+        width: 226
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5154867, y: 1.3867188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b1b8bf1492d45e0800000000000000
+      internalID: -1923836102447523038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAJE3_PANTS_RUN_00006
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 774
+        width: 242
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4855372, y: 1.4726562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7c15cbb59c7e780800000000000000
+      internalID: -8653726763130435622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAJE3_PANTS_RUN_00007
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 648
+        width: 232
+        height: 124
+      alignment: 9
+      pivot: {x: 0.48060346, y: 1.2217742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e6490fdd3f0eee0800000000000000
+      internalID: -1233718163349934581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAJE3_PANTS_RUN_00008
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 397
+        width: 217
+        height: 119
+      alignment: 9
+      pivot: {x: 0.45391706, y: 1.5168067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a1f59467e860a50800000000000000
+      internalID: 6487028951962032779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAJE3_PANTS_RUN_00009
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 397
+        width: 217
+        height: 119
+      alignment: 9
+      pivot: {x: 0.45391706, y: 1.5168067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b8ddb535eb04890800000000000000
+      internalID: -7475766116202214631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAJE3_PANTS_RUN_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 762
+        width: 236
+        height: 130
+      alignment: 9
+      pivot: {x: 0.46822035, y: 1.4576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bef9ecbe5b33e40800000000000000
+      internalID: 5635047583159151438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAJE3_PANTS_RUN_00011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 762
+        width: 236
+        height: 130
+      alignment: 9
+      pivot: {x: 0.46822035, y: 1.4576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c678fd3a6b31810800000000000000
+      internalID: 1734931096413891593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAJE3_PANTS_RUN_00012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 894
+        width: 255
+        height: 129
+      alignment: 9
+      pivot: {x: 0.48431373, y: 1.4844961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd906ec7002a35050800000000000000
+      internalID: 5788148069080369631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TRAJE3_PANTS_RUN_00008: 6487028951962032779
+      TRAJE3_PANTS_RUN_00007: -1233718163349934581
+      TRAJE3_PANTS_RUN_00010: 5635047583159151438
+      TRAJE3_PANTS_RUN_00011: 1734931096413891593
+      TRAJE3_PANTS_RUN_00000: 758135426358703548
+      TRAJE3_PANTS_RUN_00003: 1117074148489359441
+      TRAJE3_PANTS_RUN_00004: -5171165538513781815
+      TRAJE3_PANTS_RUN_00005: -1923836102447523038
+      TRAJE3_PANTS_RUN_00001: 7556190665970155660
+      TRAJE3_PANTS_RUN_00002: 5628323994728704129
+      TRAJE3_PANTS_RUN_00006: -8653726763130435622
+      TRAJE3_PANTS_RUN_00009: -7475766116202214631
+      TRAJE3_PANTS_RUN_00012: 5788148069080369631
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

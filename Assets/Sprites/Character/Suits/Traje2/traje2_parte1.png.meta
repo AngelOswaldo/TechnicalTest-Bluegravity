@@ -1,0 +1,4529 @@
+fileFormatVersion: 2
+guid: cadb16b4e90f3f14a987ead9f16224da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3497052166685252816
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00000
+  - first:
+      213: -8497954743165073414
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00001
+  - first:
+      213: 7372378321228768534
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00002
+  - first:
+      213: 4067511424757680852
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00003
+  - first:
+      213: -3122332133592290776
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00004
+  - first:
+      213: -5132036483239244780
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00005
+  - first:
+      213: 4838375389860904773
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00006
+  - first:
+      213: 1368820275041686880
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00007
+  - first:
+      213: 7002355257155120300
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00008
+  - first:
+      213: 1768584746582575879
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00009
+  - first:
+      213: 540943654691292748
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00010
+  - first:
+      213: -816883256058287823
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00011
+  - first:
+      213: 3886706969266719168
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00012
+  - first:
+      213: 1731734626861406421
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00013
+  - first:
+      213: -4417228642118832217
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00014
+  - first:
+      213: -3349625928638998014
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00015
+  - first:
+      213: -7321024680476133027
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00016
+  - first:
+      213: -6448155685895279788
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00017
+  - first:
+      213: 7766427354536083279
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00018
+  - first:
+      213: 377379446258596660
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00019
+  - first:
+      213: 7344109752198410223
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00020
+  - first:
+      213: 1975310464698371570
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00021
+  - first:
+      213: -4110412815221095870
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00022
+  - first:
+      213: 5409012365665115950
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00023
+  - first:
+      213: -3987421464644608962
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00024
+  - first:
+      213: -1639882288775710491
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00025
+  - first:
+      213: -6067437269271750045
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00026
+  - first:
+      213: 4850405600650818240
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00027
+  - first:
+      213: 3697965204091088868
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00028
+  - first:
+      213: 4687179870640539600
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00029
+  - first:
+      213: 5341808998373970599
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00030
+  - first:
+      213: 500509911436115170
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00031
+  - first:
+      213: -8644929685558264798
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00032
+  - first:
+      213: -4189761846327044746
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00033
+  - first:
+      213: 5518064182653084142
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00034
+  - first:
+      213: -923618969139428528
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00035
+  - first:
+      213: -7277149816976832086
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00036
+  - first:
+      213: -4722642600909819496
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00037
+  - first:
+      213: 8785329757739048010
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00038
+  - first:
+      213: -3912419377518410659
+    second: SHIRT-TOA_TRAJE1_SHIRT_AGARRARPEZ[1-50]_00039
+  - first:
+      213: 1384996304959283207
+    second: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00000
+  - first:
+      213: -8507931893343905076
+    second: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00001
+  - first:
+      213: -6566643004187042562
+    second: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00002
+  - first:
+      213: -8136683924007748189
+    second: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00003
+  - first:
+      213: 8203156679208239205
+    second: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00004
+  - first:
+      213: 6597996372595878554
+    second: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00005
+  - first:
+      213: 5204812819785635356
+    second: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00006
+  - first:
+      213: -2234236961677949976
+    second: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00007
+  - first:
+      213: -1906986857295622802
+    second: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00008
+  - first:
+      213: -6324398338323766390
+    second: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00009
+  - first:
+      213: 1794712948337517975
+    second: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00010
+  - first:
+      213: -8213275602510872474
+    second: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00011
+  - first:
+      213: 3884142980612319133
+    second: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00012
+  - first:
+      213: -5079919276306041416
+    second: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00013
+  - first:
+      213: 8011891021362404879
+    second: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00014
+  - first:
+      213: 4610866381123080362
+    second: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00015
+  - first:
+      213: -2075017694067988267
+    second: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00016
+  - first:
+      213: 8043365763923272768
+    second: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00017
+  - first:
+      213: -5320644835386626829
+    second: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00018
+  - first:
+      213: 3085436849743711211
+    second: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00019
+  - first:
+      213: 4030800086060773652
+    second: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00020
+  - first:
+      213: 1934087810163814541
+    second: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00021
+  - first:
+      213: -8769200055377423241
+    second: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00000
+  - first:
+      213: -892943206293487242
+    second: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00001
+  - first:
+      213: -1313886063841626180
+    second: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00002
+  - first:
+      213: -632497155291567334
+    second: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00003
+  - first:
+      213: -1803805133033621911
+    second: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00004
+  - first:
+      213: 8966103066994156673
+    second: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00005
+  - first:
+      213: 2604301701095197038
+    second: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00006
+  - first:
+      213: 3635033563258247859
+    second: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00007
+  - first:
+      213: -1180710493430097314
+    second: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00008
+  - first:
+      213: -4441221900473496537
+    second: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00009
+  - first:
+      213: 6010987992627203516
+    second: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00010
+  - first:
+      213: 1194101372015868599
+    second: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00011
+  - first:
+      213: 3957564410390959494
+    second: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00012
+  - first:
+      213: -7571100884624409299
+    second: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00013
+  - first:
+      213: 7961087635477950900
+    second: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00014
+  - first:
+      213: 6036174503116109012
+    second: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00015
+  - first:
+      213: 6089332302458402924
+    second: SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00000
+  - first:
+      213: -5408783402129883579
+    second: SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00001
+  - first:
+      213: -7484689125916872281
+    second: SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00002
+  - first:
+      213: -124426153132409074
+    second: SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00003
+  - first:
+      213: -7743274809762791058
+    second: SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00004
+  - first:
+      213: -1111509808147076711
+    second: SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00005
+  - first:
+      213: 494342846046396908
+    second: SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00006
+  - first:
+      213: -4966430558853422620
+    second: SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00007
+  - first:
+      213: 4369420083354733595
+    second: SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00008
+  - first:
+      213: -7869237062426774719
+    second: SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00009
+  - first:
+      213: -3329886500226990080
+    second: SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00010
+  - first:
+      213: -2162557164838806686
+    second: SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00011
+  - first:
+      213: -4548932063348342842
+    second: SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00000
+  - first:
+      213: 1203976835999655704
+    second: SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00001
+  - first:
+      213: -8102096292849518594
+    second: SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00002
+  - first:
+      213: 8769291517141188261
+    second: SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00003
+  - first:
+      213: 1860156762514733475
+    second: SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00004
+  - first:
+      213: -4844124048230645892
+    second: SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00005
+  - first:
+      213: 8704761332442488365
+    second: SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00006
+  - first:
+      213: 3214670208607725304
+    second: SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00007
+  - first:
+      213: -2215545252514892581
+    second: SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00008
+  - first:
+      213: 5893374665929797248
+    second: SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00009
+  - first:
+      213: -4708990654293486385
+    second: SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00000
+  - first:
+      213: -763022862614157486
+    second: SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00001
+  - first:
+      213: 3132584656123370854
+    second: SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00002
+  - first:
+      213: -3650294859090888308
+    second: SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00003
+  - first:
+      213: -4356778639262234561
+    second: SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00004
+  - first:
+      213: -5973256219387823853
+    second: SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00005
+  - first:
+      213: -644107140059464368
+    second: SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00006
+  - first:
+      213: -8973094657225799867
+    second: SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00007
+  - first:
+      213: -2459857691639891781
+    second: SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00008
+  - first:
+      213: 4092400448601796210
+    second: SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00009
+  - first:
+      213: 2099462582528701533
+    second: SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00010
+  - first:
+      213: -826878233246539765
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00000
+  - first:
+      213: -3120113490826772125
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00001
+  - first:
+      213: 675676901658278433
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00002
+  - first:
+      213: -8089245741771346637
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00003
+  - first:
+      213: 2076771191421701899
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00004
+  - first:
+      213: -8491794542920079980
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00005
+  - first:
+      213: 7542210668327106849
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00006
+  - first:
+      213: -8580324284399101037
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00007
+  - first:
+      213: 805386063889695556
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00008
+  - first:
+      213: 7043079880354453916
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00009
+  - first:
+      213: -4755700871195430389
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00010
+  - first:
+      213: -7982263303356736499
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00011
+  - first:
+      213: -3655711135025156143
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00012
+  - first:
+      213: 6730369994908039164
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00013
+  - first:
+      213: -2599216471907031010
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00014
+  - first:
+      213: -7972588336329246668
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00015
+  - first:
+      213: -6124200808951491468
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00016
+  - first:
+      213: -1570730292872290767
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00017
+  - first:
+      213: 351335773388922345
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00018
+  - first:
+      213: -3166980858458026692
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00019
+  - first:
+      213: 313047142048165068
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00020
+  - first:
+      213: -1833730528623813367
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00000
+  - first:
+      213: -8768997082949600363
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00001
+  - first:
+      213: 2780856166151836895
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00002
+  - first:
+      213: -1698043160237853230
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00003
+  - first:
+      213: 6406062150719859183
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00004
+  - first:
+      213: -7405578579114360227
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00005
+  - first:
+      213: 7878986344676503961
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00006
+  - first:
+      213: 8191559283341381224
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00007
+  - first:
+      213: 2792145770830380862
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00008
+  - first:
+      213: -4454012806088418578
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00009
+  - first:
+      213: 8477535068555975574
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00010
+  - first:
+      213: -2250986443363650898
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00011
+  - first:
+      213: -776912344611323690
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00012
+  - first:
+      213: -7889878421051709720
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00013
+  - first:
+      213: -6987568284847334689
+    second: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00014
+  - first:
+      213: 4233832796270706988
+    second: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00000
+  - first:
+      213: -3985411748566577883
+    second: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00001
+  - first:
+      213: -7610680758785829155
+    second: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00002
+  - first:
+      213: -2096146917847344921
+    second: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00003
+  - first:
+      213: 1589286757422580307
+    second: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00004
+  - first:
+      213: 2869874995341904689
+    second: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00005
+  - first:
+      213: 7700859484329123033
+    second: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00006
+  - first:
+      213: -4982303443360951723
+    second: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00007
+  - first:
+      213: 4340867928749397647
+    second: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00008
+  - first:
+      213: -5229159630736236080
+    second: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00009
+  - first:
+      213: 3608893504905018147
+    second: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00010
+  - first:
+      213: -203820535294468681
+    second: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00011
+  - first:
+      213: 8258922208752696050
+    second: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00012
+  - first:
+      213: 8155903191844033205
+    second: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00013
+  - first:
+      213: -4219071297757948183
+    second: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00014
+  - first:
+      213: 1674883046252788929
+    second: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00015
+  - first:
+      213: -6318739018995365937
+    second: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00016
+  - first:
+      213: -4116750246255273782
+    second: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00017
+  - first:
+      213: -6096208509233246789
+    second: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00018
+  - first:
+      213: 5316204044784467436
+    second: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00019
+  - first:
+      213: -5945388049865725245
+    second: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00020
+  - first:
+      213: 3300825685778433268
+    second: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00021
+  - first:
+      213: 8266448824824381040
+    second: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00022
+  - first:
+      213: -8459015835500847162
+    second: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00023
+  - first:
+      213: 633174743178546805
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00000
+  - first:
+      213: 9104633084867473140
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00001
+  - first:
+      213: -6456930897138534867
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00002
+  - first:
+      213: 4150824614435782337
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00003
+  - first:
+      213: 3250776724124723043
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00004
+  - first:
+      213: -2961687352184688212
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00005
+  - first:
+      213: 5866382457909083006
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00006
+  - first:
+      213: 6238243385261976872
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00007
+  - first:
+      213: 4438988085002520476
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00008
+  - first:
+      213: -8363380727071215921
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00009
+  - first:
+      213: -8694507515623973404
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00010
+  - first:
+      213: -1152816737069351385
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00011
+  - first:
+      213: 5738496562756788719
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00012
+  - first:
+      213: -2329480482578673301
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00013
+  - first:
+      213: 7840829620065502816
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00014
+  - first:
+      213: 7056871669446684340
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00015
+  - first:
+      213: -2197900140741587345
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00016
+  - first:
+      213: 3929247956344046529
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00017
+  - first:
+      213: 2624570339231387470
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00018
+  - first:
+      213: 894624196693632795
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00019
+  - first:
+      213: 906439910444993444
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00020
+  - first:
+      213: 3106670383148771376
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00021
+  - first:
+      213: 5887213075081094511
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00022
+  - first:
+      213: 1447588869109222658
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00023
+  - first:
+      213: -6240845307745510044
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00024
+  - first:
+      213: 5579217677489574665
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00025
+  - first:
+      213: -6329696412031120858
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00026
+  - first:
+      213: -2236141669195878637
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00027
+  - first:
+      213: 3415725298504671908
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00028
+  - first:
+      213: -7540136877252582429
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00029
+  - first:
+      213: 7774147695878084944
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00030
+  - first:
+      213: 7498871483610466369
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00031
+  - first:
+      213: 2149857549054771784
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00032
+  - first:
+      213: 5159354742467209408
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00033
+  - first:
+      213: 5806242680062454118
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00034
+  - first:
+      213: 1800426500465166974
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00035
+  - first:
+      213: -7424433794004760590
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00036
+  - first:
+      213: -8090749266661351401
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00037
+  - first:
+      213: -3104604793516748795
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00038
+  - first:
+      213: -7939849369854989971
+    second: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00039
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00000
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 608
+        width: 236
+        height: 137
+      alignment: 9
+      pivot: {x: 0.54025424, y: 0.72627735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e08eff21d79c800800000000000000
+      internalID: 633174743178546805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00001
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 608
+        width: 236
+        height: 137
+      alignment: 9
+      pivot: {x: 0.54025424, y: 0.72627735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe6bc16d872a5e70800000000000000
+      internalID: 9104633084867473140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00002
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 608
+        width: 236
+        height: 137
+      alignment: 9
+      pivot: {x: 0.54025424, y: 0.72627735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2630d03f8f5466a0800000000000000
+      internalID: -6456930897138534867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00003
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 608
+        width: 236
+        height: 137
+      alignment: 9
+      pivot: {x: 0.54025424, y: 0.72627735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce746caef0ba9930800000000000000
+      internalID: 4150824614435782337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00004
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 608
+        width: 236
+        height: 137
+      alignment: 9
+      pivot: {x: 0.54025424, y: 0.72627735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367ef8d05341d1d20800000000000000
+      internalID: 3250776724124723043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00005
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 608
+        width: 236
+        height: 137
+      alignment: 9
+      pivot: {x: 0.54025424, y: 0.72627735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1b34d7b09f5e6d0800000000000000
+      internalID: -2961687352184688212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00006
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 608
+        width: 236
+        height: 137
+      alignment: 9
+      pivot: {x: 0.54025424, y: 0.72627735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bf04893c3996150800000000000000
+      internalID: 5866382457909083006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00007
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 608
+        width: 236
+        height: 137
+      alignment: 9
+      pivot: {x: 0.54025424, y: 0.72627735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d68f8ae41b29650800000000000000
+      internalID: 6238243385261976872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 738
+        width: 238
+        height: 134
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.7201493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9744c005247a9d30800000000000000
+      internalID: 4438988085002520476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00009
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 128
+        width: 224
+        height: 160
+      alignment: 9
+      pivot: {x: 0.54241073, y: 0.628125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce62913a8d4feb80800000000000000
+      internalID: -8363380727071215921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00010
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 128
+        width: 224
+        height: 160
+      alignment: 9
+      pivot: {x: 0.54241073, y: 0.628125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edd442ea77e65780800000000000000
+      internalID: -8694507515623973404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00011
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1455
+        width: 261
+        height: 206
+      alignment: 9
+      pivot: {x: 0.53831416, y: 0.43446603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e3bd7194f5000f0800000000000000
+      internalID: -1152816737069351385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1758
+        width: 267
+        height: 289
+      alignment: 9
+      pivot: {x: 0.5486891, y: 0.5899654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe12bef483c33af40800000000000000
+      internalID: 5738496562756788719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1758
+        width: 267
+        height: 289
+      alignment: 9
+      pivot: {x: 0.5486891, y: 0.5899654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6151bcd7d50cafd0800000000000000
+      internalID: -2329480482578673301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1540
+        width: 267
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5486891, y: 0.4189815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0668d583ff830dc60800000000000000
+      internalID: 7840829620065502816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1540
+        width: 267
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5486891, y: 0.4189815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be23eaf46b0fe160800000000000000
+      internalID: 7056871669446684340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00016
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1825
+        width: 275
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5690909, y: 0.42117116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e015b877d7f71e0800000000000000
+      internalID: -2197900140741587345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00017
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1828
+        width: 266
+        height: 219
+      alignment: 9
+      pivot: {x: 0.55075186, y: 0.42694065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c30150c23e778630800000000000000
+      internalID: 3929247956344046529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00018
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1828
+        width: 266
+        height: 219
+      alignment: 9
+      pivot: {x: 0.55075186, y: 0.42694065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fc9e561d85c6420800000000000000
+      internalID: 2624570339231387470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00019
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1828
+        width: 266
+        height: 219
+      alignment: 9
+      pivot: {x: 0.55075186, y: 0.42694065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17a46b87f75a6c00800000000000000
+      internalID: 894624196693632795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00020
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1828
+        width: 266
+        height: 219
+      alignment: 9
+      pivot: {x: 0.55075186, y: 0.42694065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab8f48cb42549c00800000000000000
+      internalID: 906439910444993444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00021
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1828
+        width: 266
+        height: 219
+      alignment: 9
+      pivot: {x: 0.55075186, y: 0.42694065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0382fcde04c1d1b20800000000000000
+      internalID: 3106670383148771376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00022
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1828
+        width: 266
+        height: 219
+      alignment: 9
+      pivot: {x: 0.55075186, y: 0.42694065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f656e39991593b150800000000000000
+      internalID: 5887213075081094511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00023
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1828
+        width: 266
+        height: 219
+      alignment: 9
+      pivot: {x: 0.55075186, y: 0.42694065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d8014286ed61410800000000000000
+      internalID: 1447588869109222658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00024
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1199
+        width: 255
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5235294, y: 0.52259886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d5aad02401469a0800000000000000
+      internalID: -6240845307745510044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00025
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1280
+        width: 256
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5019531, y: 0.6213873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903985feaec5d6d40800000000000000
+      internalID: 5579217677489574665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00026
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1280
+        width: 256
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5019531, y: 0.6213873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a02d046a66828a0800000000000000
+      internalID: -6329696412031120858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00027
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1516
+        width: 254
+        height: 179
+      alignment: 9
+      pivot: {x: 0.48622048, y: 0.62849164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f612cdff0a7f0e0800000000000000
+      internalID: -2236141669195878637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00028
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1095
+        width: 248
+        height: 183
+      alignment: 9
+      pivot: {x: 0.49395162, y: 0.6147541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2afabcf08176f20800000000000000
+      internalID: 3415725298504671908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00029
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1095
+        width: 248
+        height: 183
+      alignment: 9
+      pivot: {x: 0.49395162, y: 0.6147541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e36981a57d0c5790800000000000000
+      internalID: -7540136877252582429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00030
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1052
+        width: 245
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5040816, y: 0.5880829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0591c34e32253eb60800000000000000
+      internalID: 7774147695878084944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00031
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1052
+        width: 245
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5040816, y: 0.5880829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14888e432e7511860800000000000000
+      internalID: 7498871483610466369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00032
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1279
+        width: 252
+        height: 188
+      alignment: 9
+      pivot: {x: 0.50992066, y: 0.6090425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8420a19ec04d5dd10800000000000000
+      internalID: 2149857549054771784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00033
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 874
+        width: 244
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5102459, y: 0.6181319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c82cf68dc5b99740800000000000000
+      internalID: 5159354742467209408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00034
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 747
+        width: 239
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5083682, y: 0.6117318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669a5d864fae39050800000000000000
+      internalID: 5806242680062454118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00035
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 747
+        width: 239
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5083682, y: 0.6117318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a0d64fc566cf810800000000000000
+      internalID: 1800426500465166974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00036
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 990
+        width: 242
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5144628, y: 0.6117318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7c0f9fccc17f890800000000000000
+      internalID: -7424433794004760590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00037
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1135
+        width: 246
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5020325, y: 0.57329845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710e5e99862e7bf80800000000000000
+      internalID: -8090749266661351401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00038
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1038
+        width: 245
+        height: 184
+      alignment: 9
+      pivot: {x: 0.49591836, y: 0.5951087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5009572a36a3ae4d0800000000000000
+      internalID: -3104604793516748795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00039
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1038
+        width: 245
+        height: 184
+      alignment: 9
+      pivot: {x: 0.49591836, y: 0.5951087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d692fa3b01dffc190800000000000000
+      internalID: -7939849369854989971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00000
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 903
+        width: 240
+        height: 147
+      alignment: 9
+      pivot: {x: 0.51875, y: 0.7653061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700a3542dce783310800000000000000
+      internalID: 1384996304959283207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00001
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1131
+        width: 243
+        height: 146
+      alignment: 9
+      pivot: {x: 0.52469134, y: 0.73630136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca150c1501cde980800000000000000
+      internalID: -8507931893343905076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00002
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 769
+        width: 237
+        height: 132
+      alignment: 9
+      pivot: {x: 0.47046414, y: 0.8219697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc90a0baf89ed4a0800000000000000
+      internalID: -6566643004187042562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00003
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 769
+        width: 237
+        height: 132
+      alignment: 9
+      pivot: {x: 0.47046414, y: 0.8219697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adf2e3c411b41f80800000000000000
+      internalID: -8136683924007748189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00004
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 928
+        width: 245
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5244898, y: 0.6636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560841d998777d170800000000000000
+      internalID: 8203156679208239205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 579
+        width: 235
+        height: 157
+      alignment: 9
+      pivot: {x: 0.50851065, y: 0.67197454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9aa4e14ebac09b50800000000000000
+      internalID: 6597996372595878554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 579
+        width: 235
+        height: 157
+      alignment: 9
+      pivot: {x: 0.50851065, y: 0.67197454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16d8bdeea53b3840800000000000000
+      internalID: 5204812819785635356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00007
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 811
+        width: 237
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.58474576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3432322556ef0e0800000000000000
+      internalID: -2234236961677949976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00008
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 746
+        width: 231
+        height: 152
+      alignment: 9
+      pivot: {x: 0.504329, y: 0.6743421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d4e839e850985e0800000000000000
+      internalID: -1906986857295622802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00009
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 746
+        width: 231
+        height: 152
+      alignment: 9
+      pivot: {x: 0.504329, y: 0.6743421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83242a28393b38a0800000000000000
+      internalID: -6324398338323766390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00010
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 985
+        width: 240
+        height: 148
+      alignment: 9
+      pivot: {x: 0.51458335, y: 0.6858108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795a37feae918e810800000000000000
+      internalID: 1794712948337517975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00011
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 985
+        width: 240
+        height: 148
+      alignment: 9
+      pivot: {x: 0.51458335, y: 0.6858108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66005f5fa55940e80800000000000000
+      internalID: -8213275602510872474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00012
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 717
+        width: 236
+        height: 183
+      alignment: 9
+      pivot: {x: 0.50211865, y: 0.5491803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d976938367f37e530800000000000000
+      internalID: 3884142980612319133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00013
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 981
+        width: 242
+        height: 148
+      alignment: 9
+      pivot: {x: 0.50619835, y: 0.6993243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b57e1035508089b0800000000000000
+      internalID: -5079919276306041416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00014
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 981
+        width: 242
+        height: 148
+      alignment: 9
+      pivot: {x: 0.50619835, y: 0.6993243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e92736f64ff2f60800000000000000
+      internalID: 8011891021362404879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00015
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1171
+        width: 243
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5041152, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0d1a15b861dff30800000000000000
+      internalID: 4610866381123080362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00016
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 903
+        width: 240
+        height: 147
+      alignment: 9
+      pivot: {x: 0.51875, y: 0.7653061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d86d62b66e0433e0800000000000000
+      internalID: -2075017694067988267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00017
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 903
+        width: 240
+        height: 147
+      alignment: 9
+      pivot: {x: 0.51875, y: 0.7653061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0446f25fb86cf9f60800000000000000
+      internalID: 8043365763923272768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00018
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 903
+        width: 240
+        height: 147
+      alignment: 9
+      pivot: {x: 0.51875, y: 0.7653061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc63c256b54926b0800000000000000
+      internalID: -5320644835386626829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00019
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 903
+        width: 240
+        height: 147
+      alignment: 9
+      pivot: {x: 0.51875, y: 0.7653061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebcfdda77ca1da20800000000000000
+      internalID: 3085436849743711211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00020
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 903
+        width: 240
+        height: 147
+      alignment: 9
+      pivot: {x: 0.51875, y: 0.7653061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411344a725740f730800000000000000
+      internalID: 4030800086060773652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00021
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 903
+        width: 240
+        height: 147
+      alignment: 9
+      pivot: {x: 0.51875, y: 0.7653061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d803a39bd9247da10800000000000000
+      internalID: 1934087810163814541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00000
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 679
+        width: 231
+        height: 152
+      alignment: 9
+      pivot: {x: 0.512987, y: 0.7006579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77494e6c20b8d4680800000000000000
+      internalID: -8769200055377423241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00001
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 679
+        width: 231
+        height: 152
+      alignment: 9
+      pivot: {x: 0.512987, y: 0.7006579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671474882e0ab93f0800000000000000
+      internalID: -892943206293487242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00002
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 833
+        width: 235
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5042553, y: 0.7294521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb73261169324cde0800000000000000
+      internalID: -1313886063841626180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00003
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 833
+        width: 235
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5042553, y: 0.7294521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ba669303be837f0800000000000000
+      internalID: -632497155291567334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00004
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 566
+        width: 233
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5171674, y: 0.73489934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9663189d9c897f6e0800000000000000
+      internalID: -1803805133033621911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00005
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 461
+        width: 233
+        height: 145
+      alignment: 9
+      pivot: {x: 0.52575105, y: 0.7137931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1842ab72c3ffd6c70800000000000000
+      internalID: 8966103066994156673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00006
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 461
+        width: 233
+        height: 145
+      alignment: 9
+      pivot: {x: 0.52575105, y: 0.7137931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6989b55996542420800000000000000
+      internalID: 2604301701095197038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00007
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 414
+        width: 228
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5197368, y: 0.69666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba51ac34cb327230800000000000000
+      internalID: 3635033563258247859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00008
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 659
+        width: 229
+        height: 150
+      alignment: 9
+      pivot: {x: 0.51746726, y: 0.71}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ad588df064d9fe0800000000000000
+      internalID: -1180710493430097314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00009
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 659
+        width: 229
+        height: 150
+      alignment: 9
+      pivot: {x: 0.51746726, y: 0.71}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c879d463c9d52c0800000000000000
+      internalID: -4441221900473496537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00010
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 511
+        width: 229
+        height: 147
+      alignment: 9
+      pivot: {x: 0.51746726, y: 0.7244898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdcea15bb15b6350800000000000000
+      internalID: 6010987992627203516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00011
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 511
+        width: 229
+        height: 147
+      alignment: 9
+      pivot: {x: 0.51746726, y: 0.7244898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baffc80fdc429010800000000000000
+      internalID: 1194101372015868599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00012
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 368
+        width: 226
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5154867, y: 0.71985817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685d419fcd71ce630800000000000000
+      internalID: 3957564410390959494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00013
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 451
+        width: 229
+        height: 147
+      alignment: 9
+      pivot: {x: 0.51746726, y: 0.7244898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2df05ddbdb0ee690800000000000000
+      internalID: -7571100884624409299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00014
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 451
+        width: 229
+        height: 147
+      alignment: 9
+      pivot: {x: 0.51746726, y: 0.7244898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1fa6a56077b7e60800000000000000
+      internalID: 7961087635477950900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00015
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 599
+        width: 227
+        height: 145
+      alignment: 9
+      pivot: {x: 0.51762116, y: 0.72068965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d47184cabcc4c350800000000000000
+      internalID: 6036174503116109012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00000
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1049
+        width: 242
+        height: 163
+      alignment: 9
+      pivot: {x: 0.46487603, y: 0.65337425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6838576777a18450800000000000000
+      internalID: 6089332302458402924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00001
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1328
+        width: 252
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5218254, y: 0.57821226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ef409172420f4b0800000000000000
+      internalID: -5408783402129883579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00002
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1697
+        width: 266
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5469925, y: 0.5390625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1fe7345ea012890800000000000000
+      internalID: -7484689125916872281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00003
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1697
+        width: 266
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5469925, y: 0.5390625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f36cda213f54ef0800000000000000
+      internalID: -124426153132409074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00004
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1634
+        width: 254
+        height: 192
+      alignment: 9
+      pivot: {x: 0.53346455, y: 0.5442708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61cbdd069c5a8490800000000000000
+      internalID: -7743274809762791058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00005
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1509
+        width: 259
+        height: 195
+      alignment: 9
+      pivot: {x: 0.530888, y: 0.5051282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999e701f7bf1390f0800000000000000
+      internalID: -1111509808147076711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00006
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1509
+        width: 259
+        height: 195
+      alignment: 9
+      pivot: {x: 0.530888, y: 0.5051282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1e9d703324cd600800000000000000
+      internalID: 494342846046396908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00007
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1399
+        width: 259
+        height: 161
+      alignment: 9
+      pivot: {x: 0.48069498, y: 0.61180127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1a5e158b1b31bb0800000000000000
+      internalID: -4966430558853422620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00008
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 900
+        width: 242
+        height: 147
+      alignment: 9
+      pivot: {x: 0.50619835, y: 0.670068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c01d66a6c43ac30800000000000000
+      internalID: 4369420083354733595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00009
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 660
+        width: 234
+        height: 152
+      alignment: 9
+      pivot: {x: 0.48504272, y: 0.64144737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143b6b0b59adac290800000000000000
+      internalID: -7869237062426774719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00010
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 660
+        width: 234
+        height: 152
+      alignment: 9
+      pivot: {x: 0.48504272, y: 0.64144737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0000a9bdeddd9c1d0800000000000000
+      internalID: -3329886500226990080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00011
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 660
+        width: 234
+        height: 152
+      alignment: 9
+      pivot: {x: 0.48504272, y: 0.64144737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b9e4f57bd0df1e0800000000000000
+      internalID: -2162557164838806686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00000
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 902
+        width: 240
+        height: 134
+      alignment: 9
+      pivot: {x: 0.51458335, y: 0.70522386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfbcb0c362fed0c0800000000000000
+      internalID: -4548932063348342842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00001
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 239
+        width: 225
+        height: 173
+      alignment: 9
+      pivot: {x: 0.4422222, y: 0.62716764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817ee8bad8265b010800000000000000
+      internalID: 1203976835999655704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00002
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 239
+        width: 225
+        height: 173
+      alignment: 9
+      pivot: {x: 0.4422222, y: 0.62716764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7f1b039529f8f80800000000000000
+      internalID: -8102096292849518594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00003
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 81
+        width: 222
+        height: 156
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.6891026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aefb035c28c2b970800000000000000
+      internalID: 8769291517141188261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00004
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 52
+        width: 216
+        height: 185
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.672973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a93b3058ba90d910800000000000000
+      internalID: 1860156762514733475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00005
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 52
+        width: 216
+        height: 185
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.672973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ff849e7d636ccb0800000000000000
+      internalID: -4844124048230645892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00006
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 600
+        width: 233
+        height: 167
+      alignment: 9
+      pivot: {x: 0.56866956, y: 0.93712574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e5ac2ef468dc870800000000000000
+      internalID: 8704761332442488365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00007
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 600
+        width: 233
+        height: 167
+      alignment: 9
+      pivot: {x: 0.56866956, y: 0.93712574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6281ec58dcc9c20800000000000000
+      internalID: 3214670208607725304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 216
+        height: 124
+      alignment: 9
+      pivot: {x: 0.6087963, y: 1.1975807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4fb00d45dc041e0800000000000000
+      internalID: -2215545252514892581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00009
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1214
+        width: 200
+        height: 137
+      alignment: 9
+      pivot: {x: 0.6025, y: 1.1934307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e2803c80979c150800000000000000
+      internalID: 5893374665929797248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00000
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1224
+        width: 249
+        height: 142
+      alignment: 9
+      pivot: {x: 0.50401604, y: 0.7359155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4d33003fd46aeb0800000000000000
+      internalID: -4708990654293486385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00001
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1224
+        width: 249
+        height: 142
+      alignment: 9
+      pivot: {x: 0.50401604, y: 0.7359155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257a166cfb23965f0800000000000000
+      internalID: -763022862614157486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00002
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1224
+        width: 249
+        height: 142
+      alignment: 9
+      pivot: {x: 0.50401604, y: 0.7359155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d9219c52d297b20800000000000000
+      internalID: 3132584656123370854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00003
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1551
+        width: 263
+        height: 176
+      alignment: 9
+      pivot: {x: 0.64828897, y: 0.61647725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89f37e6a2c875dc0800000000000000
+      internalID: -3650294859090888308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00004
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1368
+        width: 256
+        height: 181
+      alignment: 9
+      pivot: {x: 0.6308594, y: 0.5939227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38c3c929ec9983c0800000000000000
+      internalID: -4356778639262234561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00005
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1368
+        width: 256
+        height: 181
+      alignment: 9
+      pivot: {x: 0.6308594, y: 0.5939227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319fefabd1bba1da0800000000000000
+      internalID: -5973256219387823853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00006
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1706
+        width: 266
+        height: 178
+      alignment: 9
+      pivot: {x: 0.6447368, y: 0.60955054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d767ff7fbaf07f0800000000000000
+      internalID: -644107140059464368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00007
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1706
+        width: 266
+        height: 178
+      alignment: 9
+      pivot: {x: 0.6447368, y: 0.60955054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547c91463f9297380800000000000000
+      internalID: -8973094657225799867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00008
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1323
+        width: 252
+        height: 191
+      alignment: 9
+      pivot: {x: 0.60119045, y: 0.5575916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8bacb5674dcddd0800000000000000
+      internalID: -2459857691639891781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00009
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1323
+        width: 252
+        height: 191
+      alignment: 9
+      pivot: {x: 0.60119045, y: 0.5575916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e2f8986802bc830800000000000000
+      internalID: 4092400448601796210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00010
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1323
+        width: 252
+        height: 191
+      alignment: 9
+      pivot: {x: 0.60119045, y: 0.5575916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54f8da681ac22d10800000000000000
+      internalID: 2099462582528701533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00000
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 510
+        width: 226
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5243363, y: 0.7244898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0066dab0a65684f0800000000000000
+      internalID: -826878233246539765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 276
+        width: 227
+        height: 159
+      alignment: 9
+      pivot: {x: 0.51321584, y: 0.6446541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361cd58af4123b4d0800000000000000
+      internalID: -3120113490826772125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 276
+        width: 227
+        height: 159
+      alignment: 9
+      pivot: {x: 0.51321584, y: 0.6446541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a374aef8c706900800000000000000
+      internalID: 675676901658278433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00003
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 290
+        width: 227
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5088106, y: 0.6183432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33da0e44bd93dbf80800000000000000
+      internalID: -8089245741771346637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00004
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 814
+        width: 237
+        height: 169
+      alignment: 9
+      pivot: {x: 0.53797466, y: 0.5946745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f8478356c22dc10800000000000000
+      internalID: 2076771191421701899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00005
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 814
+        width: 237
+        height: 169
+      alignment: 9
+      pivot: {x: 0.53797466, y: 0.5946745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495e5abcad5172a80800000000000000
+      internalID: -8491794542920079980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1378
+        width: 260
+        height: 160
+      alignment: 9
+      pivot: {x: 0.575, y: 0.628125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1297cca74a05ba860800000000000000
+      internalID: 7542210668327106849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00007
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1562
+        width: 260
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5711538, y: 0.61858976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bdbba16809ce880800000000000000
+      internalID: -8580324284399101037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00008
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1562
+        width: 260
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5711538, y: 0.61858976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4430235ab5e4d2b00800000000000000
+      internalID: 805386063889695556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00009
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1886
+        width: 267
+        height: 161
+      alignment: 9
+      pivot: {x: 0.582397, y: 0.61180127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c995a39d5db0eb160800000000000000
+      internalID: 7043079880354453916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00010
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1562
+        width: 260
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5711538, y: 0.61858976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b027162214b500eb0800000000000000
+      internalID: -4755700871195430389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00011
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1886
+        width: 267
+        height: 161
+      alignment: 9
+      pivot: {x: 0.582397, y: 0.61180127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c19c341dd493190800000000000000
+      internalID: -7982263303356736499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00012
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1886
+        width: 267
+        height: 161
+      alignment: 9
+      pivot: {x: 0.582397, y: 0.61180127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfa26b671e444dc0800000000000000
+      internalID: -3655711135025156143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00013
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1562
+        width: 260
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5711538, y: 0.61858976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7f071f9d3176d50800000000000000
+      internalID: 6730369994908039164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00014
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1720
+        width: 265
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5641509, y: 0.65286624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1823a9d36abdebd0800000000000000
+      internalID: -2599216471907031010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00015
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1720
+        width: 265
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5641509, y: 0.65286624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4383ca0162dab5190800000000000000
+      internalID: -7972588336329246668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00016
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1663
+        width: 268
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5727612, y: 0.603125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4745949cfc7720ba0800000000000000
+      internalID: -6124200808951491468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00017
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1729
+        width: 270
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5685185, y: 0.6272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ed667ee15a33ae0800000000000000
+      internalID: -1570730292872290767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00018
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1729
+        width: 270
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5685185, y: 0.6272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eddbb1460230e400800000000000000
+      internalID: 351335773388922345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00019
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1729
+        width: 270
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5685185, y: 0.6272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dc52940bf9c04d0800000000000000
+      internalID: -3166980858458026692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00020
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1729
+        width: 270
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5685185, y: 0.6272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc6bb397ba285400800000000000000
+      internalID: 313047142048165068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00000
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 320
+        width: 226
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5154867, y: 0.61627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d969bbcc74d86e0800000000000000
+      internalID: -1833730528623813367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00001
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 320
+        width: 226
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5154867, y: 0.61627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b3a5afc934e4680800000000000000
+      internalID: -8768997082949600363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00002
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 548
+        width: 227
+        height: 129
+      alignment: 9
+      pivot: {x: 0.52643174, y: 0.6007752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd45fe213f5979620800000000000000
+      internalID: 2780856166151836895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00003
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 548
+        width: 227
+        height: 129
+      alignment: 9
+      pivot: {x: 0.52643174, y: 0.6007752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5bdbc0eb65f68e0800000000000000
+      internalID: -1698043160237853230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 437
+        width: 232
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5409483, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe96bb6d597e6e850800000000000000
+      internalID: 6406062150719859183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00005
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1469
+        width: 253
+        height: 163
+      alignment: 9
+      pivot: {x: 0.55928856, y: 0.5306749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5285abc4891a3990800000000000000
+      internalID: -7405578579114360227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00006
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1469
+        width: 253
+        height: 163
+      alignment: 9
+      pivot: {x: 0.55928856, y: 0.5306749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991b898f558c75d60800000000000000
+      internalID: 7878986344676503961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00007
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1879
+        width: 270
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.58630955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ecd1874c34ea170800000000000000
+      internalID: 8191559283341381224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00008
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1891
+        width: 267
+        height: 156
+      alignment: 9
+      pivot: {x: 0.57490635, y: 0.7147436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f347ff8c1bfb620800000000000000
+      internalID: 2792145770830380862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00009
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1891
+        width: 267
+        height: 156
+      alignment: 9
+      pivot: {x: 0.57490635, y: 0.7147436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea1f0483fa2032c0800000000000000
+      internalID: -4454012806088418578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00010
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1247
+        width: 251
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5557769, y: 0.5366667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b123c9a3146a570800000000000000
+      internalID: 8477535068555975574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00011
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1247
+        width: 251
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5557769, y: 0.5366667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2f61981c3e2c0e0800000000000000
+      internalID: -2250986443363650898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1058
+        width: 248
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d083ddb65ad735f0800000000000000
+      internalID: -776912344611323690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00013
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1896
+        width: 274
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5930657, y: 0.54635763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e66130e065818290800000000000000
+      internalID: -7889878421051709720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00014
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1896
+        width: 274
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5930657, y: 0.54635763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda93e9aaab270f90800000000000000
+      internalID: -6987568284847334689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00000
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1353
+        width: 203
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5985222, y: 1.1923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c214d141f7891ca30800000000000000
+      internalID: 4233832796270706988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00001
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1353
+        width: 203
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5985222, y: 1.1923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d450b5129f0b8c0800000000000000
+      internalID: -3985411748566577883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00002
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1498
+        width: 204
+        height: 134
+      alignment: 9
+      pivot: {x: 0.6004902, y: 1.2201493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd69ba94c2e616690800000000000000
+      internalID: -7610680758785829155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00003
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1498
+        width: 204
+        height: 134
+      alignment: 9
+      pivot: {x: 0.6004902, y: 1.2201493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8ddaceb7df8e2e0800000000000000
+      internalID: -2096146917847344921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00004
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 41
+        width: 182
+        height: 137
+      alignment: 9
+      pivot: {x: 0.68406594, y: 1.1934307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352c76ea2e74e0610800000000000000
+      internalID: 1589286757422580307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00005
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 41
+        width: 182
+        height: 137
+      alignment: 9
+      pivot: {x: 0.68406594, y: 1.1934307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b412f5a18d3d720800000000000000
+      internalID: 2869874995341904689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00006
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 41
+        width: 182
+        height: 137
+      alignment: 9
+      pivot: {x: 0.68406594, y: 1.1934307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc92ac66e2feda60800000000000000
+      internalID: 7700859484329123033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00007
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 41
+        width: 182
+        height: 137
+      alignment: 9
+      pivot: {x: 0.68406594, y: 1.1934307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552d3476a6d4bdab0800000000000000
+      internalID: -4982303443360951723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00008
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 180
+        width: 187
+        height: 138
+      alignment: 9
+      pivot: {x: 0.6657754, y: 1.1775362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f865efdd16cdd3c30800000000000000
+      internalID: 4340867928749397647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00009
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 180
+        width: 187
+        height: 138
+      alignment: 9
+      pivot: {x: 0.6657754, y: 1.1775362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d16728650b4e67b0800000000000000
+      internalID: -5229159630736236080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00010
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 180
+        width: 187
+        height: 138
+      alignment: 9
+      pivot: {x: 0.6657754, y: 1.1775362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bf310a58d551230800000000000000
+      internalID: 3608893504905018147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 133
+        width: 186
+        height: 141
+      alignment: 9
+      pivot: {x: 0.68010753, y: 1.1524823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdd7d39d42eb2df0800000000000000
+      internalID: -203820535294468681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 133
+        width: 186
+        height: 141
+      alignment: 9
+      pivot: {x: 0.68010753, y: 1.1524823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2faf940cdf59d9270800000000000000
+      internalID: 8258922208752696050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 133
+        width: 186
+        height: 141
+      alignment: 9
+      pivot: {x: 0.68010753, y: 1.1524823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2965cbdb69f2170800000000000000
+      internalID: 8155903191844033205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 133
+        width: 186
+        height: 141
+      alignment: 9
+      pivot: {x: 0.68010753, y: 1.1524823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6571f1209d275c0800000000000000
+      internalID: -4219071297757948183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00015
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 180
+        width: 187
+        height: 138
+      alignment: 9
+      pivot: {x: 0.6657754, y: 1.1775362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccb834b1416e3710800000000000000
+      internalID: 1674883046252788929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00016
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 180
+        width: 187
+        height: 138
+      alignment: 9
+      pivot: {x: 0.6657754, y: 1.1775362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7816027545f48a0800000000000000
+      internalID: -6318739018995365937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00017
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 180
+        width: 187
+        height: 138
+      alignment: 9
+      pivot: {x: 0.6657754, y: 1.1775362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8d3f6667d5ed6c0800000000000000
+      internalID: -4116750246255273782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00018
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 41
+        width: 182
+        height: 137
+      alignment: 9
+      pivot: {x: 0.68406594, y: 1.1934307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd4072f8aae56ba0800000000000000
+      internalID: -6096208509233246789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00019
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 41
+        width: 182
+        height: 137
+      alignment: 9
+      pivot: {x: 0.68406594, y: 1.1934307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced7fda8963f6c940800000000000000
+      internalID: 5316204044784467436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00020
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 41
+        width: 182
+        height: 137
+      alignment: 9
+      pivot: {x: 0.68406594, y: 1.1934307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3caa6e3911dbd7da0800000000000000
+      internalID: -5945388049865725245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00021
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1498
+        width: 204
+        height: 134
+      alignment: 9
+      pivot: {x: 0.6004902, y: 1.2201493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f40f420973eecd20800000000000000
+      internalID: 3300825685778433268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00022
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1498
+        width: 204
+        height: 134
+      alignment: 9
+      pivot: {x: 0.6004902, y: 1.2201493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e3a9d986358b270800000000000000
+      internalID: 8266448824824381040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00023
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1498
+        width: 204
+        height: 134
+      alignment: 9
+      pivot: {x: 0.6004902, y: 1.2201493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf51975ae98b9a80800000000000000
+      internalID: -8459015835500847162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00005: -7405578579114360227
+      SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00000: -1833730528623813367
+      SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00002: -7484689125916872281
+      SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00000: -4708990654293486385
+      SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00003: -1698043160237853230
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00037: -8090749266661351401
+      SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00008: 2792145770830380862
+      SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00010: 1794712948337517975
+      SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00000: -4548932063348342842
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00010: -8694507515623973404
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00026: -6329696412031120858
+      SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00017: -1570730292872290767
+      SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00006: 494342846046396908
+      SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00014: -2599216471907031010
+      SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00022: 8266448824824381040
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00039: -7939849369854989971
+      SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00009: -5229159630736236080
+      SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00013: 8155903191844033205
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00029: -7540136877252582429
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00038: -3104604793516748795
+      SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00016: -2075017694067988267
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00016: -2197900140741587345
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00025: 5579217677489574665
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00002: -6456930897138534867
+      SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00007: -4982303443360951723
+      SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00008: -1906986857295622802
+      SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00010: 6010987992627203516
+      SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00010: -4755700871195430389
+      SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00007: -2234236961677949976
+      SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00019: 5316204044784467436
+      SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00001: 1203976835999655704
+      SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00008: -2215545252514892581
+      SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00000: 1384996304959283207
+      SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00014: -4219071297757948183
+      SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00009: 7043079880354453916
+      SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00018: -6096208509233246789
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00017: 3929247956344046529
+      SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00006: 8704761332442488365
+      SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00004: 1860156762514733475
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00031: 7498871483610466369
+      SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00012: -776912344611323690
+      SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00009: -7869237062426774719
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00023: 1447588869109222658
+      SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00012: 3957564410390959494
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00036: -7424433794004760590
+      SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00006: 2604301701095197038
+      SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00010: 3608893504905018147
+      SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00013: -7571100884624409299
+      SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00008: 4340867928749397647
+      SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00015: 1674883046252788929
+      SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00015: 4610866381123080362
+      SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00005: -8491794542920079980
+      SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00010: 8477535068555975574
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00034: 5806242680062454118
+      SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00019: 3085436849743711211
+      SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00007: 8191559283341381224
+      SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00000: -826878233246539765
+      SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00002: -8102096292849518594
+      SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00011: -2250986443363650898
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00018: 2624570339231387470
+      SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00003: -8089245741771346637
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00027: -2236141669195878637
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00014: 7840829620065502816
+      SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00014: -6987568284847334689
+      SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00011: -7982263303356736499
+      SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00013: -5079919276306041416
+      SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00021: 3300825685778433268
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00022: 5887213075081094511
+      SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00011: -203820535294468681
+      SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00001: -892943206293487242
+      SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00001: -3985411748566577883
+      SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00020: -5945388049865725245
+      SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00003: -8136683924007748189
+      SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00014: 7961087635477950900
+      SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00009: 4092400448601796210
+      SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00004: -1803805133033621911
+      SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00004: 2076771191421701899
+      SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00004: -4356778639262234561
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00005: -2961687352184688212
+      SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00011: -2162557164838806686
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00013: -2329480482578673301
+      SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00005: 6597996372595878554
+      SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00002: 3132584656123370854
+      SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00020: 4030800086060773652
+      SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00003: -124426153132409074
+      SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00001: -3120113490826772125
+      SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00016: -6124200808951491468
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00001: 9104633084867473140
+      SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00004: 6406062150719859183
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00011: -1152816737069351385
+      SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00005: 8966103066994156673
+      SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00003: -632497155291567334
+      SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00007: 3214670208607725304
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00004: 3250776724124723043
+      SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00002: 675676901658278433
+      SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00007: -8973094657225799867
+      SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00001: -5408783402129883579
+      SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00013: -7889878421051709720
+      SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00006: -644107140059464368
+      SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00003: 8769291517141188261
+      SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00002: -1313886063841626180
+      SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00006: 7542210668327106849
+      SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00006: 5204812819785635356
+      SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00002: 2780856166151836895
+      SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00009: -4441221900473496537
+      SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00011: 1194101372015868599
+      SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00007: -8580324284399101037
+      SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00009: 5893374665929797248
+      SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00013: 6730369994908039164
+      SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00000: -8769200055377423241
+      SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00010: 2099462582528701533
+      SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00003: -2096146917847344921
+      SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00000: 6089332302458402924
+      SHIRT-TOA_TRAJE2_SHIRT_FALLSLEEP_[01-14]_00005: -4844124048230645892
+      SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00009: -4454012806088418578
+      SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00012: 8258922208752696050
+      SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00000: 4233832796270706988
+      SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00001: -763022862614157486
+      SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00016: -6318739018995365937
+      SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00008: -2459857691639891781
+      SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00008: -1180710493430097314
+      SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00018: 351335773388922345
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00033: 5159354742467209408
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00015: 7056871669446684340
+      SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00006: 7700859484329123033
+      SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00012: -3655711135025156143
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00032: 2149857549054771784
+      SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00005: 2869874995341904689
+      SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00009: -6324398338323766390
+      SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00004: 8203156679208239205
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00012: 5738496562756788719
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00028: 3415725298504671908
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00021: 3106670383148771376
+      SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00012: 3884142980612319133
+      SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00005: -1111509808147076711
+      SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00011: -8213275602510872474
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00019: 894624196693632795
+      SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00002: -6566643004187042562
+      SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00004: 1589286757422580307
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00020: 906439910444993444
+      SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00005: -5973256219387823853
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00007: 6238243385261976872
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00006: 5866382457909083006
+      SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00007: -4966430558853422620
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00008: 4438988085002520476
+      SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00020: 313047142048165068
+      SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00017: -4116750246255273782
+      SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00017: 8043365763923272768
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00000: 633174743178546805
+      SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00015: -7972588336329246668
+      SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00008: 805386063889695556
+      SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00001: -8768997082949600363
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00024: -6240845307745510044
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00035: 1800426500465166974
+      SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00007: 3635033563258247859
+      SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00008: 4369420083354733595
+      SHIRT-TOA_TRAJE2_SHIRT_SHOTRUN_[01-20]_00006: 7878986344676503961
+      SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00002: -7610680758785829155
+      SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00021: 1934087810163814541
+      SHIRT-TOA_TRAJE2_SHIRT_SHOT_[01-27]_00019: -3166980858458026692
+      SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00018: -5320644835386626829
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00009: -8363380727071215921
+      SHIRT-TOA_TRAJE2_SHIRT_CLAP_[01-21]_00015: 6036174503116109012
+      SHIRT-TOA_TRAJE2_SHIRT_PAIN_[01-14]_00003: -3650294859090888308
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00003: 4150824614435782337
+      SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00004: -7743274809762791058
+      SHIRT-TOA_TRAJE2_SHIRT_SLEEP_[01-31]_00023: -8459015835500847162
+      SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00014: 8011891021362404879
+      SHIRT-TOA_TRAJE2_SHIRT_ALUMBRAR_[01-29]_00001: -8507931893343905076
+      SHIRT-TOA_TRAJE2_SHIRT_CUT_[01-16]_00010: -3329886500226990080
+      SHIRT-TOA_T1_SHIRT_AGARRARPEZ_00030: 7774147695878084944
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5734 @@
+fileFormatVersion: 2
+guid: 70f7d44e78df0b54283bd4092c100038
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4326552672454747873
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00000
+  - first:
+      213: 3129508038360645967
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00001
+  - first:
+      213: -2660740777012699398
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00002
+  - first:
+      213: 8206586988267110900
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00003
+  - first:
+      213: 5955924628243636484
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00004
+  - first:
+      213: 7849112239230863162
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00005
+  - first:
+      213: -1326086015402126084
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00006
+  - first:
+      213: 1340666738695191247
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00007
+  - first:
+      213: 894979712891924894
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00008
+  - first:
+      213: -2910720874671920178
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00009
+  - first:
+      213: 1902002815798384244
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00010
+  - first:
+      213: 8410756977928582216
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00011
+  - first:
+      213: 3415704217223573905
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00012
+  - first:
+      213: -980998955608814371
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00013
+  - first:
+      213: 8375188434131726178
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00014
+  - first:
+      213: -3877556225241810419
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00015
+  - first:
+      213: -6651499896616193827
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00016
+  - first:
+      213: 1719821905124293507
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00017
+  - first:
+      213: 5329800461172682527
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00018
+  - first:
+      213: -8009070805217586539
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00019
+  - first:
+      213: 6303394010158936691
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00020
+  - first:
+      213: -2803247818879434741
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00021
+  - first:
+      213: -8744280860417202691
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00022
+  - first:
+      213: -308188558209909576
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00023
+  - first:
+      213: -4726252588988373759
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00024
+  - first:
+      213: 501457629029723168
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00025
+  - first:
+      213: 9087806388028623307
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00026
+  - first:
+      213: 304784232645102359
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00027
+  - first:
+      213: -8333199460827698535
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00028
+  - first:
+      213: 559702204203943796
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00029
+  - first:
+      213: 6066092001429353247
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00030
+  - first:
+      213: -5989311327599249245
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00031
+  - first:
+      213: 2545367506119889959
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00032
+  - first:
+      213: -2238047398456762798
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00033
+  - first:
+      213: -5586546475705320675
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00034
+  - first:
+      213: 4225923067133668904
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00035
+  - first:
+      213: -3006564946009991738
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00036
+  - first:
+      213: 6647300588638208232
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00037
+  - first:
+      213: -6163902826261000338
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00038
+  - first:
+      213: 7787654120396963234
+    second: PANTS-TOA_T1_PANTS_FISHPICK_00039
+  - first:
+      213: -4573085488422890219
+    second: PANTS-TOA_T1_PANTS_ILUMINATION_00000
+  - first:
+      213: 127941217556763346
+    second: PANTS-TOA_T1_PANTS_ILUMINATION_00001
+  - first:
+      213: 486029844837902715
+    second: PANTS-TOA_T1_PANTS_ILUMINATION_00002
+  - first:
+      213: -1184410309534746038
+    second: PANTS-TOA_T1_PANTS_ILUMINATION_00003
+  - first:
+      213: -858939639017949704
+    second: PANTS-TOA_T1_PANTS_ILUMINATION_00004
+  - first:
+      213: 203834262710033065
+    second: PANTS-TOA_T1_PANTS_ILUMINATION_00005
+  - first:
+      213: -1953642139571046734
+    second: PANTS-TOA_T1_PANTS_ILUMINATION_00006
+  - first:
+      213: -3274485184350424073
+    second: PANTS-TOA_T1_PANTS_ILUMINATION_00007
+  - first:
+      213: 1591268961766665626
+    second: PANTS-TOA_T1_PANTS_ILUMINATION_00008
+  - first:
+      213: -4926111608945616859
+    second: PANTS-TOA_T1_PANTS_ILUMINATION_00009
+  - first:
+      213: -4845439088113105728
+    second: PANTS-TOA_T1_PANTS_ILUMINATION_00010
+  - first:
+      213: -1655376164577619719
+    second: PANTS-TOA_T1_PANTS_ILUMINATION_00011
+  - first:
+      213: -6945825812373179677
+    second: PANTS-TOA_T1_PANTS_ILUMINATION_00012
+  - first:
+      213: 6093292907752609318
+    second: PANTS-TOA_T1_PANTS_ILUMINATION_00013
+  - first:
+      213: -6854979688965892903
+    second: PANTS-TOA_T1_PANTS_ILUMINATION_00014
+  - first:
+      213: -352542184871972515
+    second: PANTS-TOA_T1_PANTS_ILUMINATION_00015
+  - first:
+      213: -4546645935044147501
+    second: PANTS-TOA_T1_PANTS_ILUMINATION_00016
+  - first:
+      213: 7558783401976472017
+    second: PANTS-TOA_T1_PANTS_ILUMINATION_00017
+  - first:
+      213: -8237515709816943585
+    second: PANTS-TOA_T1_PANTS_ILUMINATION_00018
+  - first:
+      213: -3588104137322823975
+    second: PANTS-TOA_T1_PANTS_ILUMINATION_00019
+  - first:
+      213: -8145314385668599550
+    second: PANTS-TOA_T1_PANTS_ILUMINATION_00020
+  - first:
+      213: -3921706794532427765
+    second: PANTS-TOA_T1_PANTS_ILUMINATION_00021
+  - first:
+      213: -7508050460225467239
+    second: PANTS-TOA_T1_PANTS_ILUMINATION_00022
+  - first:
+      213: 2155297987512321937
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00000
+  - first:
+      213: 140590263101985607
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00001
+  - first:
+      213: -9075966226743655637
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00002
+  - first:
+      213: 5617450769450053119
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00003
+  - first:
+      213: 7593628999880426630
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00004
+  - first:
+      213: -2955858802719693473
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00005
+  - first:
+      213: 7010761587529585067
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00006
+  - first:
+      213: -5335317352197174033
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00007
+  - first:
+      213: 8697612590087385548
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00008
+  - first:
+      213: -7305507855702037712
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00009
+  - first:
+      213: 4213749491729806158
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00010
+  - first:
+      213: 1519325655843912985
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00011
+  - first:
+      213: 1075283213016075269
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00012
+  - first:
+      213: -8420788760731873789
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00013
+  - first:
+      213: -4716893095614892578
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00014
+  - first:
+      213: 1863471792933769644
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00015
+  - first:
+      213: -3390915490446893700
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00016
+  - first:
+      213: -2508915826208177461
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00017
+  - first:
+      213: 2184398636069012141
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00018
+  - first:
+      213: 8885588880907922814
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00019
+  - first:
+      213: -8115007609019899408
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00020
+  - first:
+      213: -8637988933711057148
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00021
+  - first:
+      213: -5436499348875243845
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00022
+  - first:
+      213: -4393938541805573665
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00023
+  - first:
+      213: 8370583314653784652
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00024
+  - first:
+      213: -2348457396278622043
+    second: PANTS-TOA_TRAJE1_PANTS_FISH_00025
+  - first:
+      213: 293909861158668941
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00000
+  - first:
+      213: -1140294099710540515
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00001
+  - first:
+      213: 876366968919450879
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00002
+  - first:
+      213: 5377669131893081928
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00003
+  - first:
+      213: -2826567415133331800
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00004
+  - first:
+      213: 5322567556935255164
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00005
+  - first:
+      213: 3167485830739724112
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00006
+  - first:
+      213: -3230515293615573887
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00007
+  - first:
+      213: -6870803983635507750
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00008
+  - first:
+      213: -7306886261245942129
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00009
+  - first:
+      213: 110395507565363509
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00010
+  - first:
+      213: 2705225736870812157
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00011
+  - first:
+      213: -5238978357743524446
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00012
+  - first:
+      213: -6351312221850865767
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00013
+  - first:
+      213: -2091713934885272861
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00014
+  - first:
+      213: 1834596593728771714
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00015
+  - first:
+      213: 4932064146469700566
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00016
+  - first:
+      213: -6809328960050473131
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00017
+  - first:
+      213: 8669900470201964767
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00018
+  - first:
+      213: 4455834901733430043
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00019
+  - first:
+      213: -3688820155642947986
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00020
+  - first:
+      213: -6849550073327415710
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00021
+  - first:
+      213: 6386169429745391990
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00022
+  - first:
+      213: 4293948423378226912
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00023
+  - first:
+      213: -4716196831987061804
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00024
+  - first:
+      213: 1263185191515094282
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00025
+  - first:
+      213: -4379249745568658153
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00026
+  - first:
+      213: 3476311828234230502
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00027
+  - first:
+      213: 4779773536998837993
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00028
+  - first:
+      213: 5097701941242879696
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00029
+  - first:
+      213: 4446203521143520171
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00030
+  - first:
+      213: -7104755144978503727
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00031
+  - first:
+      213: 1352138032776582044
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00032
+  - first:
+      213: -5558333387857449303
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00033
+  - first:
+      213: -6253414887951518016
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00034
+  - first:
+      213: 5823707709010185081
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00035
+  - first:
+      213: -8681183677345981524
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00036
+  - first:
+      213: -4530139302398650850
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00037
+  - first:
+      213: -3111052888564419460
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00038
+  - first:
+      213: -776381776575508779
+    second: SHIRT-TOA_T1_SHIRT_FISHPICK_00039
+  - first:
+      213: -577527253119747104
+    second: SHIRT-TOA_T1_SHIRT_HANDUP_00000
+  - first:
+      213: -4144104935832997420
+    second: SHIRT-TOA_T1_SHIRT_HANDUP_00001
+  - first:
+      213: 4517608829493121994
+    second: SHIRT-TOA_T1_SHIRT_HANDUP_00002
+  - first:
+      213: 8040904345677240813
+    second: SHIRT-TOA_T1_SHIRT_HANDUP_00003
+  - first:
+      213: -8739284884530686285
+    second: SHIRT-TOA_T1_SHIRT_HANDUP_00004
+  - first:
+      213: -7522771613732039863
+    second: SHIRT-TOA_T1_SHIRT_HANDUP_00005
+  - first:
+      213: -7507832916268014971
+    second: SHIRT-TOA_T1_SHIRT_HANDUP_00006
+  - first:
+      213: 8634543827422905289
+    second: SHIRT-TOA_T1_SHIRT_HANDUP_00007
+  - first:
+      213: -205899693921390923
+    second: SHIRT-TOA_T1_SHIRT_HANDUP_00008
+  - first:
+      213: -6586587324222958081
+    second: SHIRT-TOA_T1_SHIRT_HANDUP_00009
+  - first:
+      213: -8244238523304792650
+    second: SHIRT-TOA_T1_SHIRT_HANDUP_00010
+  - first:
+      213: -6172469672014340589
+    second: SHIRT-TOA_T1_SHIRT_HANDUP_00011
+  - first:
+      213: 4183620673543546029
+    second: SHIRT-TOA_T1_SHIRT_HANDUP_00012
+  - first:
+      213: -440170827425393507
+    second: SHIRT-TOA_T1_SHIRT_HANDUP_00013
+  - first:
+      213: -388172675506744077
+    second: SHIRT-TOA_T1_SHIRT_HANDUP_00014
+  - first:
+      213: 980578333665773689
+    second: SHIRT-TOA_T1_SHIRT_HANDUP_00015
+  - first:
+      213: 1457802201096681406
+    second: SHIRT-TOA_T1_SHIRT_HANDUP_00016
+  - first:
+      213: -1430772589690095865
+    second: SHIRT-TOA_T1_SHIRT_HANDUP_00017
+  - first:
+      213: -3308738355856865733
+    second: SHIRT-TOA_T1_SHIRT_HANDUP_00018
+  - first:
+      213: 6956721152309649815
+    second: SHIRT-TOA_T1_SHIRT_HANDUP_00019
+  - first:
+      213: 4092384159132815563
+    second: SHIRT-TOA_T1_SHIRT_HANDUP_00020
+  - first:
+      213: 6626879685577590640
+    second: SHIRT-TOA_T1_SHIRT_HANDUP_00021
+  - first:
+      213: -2448039925571249544
+    second: SHIRT-TOA_T1_SHIRT_HANDUP_00022
+  - first:
+      213: -8185942269200325904
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00000
+  - first:
+      213: -3650759572972426858
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00001
+  - first:
+      213: -1254779879920704683
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00002
+  - first:
+      213: -4236020359129391782
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00003
+  - first:
+      213: 3072625086701873001
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00004
+  - first:
+      213: -3195228571308433399
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00005
+  - first:
+      213: 6154446615175498478
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00006
+  - first:
+      213: 467000439156901392
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00007
+  - first:
+      213: 9049143164946281444
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00008
+  - first:
+      213: -5264593692266349955
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00009
+  - first:
+      213: -4350325666865424494
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00010
+  - first:
+      213: -3621407243140693092
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00011
+  - first:
+      213: 2988510022005816624
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00012
+  - first:
+      213: -8252302234293990646
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00013
+  - first:
+      213: 7561190118948618787
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00014
+  - first:
+      213: -3244655425414449832
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00015
+  - first:
+      213: 176940947715900585
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00016
+  - first:
+      213: 3860897020954675147
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00017
+  - first:
+      213: 5416091019956445600
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00018
+  - first:
+      213: 2394905142243172630
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00019
+  - first:
+      213: -4285258199898733962
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00020
+  - first:
+      213: -1726763699051737814
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00021
+  - first:
+      213: -2848851931950934436
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00022
+  - first:
+      213: -5931092059722775174
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00023
+  - first:
+      213: 8108204723916232681
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00024
+  - first:
+      213: 5709179971571174181
+    second: SHIRT-TOA_TRAJE1_SHIRT_FISH_00025
+  - first:
+      213: -4621558907422733060
+    second: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00000
+  - first:
+      213: -1381279377291194670
+    second: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00001
+  - first:
+      213: -4062941418926586359
+    second: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00002
+  - first:
+      213: 1590751384319109610
+    second: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00003
+  - first:
+      213: -2453998874497530433
+    second: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00004
+  - first:
+      213: -8245019488722099978
+    second: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00005
+  - first:
+      213: -5001008441079403778
+    second: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00006
+  - first:
+      213: 4512040455496580637
+    second: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00007
+  - first:
+      213: 7572007634767571114
+    second: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00008
+  - first:
+      213: 6226792230428224430
+    second: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00009
+  - first:
+      213: 3514559605570394803
+    second: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00010
+  - first:
+      213: 8189105164097244139
+    second: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00011
+  - first:
+      213: 6576452149870149670
+    second: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00012
+  - first:
+      213: 3108644015928302648
+    second: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00013
+  - first:
+      213: 4740288776550780278
+    second: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00014
+  - first:
+      213: -1037025612483126278
+    second: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00015
+  - first:
+      213: -1043160360993687801
+    second: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00016
+  - first:
+      213: -5533698601283499612
+    second: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00017
+  - first:
+      213: 204292840035753026
+    second: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00018
+  - first:
+      213: -6391673868997714567
+    second: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00019
+  - first:
+      213: 3949247330609280146
+    second: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00020
+  - first:
+      213: -8418501212265954799
+    second: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00021
+  - first:
+      213: -4792264915250694178
+    second: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00022
+  - first:
+      213: 4187810756738600498
+    second: SHORT-TOA_T1_PANTS_HANDUP_00000
+  - first:
+      213: -2182089945688382970
+    second: SHORT-TOA_T1_PANTS_HANDUP_00001
+  - first:
+      213: -3247466081385984645
+    second: SHORT-TOA_T1_PANTS_HANDUP_00002
+  - first:
+      213: 8412769326882040082
+    second: SHORT-TOA_T1_PANTS_HANDUP_00003
+  - first:
+      213: 8678975462315599313
+    second: SHORT-TOA_T1_PANTS_HANDUP_00004
+  - first:
+      213: 8421068686851347329
+    second: SHORT-TOA_T1_PANTS_HANDUP_00005
+  - first:
+      213: 3470448290298509713
+    second: SHORT-TOA_T1_PANTS_HANDUP_00006
+  - first:
+      213: -8522020379166748904
+    second: SHORT-TOA_T1_PANTS_HANDUP_00007
+  - first:
+      213: -4236961484548484292
+    second: SHORT-TOA_T1_PANTS_HANDUP_00008
+  - first:
+      213: 3103757535959672744
+    second: SHORT-TOA_T1_PANTS_HANDUP_00009
+  - first:
+      213: -4558483920778495626
+    second: SHORT-TOA_T1_PANTS_HANDUP_00010
+  - first:
+      213: 6235039449736537165
+    second: SHORT-TOA_T1_PANTS_HANDUP_00011
+  - first:
+      213: -2075186137765752500
+    second: SHORT-TOA_T1_PANTS_HANDUP_00012
+  - first:
+      213: -2427087607225730533
+    second: SHORT-TOA_T1_PANTS_HANDUP_00013
+  - first:
+      213: 4515192346680085394
+    second: SHORT-TOA_T1_PANTS_HANDUP_00014
+  - first:
+      213: 5108986551368057000
+    second: SHORT-TOA_T1_PANTS_HANDUP_00015
+  - first:
+      213: 1206948422747645098
+    second: SHORT-TOA_T1_PANTS_HANDUP_00016
+  - first:
+      213: -2074686129794797083
+    second: SHORT-TOA_T1_PANTS_HANDUP_00017
+  - first:
+      213: 8267280173368488544
+    second: SHORT-TOA_T1_PANTS_HANDUP_00018
+  - first:
+      213: 4880161777485804842
+    second: SHORT-TOA_T1_PANTS_HANDUP_00019
+  - first:
+      213: 6099516164325549917
+    second: SHORT-TOA_T1_PANTS_HANDUP_00020
+  - first:
+      213: 6581096060508334097
+    second: SHORT-TOA_T1_PANTS_HANDUP_00021
+  - first:
+      213: -6576188287227776207
+    second: SHORT-TOA_T1_PANTS_HANDUP_00022
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00000
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 356
+        width: 237
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5253165, y: 1.5282258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6aea78bb00b0c30800000000000000
+      internalID: 4326552672454747873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00001
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 356
+        width: 237
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5253165, y: 1.5282258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f414734eafe3e6b20800000000000000
+      internalID: 3129508038360645967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00002
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 356
+        width: 237
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5253165, y: 1.5282258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afed2ca4c56231bd0800000000000000
+      internalID: -2660740777012699398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00003
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 356
+        width: 237
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5253165, y: 1.5282258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1010ea267a3e170800000000000000
+      internalID: 8206586988267110900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00004
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 356
+        width: 237
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5253165, y: 1.5282258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401667fb4e1b7a250800000000000000
+      internalID: 5955924628243636484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00005
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 356
+        width: 237
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5253165, y: 1.5282258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37c685cef5adec60800000000000000
+      internalID: 7849112239230863162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00006
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 356
+        width: 237
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5253165, y: 1.5282258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4d75e7bcbc89de0800000000000000
+      internalID: -1326086015402126084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00007
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 356
+        width: 237
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5253165, y: 1.5282258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcabb12bb410b9210800000000000000
+      internalID: 1340666738695191247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00008
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 356
+        width: 237
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5253165, y: 1.5282258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91ba1c9e4b9b6c00800000000000000
+      internalID: 894979712891924894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00009
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 12
+        width: 221
+        height: 135
+      alignment: 9
+      pivot: {x: 0.4954751, y: 1.4555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbadd049ca0b97d0800000000000000
+      internalID: -2910720874671920178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00010
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 12
+        width: 221
+        height: 135
+      alignment: 9
+      pivot: {x: 0.4954751, y: 1.4555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4769475db75456a10800000000000000
+      internalID: 1902002815798384244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00011
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 40
+        width: 212
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5070755, y: 1.4136691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8443299c8e209b470800000000000000
+      internalID: 8410756977928582216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00012
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 114
+        width: 229
+        height: 133
+      alignment: 9
+      pivot: {x: 0.4606987, y: 1.387218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1913a6d63e4076f20800000000000000
+      internalID: 3415704217223573905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00013
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 114
+        width: 229
+        height: 133
+      alignment: 9
+      pivot: {x: 0.4606987, y: 1.387218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc48edb5aac262f0800000000000000
+      internalID: -980998955608814371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00014
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 411
+        width: 238
+        height: 133
+      alignment: 9
+      pivot: {x: 0.48109242, y: 1.387218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fa167d185aa3470800000000000000
+      internalID: 8375188434131726178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00015
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 411
+        width: 238
+        height: 133
+      alignment: 9
+      pivot: {x: 0.48109242, y: 1.387218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a7bd54827203ac0800000000000000
+      internalID: -3877556225241810419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00016
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 411
+        width: 238
+        height: 133
+      alignment: 9
+      pivot: {x: 0.48109242, y: 1.387218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0f4aec51021b3a0800000000000000
+      internalID: -6651499896616193827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00017
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 366
+        width: 238
+        height: 133
+      alignment: 9
+      pivot: {x: 0.48109242, y: 1.387218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b7ed329e80ed710800000000000000
+      internalID: 1719821905124293507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00018
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 366
+        width: 238
+        height: 133
+      alignment: 9
+      pivot: {x: 0.48109242, y: 1.387218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f29ebe74147f940800000000000000
+      internalID: 5329800461172682527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00019
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 366
+        width: 238
+        height: 133
+      alignment: 9
+      pivot: {x: 0.48109242, y: 1.387218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592dd0a59801ad090800000000000000
+      internalID: -8009070805217586539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00020
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 366
+        width: 238
+        height: 133
+      alignment: 9
+      pivot: {x: 0.48109242, y: 1.387218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37239d694772a7750800000000000000
+      internalID: 6303394010158936691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00021
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 366
+        width: 238
+        height: 133
+      alignment: 9
+      pivot: {x: 0.48109242, y: 1.387218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b008d4206fcd819d0800000000000000
+      internalID: -2803247818879434741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00022
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 366
+        width: 238
+        height: 133
+      alignment: 9
+      pivot: {x: 0.48109242, y: 1.387218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5e59af2e216a680800000000000000
+      internalID: -8744280860417202691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00023
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 366
+        width: 238
+        height: 133
+      alignment: 9
+      pivot: {x: 0.48109242, y: 1.387218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcfe00a32819bbf0800000000000000
+      internalID: -308188558209909576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00024
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 198
+        width: 227
+        height: 128
+      alignment: 9
+      pivot: {x: 0.51762116, y: 1.4492188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105e392af4af86eb0800000000000000
+      internalID: -4726252588988373759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00025
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 181
+        width: 230
+        height: 117
+      alignment: 9
+      pivot: {x: 0.4978261, y: 1.5854701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ce9388e0985f600800000000000000
+      internalID: 501457629029723168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00026
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 181
+        width: 230
+        height: 117
+      alignment: 9
+      pivot: {x: 0.4978261, y: 1.5854701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9c8f9b2cf5e1e70800000000000000
+      internalID: 9087806388028623307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00027
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 233
+        width: 230
+        height: 118
+      alignment: 9
+      pivot: {x: 0.4978261, y: 1.6059322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b83ff05afca3400800000000000000
+      internalID: 304784232645102359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00028
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 238
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5147059, y: 1.4534883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a63e6dd378a5c80800000000000000
+      internalID: -8333199460827698535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00029
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 238
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5147059, y: 1.4534883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4774495703674c700800000000000000
+      internalID: 559702204203943796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00030
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 238
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5147059, y: 1.4534883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13f80829861f2450800000000000000
+      internalID: 6066092001429353247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00031
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 238
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5147059, y: 1.4534883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8393d8411b1eca0800000000000000
+      internalID: -5989311327599249245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00032
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 238
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5147059, y: 1.4534883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7241919c246f25320800000000000000
+      internalID: 2545367506119889959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00033
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 238
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5147059, y: 1.4534883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e5f70bfbbd0f0e0800000000000000
+      internalID: -2238047398456762798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00034
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 238
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5147059, y: 1.4534883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bbf5244999872b0800000000000000
+      internalID: -5586546475705320675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00035
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 238
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5147059, y: 1.4534883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ea1a0c3ae75aa30800000000000000
+      internalID: 4225923067133668904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00036
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 238
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5147059, y: 1.4534883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5deee6c198646d0800000000000000
+      internalID: -3006564946009991738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00037
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 238
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5147059, y: 1.4534883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0860d9aa4ff3c50800000000000000
+      internalID: 6647300588638208232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00038
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 238
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5147059, y: 1.4534883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fcfaa890b657aa0800000000000000
+      internalID: -6163902826261000338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_FISHPICK_00039
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 238
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5147059, y: 1.4534883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad3ed7692e431c60800000000000000
+      internalID: 7787654120396963234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_ILUMINATION_00000
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 546
+        width: 239
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5209205, y: 1.5884956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5155f0f3af22980c0800000000000000
+      internalID: -4573085488422890219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_ILUMINATION_00001
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 328
+        width: 233
+        height: 113
+      alignment: 9
+      pivot: {x: 0.50429183, y: 1.5884956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d21a980cd986c100800000000000000
+      internalID: 127941217556763346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_ILUMINATION_00002
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 328
+        width: 233
+        height: 113
+      alignment: 9
+      pivot: {x: 0.50429183, y: 1.5884956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b792dcb9199beb600800000000000000
+      internalID: 486029844837902715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_ILUMINATION_00003
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 300
+        width: 236
+        height: 120
+      alignment: 9
+      pivot: {x: 0.54025424, y: 1.4958333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4afed74911209fe0800000000000000
+      internalID: -1184410309534746038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_ILUMINATION_00004
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 353
+        width: 236
+        height: 122
+      alignment: 9
+      pivot: {x: 0.50635594, y: 1.4713115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f535dcf2fe6414f0800000000000000
+      internalID: -858939639017949704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_ILUMINATION_00005
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 353
+        width: 236
+        height: 122
+      alignment: 9
+      pivot: {x: 0.50635594, y: 1.4713115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa92e59e2a24d200800000000000000
+      internalID: 203834262710033065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_ILUMINATION_00006
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 311
+        width: 228
+        height: 120
+      alignment: 9
+      pivot: {x: 0.53289473, y: 1.3541666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b632ac23d443e4e0800000000000000
+      internalID: -1953642139571046734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_ILUMINATION_00007
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 311
+        width: 228
+        height: 120
+      alignment: 9
+      pivot: {x: 0.53289473, y: 1.3541666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f37384e211be82d0800000000000000
+      internalID: -3274485184350424073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_ILUMINATION_00008
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 19
+        width: 226
+        height: 93
+      alignment: 9
+      pivot: {x: 0.53318584, y: 1.3924731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9de43890b2551610800000000000000
+      internalID: 1591268961766665626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_ILUMINATION_00009
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 823
+        width: 214
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49766356, y: 1.268421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5285ed0679fe2abb0800000000000000
+      internalID: -4926111608945616859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_ILUMINATION_00010
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 139
+        width: 221
+        height: 83
+      alignment: 9
+      pivot: {x: 0.47285068, y: 1.3674699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4c93452da81ccb0800000000000000
+      internalID: -4845439088113105728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_ILUMINATION_00011
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 139
+        width: 221
+        height: 83
+      alignment: 9
+      pivot: {x: 0.47285068, y: 1.3674699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0d3bc162ce609e0800000000000000
+      internalID: -1655376164577619719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_ILUMINATION_00012
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 224
+        width: 226
+        height: 85
+      alignment: 9
+      pivot: {x: 0.49336284, y: 1.3588235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2f1c569387b9f90800000000000000
+      internalID: -6945825812373179677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_ILUMINATION_00013
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 266
+        width: 233
+        height: 88
+      alignment: 9
+      pivot: {x: 0.4828326, y: 1.3806819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626500fad99bf8450800000000000000
+      internalID: 6093292907752609318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_ILUMINATION_00014
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 266
+        width: 233
+        height: 88
+      alignment: 9
+      pivot: {x: 0.4828326, y: 1.3806819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d49ba8ca483ed0a0800000000000000
+      internalID: -6854979688965892903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_ILUMINATION_00015
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 266
+        width: 233
+        height: 88
+      alignment: 9
+      pivot: {x: 0.4828326, y: 1.3806819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51bd5e20c48b1bf0800000000000000
+      internalID: -352542184871972515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_ILUMINATION_00016
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 266
+        width: 233
+        height: 88
+      alignment: 9
+      pivot: {x: 0.4828326, y: 1.3806819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6483a7c9117e0c0800000000000000
+      internalID: -4546645935044147501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_ILUMINATION_00017
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 266
+        width: 233
+        height: 88
+      alignment: 9
+      pivot: {x: 0.4828326, y: 1.3806819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d12de8b47136e860800000000000000
+      internalID: 7558783401976472017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_ILUMINATION_00018
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 266
+        width: 233
+        height: 88
+      alignment: 9
+      pivot: {x: 0.4828326, y: 1.3806819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c49ac2b177ead80800000000000000
+      internalID: -8237515709816943585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_ILUMINATION_00019
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 266
+        width: 233
+        height: 88
+      alignment: 9
+      pivot: {x: 0.4828326, y: 1.3806819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de73c53c4e743ec0800000000000000
+      internalID: -3588104137322823975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_ILUMINATION_00020
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 266
+        width: 233
+        height: 88
+      alignment: 9
+      pivot: {x: 0.4828326, y: 1.3806819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2011852d8b706fe80800000000000000
+      internalID: -8145314385668599550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_ILUMINATION_00021
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 266
+        width: 233
+        height: 88
+      alignment: 9
+      pivot: {x: 0.4828326, y: 1.3806819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08a8aec27c4399c0800000000000000
+      internalID: -3921706794532427765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_T1_PANTS_ILUMINATION_00022
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 266
+        width: 233
+        height: 88
+      alignment: 9
+      pivot: {x: 0.4828326, y: 1.3806819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c8d82c2eb0ec790800000000000000
+      internalID: -7508050460225467239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 178
+        width: 235
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 1.4136691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19749c2b91829ed10800000000000000
+      internalID: 2155297987512321937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 178
+        width: 235
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 1.4136691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7439213791a73f100800000000000000
+      internalID: 140590263101985607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00002
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 433
+        width: 233
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 1.4669422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b238085adc0bb0280800000000000000
+      internalID: -9075966226743655637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00003
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 433
+        width: 233
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 1.4669422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffda05856b135fd40800000000000000
+      internalID: 5617450769450053119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00004
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1168
+        width: 253
+        height: 127
+      alignment: 9
+      pivot: {x: 0.46442688, y: 1.4606299}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6844af5b75df16960800000000000000
+      internalID: 7593628999880426630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00005
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 422
+        width: 238
+        height: 119
+      alignment: 9
+      pivot: {x: 0.45168066, y: 1.5504202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f556ea9641eaaf6d0800000000000000
+      internalID: -2955858802719693473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00006
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 422
+        width: 238
+        height: 119
+      alignment: 9
+      pivot: {x: 0.45168066, y: 1.5504202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba197ade48a3b4160800000000000000
+      internalID: 7010761587529585067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00007
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 703
+        width: 243
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5041152, y: 1.5635593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec4f4ac22525f5b0800000000000000
+      internalID: -5335317352197174033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00008
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 443
+        width: 237
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5295359, y: 1.3860294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1bf1a919024b870800000000000000
+      internalID: 8697612590087385548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00009
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 443
+        width: 237
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5295359, y: 1.3860294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bed0dbf4f9d9a90800000000000000
+      internalID: -7305507855702037712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00010
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 770
+        width: 244
+        height: 146
+      alignment: 9
+      pivot: {x: 0.55942625, y: 1.2226027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43b90b56de3a7a30800000000000000
+      internalID: 4213749491729806158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00011
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 770
+        width: 244
+        height: 146
+      alignment: 9
+      pivot: {x: 0.55942625, y: 1.2226027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91db6be52aab51510800000000000000
+      internalID: 1519325655843912985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00012
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 249
+        width: 235
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5595745, y: 1.140625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c83c8926c2cee00800000000000000
+      internalID: 1075283213016075269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00013
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 581
+        width: 241
+        height: 140
+      alignment: 9
+      pivot: {x: 0.58298755, y: 1.3464285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e89f3cc39532b80800000000000000
+      internalID: -8420788760731873789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00014
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 581
+        width: 241
+        height: 140
+      alignment: 9
+      pivot: {x: 0.58298755, y: 1.3464285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5b16088ba3a8eb0800000000000000
+      internalID: -4716893095614892578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00015
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 556
+        width: 237
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5253165, y: 1.3758621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca117caf8b16cd910800000000000000
+      internalID: 1863471792933769644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00016
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 556
+        width: 237
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5253165, y: 1.3758621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d1b88c35c01f0d0800000000000000
+      internalID: -3390915490446893700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00017
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 556
+        width: 237
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5253165, y: 1.3758621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2818f495a8e2dd0800000000000000
+      internalID: -2508915826208177461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00018
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 556
+        width: 237
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5253165, y: 1.3758621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2cdbe6cfa805e10800000000000000
+      internalID: 2184398636069012141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00019
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 556
+        width: 237
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5253165, y: 1.3758621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d6da26204ff4b70800000000000000
+      internalID: 8885588880907922814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00020
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 556
+        width: 237
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5253165, y: 1.3758621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1e6c22393b16f80800000000000000
+      internalID: -8115007609019899408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00021
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 556
+        width: 237
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5253165, y: 1.3758621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fa560b4d2bf1880800000000000000
+      internalID: -8637988933711057148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00022
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 556
+        width: 237
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5253165, y: 1.3758621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe06a065acad84b0800000000000000
+      internalID: -5436499348875243845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00023
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 556
+        width: 237
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5253165, y: 1.3758621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9e7c22d289503c0800000000000000
+      internalID: -4393938541805573665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00024
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 556
+        width: 237
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5253165, y: 1.3758621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a20c8ec294a2470800000000000000
+      internalID: 8370583314653784652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS-TOA_TRAJE1_PANTS_FISH_00025
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 556
+        width: 237
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5253165, y: 1.3758621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a88ca4d07a986fd0800000000000000
+      internalID: -2348457396278622043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00000
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 482
+        width: 240
+        height: 133
+      alignment: 9
+      pivot: {x: 0.53541666, y: 0.7180451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ac856267d241400800000000000000
+      internalID: 293909861158668941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00001
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 482
+        width: 240
+        height: 133
+      alignment: 9
+      pivot: {x: 0.53541666, y: 0.7180451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15874fce8cdc20f0800000000000000
+      internalID: -1140294099710540515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00002
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 482
+        width: 240
+        height: 133
+      alignment: 9
+      pivot: {x: 0.53541666, y: 0.7180451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff464537d1b792c00800000000000000
+      internalID: 876366968919450879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00003
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 482
+        width: 240
+        height: 133
+      alignment: 9
+      pivot: {x: 0.53541666, y: 0.7180451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8470216559151aa40800000000000000
+      internalID: 5377669131893081928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00004
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 482
+        width: 240
+        height: 133
+      alignment: 9
+      pivot: {x: 0.53541666, y: 0.7180451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae984769e306c8d0800000000000000
+      internalID: -2826567415133331800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00005
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 482
+        width: 240
+        height: 133
+      alignment: 9
+      pivot: {x: 0.53541666, y: 0.7180451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74052c2efe8dd940800000000000000
+      internalID: 5322567556935255164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00006
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 482
+        width: 240
+        height: 133
+      alignment: 9
+      pivot: {x: 0.53541666, y: 0.7180451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057035cb49b25fb20800000000000000
+      internalID: 3167485830739724112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00007
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 482
+        width: 240
+        height: 133
+      alignment: 9
+      pivot: {x: 0.53541666, y: 0.7180451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184b39ad477ea23d0800000000000000
+      internalID: -3230515293615573887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00008
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 543
+        width: 242
+        height: 129
+      alignment: 9
+      pivot: {x: 0.53512394, y: 0.77131784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad511121e2006a0a0800000000000000
+      internalID: -6870803983635507750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00009
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 29
+        width: 229
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5262009, y: 0.6632653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86e040b8a9b89a90800000000000000
+      internalID: -7306886261245942129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00010
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 29
+        width: 229
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5262009, y: 0.6632653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5318b351124388100800000000000000
+      internalID: 110395507565363509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00011
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1516
+        width: 273
+        height: 218
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40137616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9dd6b8974ea8520800000000000000
+      internalID: 2705225736870812157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00012
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1507
+        width: 273
+        height: 213
+      alignment: 9
+      pivot: {x: 0.529304, y: 0.3967136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5ecb0e0f86b47b0800000000000000
+      internalID: -5238978357743524446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1451
+        width: 273
+        height: 213
+      alignment: 9
+      pivot: {x: 0.529304, y: 0.3967136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f6bf65f2b9bd7a0800000000000000
+      internalID: -6351312221850865767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00014
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1524
+        width: 271
+        height: 207
+      alignment: 9
+      pivot: {x: 0.53321034, y: 0.40821257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2cd63324db8f2e0800000000000000
+      internalID: -2091713934885272861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00015
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1840
+        width: 271
+        height: 207
+      alignment: 9
+      pivot: {x: 0.53321034, y: 0.40821257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2865853c1ebc57910800000000000000
+      internalID: 1834596593728771714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1666
+        width: 285
+        height: 207
+      alignment: 9
+      pivot: {x: 0.55614036, y: 0.40821257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d344c3c536327440800000000000000
+      internalID: 4932064146469700566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00017
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1839
+        width: 276
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557596163676081a0800000000000000
+      internalID: -6809328960050473131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00018
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1839
+        width: 276
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd85164ea8ca15870800000000000000
+      internalID: 8669900470201964767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00019
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1698
+        width: 276
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13db9f2c3e46dd30800000000000000
+      internalID: 4455834901733430043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00020
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1698
+        width: 276
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66d996dc9daeccc0800000000000000
+      internalID: -3688820155642947986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00021
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1698
+        width: 276
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e8110bf7281f0a0800000000000000
+      internalID: -6849550073327415710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00022
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1698
+        width: 276
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679de6fc24b30a850800000000000000
+      internalID: 6386169429745391990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00023
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1631
+        width: 271
+        height: 207
+      alignment: 9
+      pivot: {x: 0.53321034, y: 0.40821257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eece4b375b279b30800000000000000
+      internalID: 4293948423378226912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00024
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1870
+        width: 279
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5501792, y: 0.48305085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dba69208f3bc8eb0800000000000000
+      internalID: -4716196831987061804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00025
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1874
+        width: 287
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5174216, y: 0.55780345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d7ac13d3cb78110800000000000000
+      internalID: 1263185191515094282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00026
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1874
+        width: 287
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5174216, y: 0.55780345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d09a40f87c933c0800000000000000
+      internalID: -4379249745568658153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00027
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1875
+        width: 294
+        height: 172
+      alignment: 9
+      pivot: {x: 0.52210885, y: 0.6017442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ead36280375e3030800000000000000
+      internalID: 3476311828234230502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00028
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 941
+        width: 253
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55246913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eec0a325ba255240800000000000000
+      internalID: 4779773536998837993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00029
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 941
+        width: 253
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55246913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ded99228ecaeb640800000000000000
+      internalID: 5097701941242879696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00030
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1454
+        width: 257
+        height: 175
+      alignment: 9
+      pivot: {x: 0.5155642, y: 0.5057143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babb9d4ab8614bd30800000000000000
+      internalID: 4446203521143520171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00031
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1454
+        width: 257
+        height: 175
+      alignment: 9
+      pivot: {x: 0.5155642, y: 0.5057143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d76d6796d6d66d90800000000000000
+      internalID: -7104755144978503727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00032
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1339
+        width: 265
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.53313255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9391fa7062c3c210800000000000000
+      internalID: 1352138032776582044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00033
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1353
+        width: 269
+        height: 173
+      alignment: 9
+      pivot: {x: 0.51486987, y: 0.52890176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae2099ab35dcd2b0800000000000000
+      internalID: -5558333387857449303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00034
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1669
+        width: 271
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5221402, y: 0.51488096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6b28a9a486739a0800000000000000
+      internalID: -6253414887951518016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00035
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1528
+        width: 271
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5221402, y: 0.51488096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b81475e47f1d050800000000000000
+      internalID: 5823707709010185081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00036
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1874
+        width: 281
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5355872, y: 0.52890176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab9fd9b07d368780800000000000000
+      internalID: -8681183677345981524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00037
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1356
+        width: 269
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5260223, y: 0.53313255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e161e716e46b121c0800000000000000
+      internalID: -4530139302398650850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00038
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1216
+        width: 255
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5117647, y: 0.5115607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c743aa381e153d4d0800000000000000
+      internalID: -3111052888564419460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_FISHPICK_00039
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1216
+        width: 255
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5117647, y: 0.5115607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de412d33ecb935f0800000000000000
+      internalID: -776381776575508779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_HANDUP_00000
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1736
+        width: 278
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5053957, y: 0.7683824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebb0bde5063cf7f0800000000000000
+      internalID: -577527253119747104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_HANDUP_00001
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1736
+        width: 278
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5053957, y: 0.7683824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d13bbb648e2d76c0800000000000000
+      internalID: -4144104935832997420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_HANDUP_00002
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1736
+        width: 278
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5053957, y: 0.7683824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac31b1c8b45c1be30800000000000000
+      internalID: 4517608829493121994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_HANDUP_00003
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1736
+        width: 278
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5053957, y: 0.7683824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de99cfc56e7079f60800000000000000
+      internalID: 8040904345677240813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_HANDUP_00004
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 959
+        width: 253
+        height: 264
+      alignment: 9
+      pivot: {x: 0.5513834, y: 0.3844697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b69b9243b2d7b680800000000000000
+      internalID: -8739284884530686285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_HANDUP_00005
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 959
+        width: 253
+        height: 264
+      alignment: 9
+      pivot: {x: 0.5513834, y: 0.3844697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9431c1d131fb99790800000000000000
+      internalID: -7522771613732039863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_HANDUP_00006
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1074
+        width: 253
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5948617, y: 0.33754513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5822cd8adb1dec790800000000000000
+      internalID: -7507832916268014971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_HANDUP_00007
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1074
+        width: 253
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5948617, y: 0.33754513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3851ffcdf04d770800000000000000
+      internalID: 8634543827422905289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_HANDUP_00008
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 661
+        width: 250
+        height: 278
+      alignment: 9
+      pivot: {x: 0.574, y: 0.3111511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be247cb15f742df0800000000000000
+      internalID: -205899693921390923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_HANDUP_00009
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 903
+        width: 260
+        height: 282
+      alignment: 9
+      pivot: {x: 0.5480769, y: 0.32446808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff59991d9bdb794a0800000000000000
+      internalID: -6586587324222958081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_HANDUP_00010
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 903
+        width: 260
+        height: 282
+      alignment: 9
+      pivot: {x: 0.5480769, y: 0.32446808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bda3de2eb4969d80800000000000000
+      internalID: -8244238523304792650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_HANDUP_00011
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1391
+        width: 269
+        height: 276
+      alignment: 9
+      pivot: {x: 0.5297398, y: 0.33152175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e96b4598bf65aa0800000000000000
+      internalID: -6172469672014340589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_HANDUP_00012
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 501
+        width: 248
+        height: 272
+      alignment: 9
+      pivot: {x: 0.56653225, y: 0.32536766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da42b8936d43f0a30800000000000000
+      internalID: 4183620673543546029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_HANDUP_00013
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 501
+        width: 248
+        height: 272
+      alignment: 9
+      pivot: {x: 0.56653225, y: 0.32536766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94d1dee6f234e9f0800000000000000
+      internalID: -440170827425393507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_HANDUP_00014
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 937
+        width: 252
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5734127, y: 0.33393502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f458ec120fec9af0800000000000000
+      internalID: -388172675506744077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_HANDUP_00015
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 937
+        width: 252
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5734127, y: 0.33393502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978c7949cc6bb9d00800000000000000
+      internalID: 980578333665773689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_HANDUP_00016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 450
+        width: 246
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5386179, y: 0.48267326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7762dc0672b3410800000000000000
+      internalID: 1457802201096681406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_HANDUP_00017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 781
+        width: 258
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5135659, y: 0.69520545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707f72509efd42ce0800000000000000
+      internalID: -1430772589690095865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_HANDUP_00018
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1722
+        width: 279
+        height: 150
+      alignment: 9
+      pivot: {x: 0.51433694, y: 0.71666664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36017ceefff412d0800000000000000
+      internalID: -3308738355856865733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_HANDUP_00019
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1722
+        width: 279
+        height: 150
+      alignment: 9
+      pivot: {x: 0.51433694, y: 0.71666664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791ecdc970d3b8060800000000000000
+      internalID: 6956721152309649815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_HANDUP_00020
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1368
+        width: 269
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5037175, y: 0.7226027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc01c89d5b11bc830800000000000000
+      internalID: 4092384159132815563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_HANDUP_00021
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1368
+        width: 269
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5037175, y: 0.7226027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077ca1c96f767fb50800000000000000
+      internalID: 6626879685577590640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T1_SHIRT_HANDUP_00022
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1368
+        width: 269
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5037175, y: 0.7226027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a1a5078a0d60ed0800000000000000
+      internalID: -2448039925571249544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00000
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1908
+        width: 277
+        height: 139
+      alignment: 9
+      pivot: {x: 0.51083034, y: 0.6582734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2a57c80e0b56e80800000000000000
+      internalID: -8185942269200325904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00001
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1908
+        width: 277
+        height: 139
+      alignment: 9
+      pivot: {x: 0.51083034, y: 0.6582734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6992f9cc285e55dc0800000000000000
+      internalID: -3650759572972426858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00002
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 806
+        width: 245
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5040816, y: 0.71705425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553e40ae850269ee0800000000000000
+      internalID: -1254779879920704683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00003
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 806
+        width: 245
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5040816, y: 0.71705425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d15c04de1a635c0800000000000000
+      internalID: -4236020359129391782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00004
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 775
+        width: 250
+        height: 126
+      alignment: 9
+      pivot: {x: 0.49, y: 0.71031743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967a1d4ac3824aa20800000000000000
+      internalID: 3072625086701873001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00005
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 850
+        width: 246
+        height: 137
+      alignment: 9
+      pivot: {x: 0.45325205, y: 0.7189781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9006bfe1b8448a3d0800000000000000
+      internalID: -3195228571308433399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00006
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 850
+        width: 246
+        height: 137
+      alignment: 9
+      pivot: {x: 0.45325205, y: 0.7189781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea04aeb69cf86550800000000000000
+      internalID: 6154446615175498478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00007
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1297
+        width: 256
+        height: 155
+      alignment: 9
+      pivot: {x: 0.48632812, y: 0.6548387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01606e5dc6e1b7600800000000000000
+      internalID: 467000439156901392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 24
+        width: 232
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5323276, y: 0.63486844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3f64c93c3059d70800000000000000
+      internalID: 9049143164946281444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 24
+        width: 232
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5323276, y: 0.63486844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ab3bd0ee760f6b0800000000000000
+      internalID: -5264593692266349955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00010
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 594
+        width: 242
+        height: 174
+      alignment: 9
+      pivot: {x: 0.54752064, y: 0.5258621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297d831ead980a3c0800000000000000
+      internalID: -4350325666865424494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00011
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 594
+        width: 242
+        height: 174
+      alignment: 9
+      pivot: {x: 0.54752064, y: 0.5258621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c938295ac4d2ebdc0800000000000000
+      internalID: -3621407243140693092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00012
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 617
+        width: 242
+        height: 187
+      alignment: 9
+      pivot: {x: 0.6012397, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03df95df702597920800000000000000
+      internalID: 2988510022005816624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00013
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 989
+        width: 246
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5589431, y: 0.5451977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b8eb927dee97d80800000000000000
+      internalID: -8252302234293990646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00014
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 989
+        width: 246
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5589431, y: 0.5451977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322402f2a5ebee860800000000000000
+      internalID: 7561190118948618787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00015
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 224
+        width: 235
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5425532, y: 0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855b0add41ba8f2d0800000000000000
+      internalID: -3244655425414449832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00016
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 224
+        width: 235
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5425532, y: 0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4c3debade947200800000000000000
+      internalID: 176940947715900585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00017
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 224
+        width: 235
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5425532, y: 0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc70e587269a49530800000000000000
+      internalID: 3860897020954675147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00018
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 224
+        width: 235
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5425532, y: 0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1efa34612d92b40800000000000000
+      internalID: 5416091019956445600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00019
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 224
+        width: 235
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5425532, y: 0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6112922c9896c3120800000000000000
+      internalID: 2394905142243172630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00020
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 224
+        width: 235
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5425532, y: 0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672c4381f54b784c0800000000000000
+      internalID: -4285258199898733962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00021
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 224
+        width: 235
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5425532, y: 0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d4bf2809d4908e0800000000000000
+      internalID: -1726763699051737814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00022
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 224
+        width: 235
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5425532, y: 0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5611620348d678d0800000000000000
+      internalID: -2848851931950934436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00023
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 224
+        width: 235
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5425532, y: 0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75851a223780bda0800000000000000
+      internalID: -5931092059722775174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00024
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 224
+        width: 235
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5425532, y: 0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7db2fbc31268070800000000000000
+      internalID: 8108204723916232681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_FISH_00025
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 224
+        width: 235
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5425532, y: 0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b46448fe41b3f40800000000000000
+      internalID: 5709179971571174181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00000
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1733
+        width: 275
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5072727, y: 0.74444443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc8686e8acecdfb0800000000000000
+      internalID: -4621558907422733060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00001
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 918
+        width: 251
+        height: 154
+      alignment: 9
+      pivot: {x: 0.4880478, y: 0.6461039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de4cf489b5b4dce0800000000000000
+      internalID: -1381279377291194670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00002
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 918
+        width: 251
+        height: 154
+      alignment: 9
+      pivot: {x: 0.4880478, y: 0.6461039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906c8ad4e488d97c0800000000000000
+      internalID: -4062941418926586359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00003
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 816
+        width: 251
+        height: 141
+      alignment: 9
+      pivot: {x: 0.49203187, y: 0.67021275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae92d44b4fb731610800000000000000
+      internalID: 1590751384319109610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00004
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1187
+        width: 262
+        height: 150
+      alignment: 9
+      pivot: {x: 0.48282441, y: 0.63666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5cd568605a1fdd0800000000000000
+      internalID: -2453998874497530433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00005
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1187
+        width: 262
+        height: 150
+      alignment: 9
+      pivot: {x: 0.48282441, y: 0.63666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0eb80857ec39d80800000000000000
+      internalID: -8245019488722099978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00006
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 674
+        width: 243
+        height: 140
+      alignment: 9
+      pivot: {x: 0.50823045, y: 0.63928574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa6bbeb159d89ab0800000000000000
+      internalID: -5001008441079403778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00007
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 674
+        width: 243
+        height: 140
+      alignment: 9
+      pivot: {x: 0.50823045, y: 0.63928574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1eb01273ecfd9e30800000000000000
+      internalID: 4512040455496580637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00008
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 477
+        width: 240
+        height: 115
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.6130435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8edda53dc251960800000000000000
+      internalID: 7572007634767571114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00009
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 723
+        width: 243
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5493827, y: 0.62}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab26d8ea820a6650800000000000000
+      internalID: 6226792230428224430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 929
+        width: 259
+        height: 124
+      alignment: 9
+      pivot: {x: 0.496139, y: 0.6008065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bad5ff175936c030800000000000000
+      internalID: 3514559605570394803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 929
+        width: 259
+        height: 124
+      alignment: 9
+      pivot: {x: 0.496139, y: 0.6008065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb455e42cb85a170800000000000000
+      internalID: 8189105164097244139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1315
+        width: 263
+        height: 134
+      alignment: 9
+      pivot: {x: 0.49619773, y: 0.57835823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6204d530360444b50800000000000000
+      internalID: 6576452149870149670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1184
+        width: 261
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5852713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cdc8e134f142b20800000000000000
+      internalID: 3108644015928302648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1184
+        width: 261
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5852713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d8413f683e8c140800000000000000
+      internalID: 4740288776550780278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00015
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1225
+        width: 261
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5852713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb16f823bebb91f0800000000000000
+      internalID: -1037025612483126278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00016
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1225
+        width: 261
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5852713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707f337bd23f581f0800000000000000
+      internalID: -1043160360993687801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00017
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1105
+        width: 261
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5852713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9cb60e07a5433b0800000000000000
+      internalID: -5533698601283499612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00018
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1105
+        width: 261
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5852713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c9c70714bc5d200800000000000000
+      internalID: 204292840035753026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00019
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1105
+        width: 261
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5852713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d9e3e0b763c47a0800000000000000
+      internalID: -6391673868997714567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00020
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1105
+        width: 261
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5852713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294302fe58b8ec630800000000000000
+      internalID: 3949247330609280146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00021
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1105
+        width: 261
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5852713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11241b520c97b2b80800000000000000
+      internalID: -8418501212265954799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00022
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1105
+        width: 261
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5852713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed73ae833747e7db0800000000000000
+      internalID: -4792264915250694178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHORT-TOA_T1_PANTS_HANDUP_00000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 654
+        width: 249
+        height: 125
+      alignment: 9
+      pivot: {x: 0.54016066, y: 1.444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ec6fdf1b71e1a30800000000000000
+      internalID: 4187810756738600498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHORT-TOA_T1_PANTS_HANDUP_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 654
+        width: 249
+        height: 125
+      alignment: 9
+      pivot: {x: 0.54016066, y: 1.444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602ea4f61c8a7b1e0800000000000000
+      internalID: -2182089945688382970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHORT-TOA_T1_PANTS_HANDUP_00002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 654
+        width: 249
+        height: 125
+      alignment: 9
+      pivot: {x: 0.54016066, y: 1.444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dcbd60eceaee2d0800000000000000
+      internalID: -3247466081385984645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHORT-TOA_T1_PANTS_HANDUP_00003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 654
+        width: 249
+        height: 125
+      alignment: 9
+      pivot: {x: 0.54016066, y: 1.444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2192b1a412920c470800000000000000
+      internalID: 8412769326882040082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHORT-TOA_T1_PANTS_HANDUP_00004
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 5
+        width: 211
+        height: 107
+      alignment: 9
+      pivot: {x: 0.52369666, y: 1.6588784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d527a5233ae17870800000000000000
+      internalID: 8678975462315599313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHORT-TOA_T1_PANTS_HANDUP_00005
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 5
+        width: 211
+        height: 107
+      alignment: 9
+      pivot: {x: 0.52369666, y: 1.6588784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18390fc9a55add470800000000000000
+      internalID: 8421068686851347329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHORT-TOA_T1_PANTS_HANDUP_00006
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 83
+        width: 223
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5358744, y: 1.5707965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199ba923552892030800000000000000
+      internalID: 3470448290298509713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHORT-TOA_T1_PANTS_HANDUP_00007
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 83
+        width: 223
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5358744, y: 1.5707965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f4023ed93bbb980800000000000000
+      internalID: -8522020379166748904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHORT-TOA_T1_PANTS_HANDUP_00008
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 20
+        width: 212
+        height: 127
+      alignment: 9
+      pivot: {x: 0.4976415, y: 1.4212599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33d97a6af94335c0800000000000000
+      internalID: -4236961484548484292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHORT-TOA_T1_PANTS_HANDUP_00009
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1041
+        width: 219
+        height: 125
+      alignment: 9
+      pivot: {x: 0.522831, y: 1.444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a761d7d803c21b20800000000000000
+      internalID: 3103757535959672744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHORT-TOA_T1_PANTS_HANDUP_00010
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1041
+        width: 219
+        height: 125
+      alignment: 9
+      pivot: {x: 0.522831, y: 1.444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679faa3a6030db0c0800000000000000
+      internalID: -4558483920778495626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHORT-TOA_T1_PANTS_HANDUP_00011
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1041
+        width: 219
+        height: 125
+      alignment: 9
+      pivot: {x: 0.522831, y: 1.444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44e71a485f478650800000000000000
+      internalID: 6235039449736537165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHORT-TOA_T1_PANTS_HANDUP_00012
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1041
+        width: 219
+        height: 125
+      alignment: 9
+      pivot: {x: 0.522831, y: 1.444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4158a7d3357333e0800000000000000
+      internalID: -2075186137765752500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHORT-TOA_T1_PANTS_HANDUP_00013
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1041
+        width: 219
+        height: 125
+      alignment: 9
+      pivot: {x: 0.522831, y: 1.444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1abe843ea0415ed0800000000000000
+      internalID: -2427087607225730533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHORT-TOA_T1_PANTS_HANDUP_00014
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1041
+        width: 219
+        height: 125
+      alignment: 9
+      pivot: {x: 0.522831, y: 1.444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bcd6c448f29ae30800000000000000
+      internalID: 4515192346680085394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHORT-TOA_T1_PANTS_HANDUP_00015
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1041
+        width: 219
+        height: 125
+      alignment: 9
+      pivot: {x: 0.522831, y: 1.444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a08a8c2334c6e640800000000000000
+      internalID: 5108986551368057000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHORT-TOA_T1_PANTS_HANDUP_00016
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 920
+        width: 217
+        height: 119
+      alignment: 9
+      pivot: {x: 0.48617512, y: 1.5252101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa467102231ffb010800000000000000
+      internalID: 1206948422747645098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHORT-TOA_T1_PANTS_HANDUP_00017
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 149
+        width: 227
+        height: 115
+      alignment: 9
+      pivot: {x: 0.4647577, y: 1.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1b62505fb3533e0800000000000000
+      internalID: -2074686129794797083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHORT-TOA_T1_PANTS_HANDUP_00018
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1055
+        width: 259
+        height: 127
+      alignment: 9
+      pivot: {x: 0.507722, y: 1.4606299}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062324804874bb270800000000000000
+      internalID: 8267280173368488544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHORT-TOA_T1_PANTS_HANDUP_00019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1055
+        width: 259
+        height: 127
+      alignment: 9
+      pivot: {x: 0.507722, y: 1.4606299}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25fa79c741d9b340800000000000000
+      internalID: 4880161777485804842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHORT-TOA_T1_PANTS_HANDUP_00020
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1236
+        width: 263
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 1.4423077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57a06482a5d5a450800000000000000
+      internalID: 6099516164325549917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHORT-TOA_T1_PANTS_HANDUP_00021
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1236
+        width: 263
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 1.4423077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1186257bfffb45b50800000000000000
+      internalID: 6581096060508334097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHORT-TOA_T1_PANTS_HANDUP_00022
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1236
+        width: 263
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 1.4423077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13334bb489facb4a0800000000000000
+      internalID: -6576188287227776207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PANTS-TOA_T1_PANTS_FISHPICK_00028: -8333199460827698535
+      PANTS-TOA_T1_PANTS_FISHPICK_00023: -308188558209909576
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00023: -5931092059722775174
+      SHORT-TOA_T1_PANTS_HANDUP_00006: 3470448290298509713
+      PANTS-TOA_T1_PANTS_ILUMINATION_00019: -3588104137322823975
+      SHORT-TOA_T1_PANTS_HANDUP_00013: -2427087607225730533
+      SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00011: 8189105164097244139
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00002: 876366968919450879
+      PANTS-TOA_T1_PANTS_FISHPICK_00030: 6066092001429353247
+      SHIRT-TOA_T1_SHIRT_HANDUP_00000: -577527253119747104
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00023: 4293948423378226912
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00020: -4285258199898733962
+      SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00002: -4062941418926586359
+      PANTS-TOA_T1_PANTS_FISHPICK_00012: 3415704217223573905
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00035: 5823707709010185081
+      SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00008: 7572007634767571114
+      SHORT-TOA_T1_PANTS_HANDUP_00014: 4515192346680085394
+      PANTS-TOA_T1_PANTS_ILUMINATION_00008: 1591268961766665626
+      SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00012: 6576452149870149670
+      PANTS-TOA_T1_PANTS_ILUMINATION_00005: 203834262710033065
+      SHIRT-TOA_T1_SHIRT_HANDUP_00021: 6626879685577590640
+      PANTS-TOA_T1_PANTS_FISHPICK_00000: 4326552672454747873
+      PANTS-TOA_TRAJE1_PANTS_FISH_00001: 140590263101985607
+      PANTS-TOA_TRAJE1_PANTS_FISH_00014: -4716893095614892578
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00011: 2705225736870812157
+      SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00006: -5001008441079403778
+      SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00004: -2453998874497530433
+      SHORT-TOA_T1_PANTS_HANDUP_00010: -4558483920778495626
+      SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00017: -5533698601283499612
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00012: 2988510022005816624
+      PANTS-TOA_T1_PANTS_FISHPICK_00002: -2660740777012699398
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00010: -4350325666865424494
+      SHORT-TOA_T1_PANTS_HANDUP_00008: -4236961484548484292
+      PANTS-TOA_T1_PANTS_FISHPICK_00015: -3877556225241810419
+      SHORT-TOA_T1_PANTS_HANDUP_00004: 8678975462315599313
+      SHIRT-TOA_T1_SHIRT_HANDUP_00015: 980578333665773689
+      PANTS-TOA_T1_PANTS_FISHPICK_00039: 7787654120396963234
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00009: -5264593692266349955
+      PANTS-TOA_T1_PANTS_ILUMINATION_00001: 127941217556763346
+      PANTS-TOA_T1_PANTS_FISHPICK_00010: 1902002815798384244
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00026: -4379249745568658153
+      PANTS-TOA_T1_PANTS_ILUMINATION_00016: -4546645935044147501
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00034: -6253414887951518016
+      PANTS-TOA_TRAJE1_PANTS_FISH_00011: 1519325655843912985
+      PANTS-TOA_TRAJE1_PANTS_FISH_00022: -5436499348875243845
+      PANTS-TOA_T1_PANTS_ILUMINATION_00012: -6945825812373179677
+      PANTS-TOA_TRAJE1_PANTS_FISH_00021: -8637988933711057148
+      PANTS-TOA_T1_PANTS_FISHPICK_00034: -5586546475705320675
+      SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00009: 6226792230428224430
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00002: -1254779879920704683
+      PANTS-TOA_TRAJE1_PANTS_FISH_00015: 1863471792933769644
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00022: -2848851931950934436
+      SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00020: 3949247330609280146
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00028: 4779773536998837993
+      PANTS-TOA_TRAJE1_PANTS_FISH_00025: -2348457396278622043
+      PANTS-TOA_TRAJE1_PANTS_FISH_00007: -5335317352197174033
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00003: 5377669131893081928
+      PANTS-TOA_T1_PANTS_FISHPICK_00035: 4225923067133668904
+      PANTS-TOA_TRAJE1_PANTS_FISH_00005: -2955858802719693473
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00032: 1352138032776582044
+      PANTS-TOA_T1_PANTS_ILUMINATION_00022: -7508050460225467239
+      PANTS-TOA_T1_PANTS_ILUMINATION_00009: -4926111608945616859
+      PANTS-TOA_T1_PANTS_FISHPICK_00033: -2238047398456762798
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00019: 2394905142243172630
+      PANTS-TOA_T1_PANTS_FISHPICK_00017: 1719821905124293507
+      SHORT-TOA_T1_PANTS_HANDUP_00016: 1206948422747645098
+      SHORT-TOA_T1_PANTS_HANDUP_00021: 6581096060508334097
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00012: -5238978357743524446
+      PANTS-TOA_T1_PANTS_FISHPICK_00036: -3006564946009991738
+      SHIRT-TOA_T1_SHIRT_HANDUP_00019: 6956721152309649815
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00033: -5558333387857449303
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00013: -8252302234293990646
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00016: 176940947715900585
+      PANTS-TOA_T1_PANTS_FISHPICK_00003: 8206586988267110900
+      PANTS-TOA_T1_PANTS_FISHPICK_00031: -5989311327599249245
+      SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00000: -4621558907422733060
+      PANTS-TOA_T1_PANTS_ILUMINATION_00006: -1953642139571046734
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00027: 3476311828234230502
+      PANTS-TOA_T1_PANTS_ILUMINATION_00002: 486029844837902715
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00030: 4446203521143520171
+      SHIRT-TOA_T1_SHIRT_HANDUP_00005: -7522771613732039863
+      PANTS-TOA_T1_PANTS_FISHPICK_00024: -4726252588988373759
+      SHIRT-TOA_T1_SHIRT_HANDUP_00008: -205899693921390923
+      PANTS-TOA_T1_PANTS_FISHPICK_00014: 8375188434131726178
+      PANTS-TOA_TRAJE1_PANTS_FISH_00024: 8370583314653784652
+      PANTS-TOA_T1_PANTS_ILUMINATION_00018: -8237515709816943585
+      SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00003: 1590751384319109610
+      SHORT-TOA_T1_PANTS_HANDUP_00005: 8421068686851347329
+      SHORT-TOA_T1_PANTS_HANDUP_00001: -2182089945688382970
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00008: -6870803983635507750
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00017: -6809328960050473131
+      PANTS-TOA_T1_PANTS_FISHPICK_00007: 1340666738695191247
+      PANTS-TOA_T1_PANTS_FISHPICK_00026: 9087806388028623307
+      PANTS-TOA_T1_PANTS_FISHPICK_00032: 2545367506119889959
+      SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00005: -8245019488722099978
+      SHORT-TOA_T1_PANTS_HANDUP_00009: 3103757535959672744
+      PANTS-TOA_T1_PANTS_FISHPICK_00005: 7849112239230863162
+      PANTS-TOA_T1_PANTS_ILUMINATION_00013: 6093292907752609318
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00006: 6154446615175498478
+      PANTS-TOA_T1_PANTS_FISHPICK_00022: -8744280860417202691
+      SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00018: 204292840035753026
+      PANTS-TOA_TRAJE1_PANTS_FISH_00016: -3390915490446893700
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00010: 110395507565363509
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00018: 5416091019956445600
+      PANTS-TOA_T1_PANTS_FISHPICK_00029: 559702204203943796
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00014: 7561190118948618787
+      PANTS-TOA_TRAJE1_PANTS_FISH_00008: 8697612590087385548
+      SHIRT-TOA_T1_SHIRT_HANDUP_00002: 4517608829493121994
+      PANTS-TOA_TRAJE1_PANTS_FISH_00012: 1075283213016075269
+      PANTS-TOA_T1_PANTS_FISHPICK_00016: -6651499896616193827
+      PANTS-TOA_T1_PANTS_FISHPICK_00019: -8009070805217586539
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00021: -6849550073327415710
+      SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00013: 3108644015928302648
+      SHIRT-TOA_T1_SHIRT_HANDUP_00018: -3308738355856865733
+      SHORT-TOA_T1_PANTS_HANDUP_00000: 4187810756738600498
+      SHIRT-TOA_T1_SHIRT_HANDUP_00009: -6586587324222958081
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00015: -3244655425414449832
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00024: 8108204723916232681
+      PANTS-TOA_TRAJE1_PANTS_FISH_00023: -4393938541805573665
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00005: 5322567556935255164
+      PANTS-TOA_T1_PANTS_ILUMINATION_00003: -1184410309534746038
+      PANTS-TOA_T1_PANTS_ILUMINATION_00000: -4573085488422890219
+      SHORT-TOA_T1_PANTS_HANDUP_00019: 4880161777485804842
+      PANTS-TOA_T1_PANTS_ILUMINATION_00021: -3921706794532427765
+      PANTS-TOA_TRAJE1_PANTS_FISH_00013: -8420788760731873789
+      PANTS-TOA_T1_PANTS_ILUMINATION_00014: -6854979688965892903
+      SHORT-TOA_T1_PANTS_HANDUP_00022: -6576188287227776207
+      SHIRT-TOA_T1_SHIRT_HANDUP_00020: 4092384159132815563
+      SHIRT-TOA_T1_SHIRT_HANDUP_00014: -388172675506744077
+      PANTS-TOA_T1_PANTS_ILUMINATION_00020: -8145314385668599550
+      SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00022: -4792264915250694178
+      SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00001: -1381279377291194670
+      SHORT-TOA_T1_PANTS_HANDUP_00015: 5108986551368057000
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00025: 1263185191515094282
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00039: -776381776575508779
+      PANTS-TOA_T1_PANTS_FISHPICK_00027: 304784232645102359
+      PANTS-TOA_TRAJE1_PANTS_FISH_00002: -9075966226743655637
+      PANTS-TOA_T1_PANTS_FISHPICK_00011: 8410756977928582216
+      PANTS-TOA_T1_PANTS_FISHPICK_00004: 5955924628243636484
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00009: -7306886261245942129
+      SHIRT-TOA_T1_SHIRT_HANDUP_00007: 8634543827422905289
+      SHORT-TOA_T1_PANTS_HANDUP_00007: -8522020379166748904
+      PANTS-TOA_T1_PANTS_ILUMINATION_00017: 7558783401976472017
+      PANTS-TOA_TRAJE1_PANTS_FISH_00017: -2508915826208177461
+      SHIRT-TOA_T1_SHIRT_HANDUP_00012: 4183620673543546029
+      SHIRT-TOA_T1_SHIRT_HANDUP_00001: -4144104935832997420
+      SHIRT-TOA_T1_SHIRT_HANDUP_00011: -6172469672014340589
+      PANTS-TOA_T1_PANTS_FISHPICK_00009: -2910720874671920178
+      PANTS-TOA_T1_PANTS_ILUMINATION_00011: -1655376164577619719
+      SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00016: -1043160360993687801
+      SHORT-TOA_T1_PANTS_HANDUP_00003: 8412769326882040082
+      SHORT-TOA_T1_PANTS_HANDUP_00012: -2075186137765752500
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00038: -3111052888564419460
+      PANTS-TOA_T1_PANTS_FISHPICK_00037: 6647300588638208232
+      SHIRT-TOA_T1_SHIRT_HANDUP_00010: -8244238523304792650
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00031: -7104755144978503727
+      PANTS-TOA_TRAJE1_PANTS_FISH_00009: -7305507855702037712
+      PANTS-TOA_TRAJE1_PANTS_FISH_00020: -8115007609019899408
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00021: -1726763699051737814
+      SHIRT-TOA_T1_SHIRT_HANDUP_00016: 1457802201096681406
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00022: 6386169429745391990
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00016: 4932064146469700566
+      SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00014: 4740288776550780278
+      PANTS-TOA_TRAJE1_PANTS_FISH_00003: 5617450769450053119
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00020: -3688820155642947986
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00001: -1140294099710540515
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00001: -3650759572972426858
+      SHORT-TOA_T1_PANTS_HANDUP_00002: -3247466081385984645
+      PANTS-TOA_T1_PANTS_FISHPICK_00020: 6303394010158936691
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00036: -8681183677345981524
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00000: 293909861158668941
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00004: 3072625086701873001
+      PANTS-TOA_T1_PANTS_FISHPICK_00006: -1326086015402126084
+      PANTS-TOA_T1_PANTS_FISHPICK_00013: -980998955608814371
+      SHIRT-TOA_T1_SHIRT_HANDUP_00004: -8739284884530686285
+      SHIRT-TOA_T1_SHIRT_HANDUP_00017: -1430772589690095865
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00011: -3621407243140693092
+      PANTS-TOA_T1_PANTS_FISHPICK_00021: -2803247818879434741
+      SHIRT-TOA_T1_SHIRT_HANDUP_00003: 8040904345677240813
+      PANTS-TOA_T1_PANTS_ILUMINATION_00004: -858939639017949704
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00007: -3230515293615573887
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00008: 9049143164946281444
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00004: -2826567415133331800
+      SHIRT-TOA_T1_SHIRT_HANDUP_00006: -7507832916268014971
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00007: 467000439156901392
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00017: 3860897020954675147
+      SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00007: 4512040455496580637
+      PANTS-TOA_T1_PANTS_FISHPICK_00038: -6163902826261000338
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00024: -4716196831987061804
+      PANTS-TOA_TRAJE1_PANTS_FISH_00000: 2155297987512321937
+      SHORT-TOA_T1_PANTS_HANDUP_00011: 6235039449736537165
+      SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00010: 3514559605570394803
+      SHORT-TOA_T1_PANTS_HANDUP_00020: 6099516164325549917
+      PANTS-TOA_T1_PANTS_FISHPICK_00008: 894979712891924894
+      PANTS-TOA_TRAJE1_PANTS_FISH_00010: 4213749491729806158
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00013: -6351312221850865767
+      PANTS-TOA_T1_PANTS_FISHPICK_00001: 3129508038360645967
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00000: -8185942269200325904
+      SHIRT-TOA_T1_SHIRT_HANDUP_00013: -440170827425393507
+      SHIRT-TOA_T1_SHIRT_HANDUP_00022: -2448039925571249544
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00014: -2091713934885272861
+      PANTS-TOA_T1_PANTS_ILUMINATION_00010: -4845439088113105728
+      PANTS-TOA_T1_PANTS_ILUMINATION_00015: -352542184871972515
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00005: -3195228571308433399
+      SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00015: -1037025612483126278
+      SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00021: -8418501212265954799
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00003: -4236020359129391782
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00019: 4455834901733430043
+      PANTS-TOA_T1_PANTS_ILUMINATION_00007: -3274485184350424073
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00006: 3167485830739724112
+      SHIRT-TOA_TRAJE1_SHIRT_FISH_00025: 5709179971571174181
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00029: 5097701941242879696
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00018: 8669900470201964767
+      PANTS-TOA_T1_PANTS_FISHPICK_00018: 5329800461172682527
+      PANTS-TOA_TRAJE1_PANTS_FISH_00019: 8885588880907922814
+      PANTS-TOA_T1_PANTS_FISHPICK_00025: 501457629029723168
+      SHIRT-TOA_TRAJE1_SHIRT_ILUMINATION_00019: -6391673868997714567
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00015: 1834596593728771714
+      PANTS-TOA_TRAJE1_PANTS_FISH_00018: 2184398636069012141
+      PANTS-TOA_TRAJE1_PANTS_FISH_00004: 7593628999880426630
+      SHORT-TOA_T1_PANTS_HANDUP_00018: 8267280173368488544
+      PANTS-TOA_TRAJE1_PANTS_FISH_00006: 7010761587529585067
+      SHORT-TOA_T1_PANTS_HANDUP_00017: -2074686129794797083
+      SHIRT-TOA_T1_SHIRT_FISHPICK_00037: -4530139302398650850
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

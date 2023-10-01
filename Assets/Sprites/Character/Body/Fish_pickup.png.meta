@@ -1,0 +1,1134 @@
+fileFormatVersion: 2
+guid: c6de66a2d9b9a754da2172c8d3613040
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2148278507130189601
+    second: TOA_FISHPICK_00000
+  - first:
+      213: 1158361324968790958
+    second: TOA_FISHPICK_00001
+  - first:
+      213: -6536614159037025285
+    second: TOA_FISHPICK_00002
+  - first:
+      213: 1238913002029918137
+    second: TOA_FISHPICK_00003
+  - first:
+      213: 5275054609502243882
+    second: TOA_FISHPICK_00004
+  - first:
+      213: 1868809245532126360
+    second: TOA_FISHPICK_00005
+  - first:
+      213: 2659184178028832347
+    second: TOA_FISHPICK_00006
+  - first:
+      213: -154551797361669226
+    second: TOA_FISHPICK_00007
+  - first:
+      213: 36953163012303772
+    second: TOA_FISHPICK_00008
+  - first:
+      213: -8167854498866280029
+    second: TOA_FISHPICK_00009
+  - first:
+      213: -1286525252739122103
+    second: TOA_FISHPICK_00010
+  - first:
+      213: -8679330311917179048
+    second: TOA_FISHPICK_00011
+  - first:
+      213: 4657041005268404318
+    second: TOA_FISHPICK_00012
+  - first:
+      213: 5456298425909468659
+    second: TOA_FISHPICK_00013
+  - first:
+      213: 2357725232109844473
+    second: TOA_FISHPICK_00014
+  - first:
+      213: 4202262677811981050
+    second: TOA_FISHPICK_00015
+  - first:
+      213: 4470619661969265420
+    second: TOA_FISHPICK_00016
+  - first:
+      213: 6410124733879251769
+    second: TOA_FISHPICK_00017
+  - first:
+      213: 5792047054043105866
+    second: TOA_FISHPICK_00018
+  - first:
+      213: -6400496304201084312
+    second: TOA_FISHPICK_00019
+  - first:
+      213: 6114530666968631066
+    second: TOA_FISHPICK_00020
+  - first:
+      213: -5105819525378389798
+    second: TOA_FISHPICK_00021
+  - first:
+      213: 7324306962128722038
+    second: TOA_FISHPICK_00022
+  - first:
+      213: 7114218808095123933
+    second: TOA_FISHPICK_00023
+  - first:
+      213: 8350762227150355673
+    second: TOA_FISHPICK_00024
+  - first:
+      213: 1599024579913628339
+    second: TOA_FISHPICK_00025
+  - first:
+      213: 5329124985907829358
+    second: TOA_FISHPICK_00026
+  - first:
+      213: 5513080727312173974
+    second: TOA_FISHPICK_00027
+  - first:
+      213: 8303837004706215916
+    second: TOA_FISHPICK_00028
+  - first:
+      213: 1837344043469290464
+    second: TOA_FISHPICK_00029
+  - first:
+      213: -8587152413218556863
+    second: TOA_FISHPICK_00030
+  - first:
+      213: 8579638699290481837
+    second: TOA_FISHPICK_00031
+  - first:
+      213: 6655834525695157402
+    second: TOA_FISHPICK_00032
+  - first:
+      213: 5264477538881112542
+    second: TOA_FISHPICK_00033
+  - first:
+      213: 5737769485273333702
+    second: TOA_FISHPICK_00034
+  - first:
+      213: 2760632947324539196
+    second: TOA_FISHPICK_00035
+  - first:
+      213: 3612427241617019856
+    second: TOA_FISHPICK_00036
+  - first:
+      213: -948645415832975443
+    second: TOA_FISHPICK_00037
+  - first:
+      213: -2418870327681356464
+    second: TOA_FISHPICK_00038
+  - first:
+      213: -8601133249727548454
+    second: TOA_FISHPICK_00039
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00000
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 957
+        width: 236
+        height: 355
+      alignment: 9
+      pivot: {x: 0.53177965, y: 0.52816904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd806ef6418cf22e0800000000000000
+      internalID: -2148278507130189601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00001
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1327
+        width: 236
+        height: 355
+      alignment: 9
+      pivot: {x: 0.53177965, y: 0.52816904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabc050ec73531010800000000000000
+      internalID: 1158361324968790958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00002
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1327
+        width: 236
+        height: 355
+      alignment: 9
+      pivot: {x: 0.53177965, y: 0.52816904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf33fc80e084945a0800000000000000
+      internalID: -6536614159037025285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00003
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1692
+        width: 236
+        height: 355
+      alignment: 9
+      pivot: {x: 0.53177965, y: 0.52816904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b72b91bfc0813110800000000000000
+      internalID: 1238913002029918137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00004
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 233
+        width: 236
+        height: 355
+      alignment: 9
+      pivot: {x: 0.53177965, y: 0.52816904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c0b2a0832c43940800000000000000
+      internalID: 5275054609502243882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00005
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 233
+        width: 236
+        height: 355
+      alignment: 9
+      pivot: {x: 0.53177965, y: 0.52816904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c78e08b185fe910800000000000000
+      internalID: 1868809245532126360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1312
+        width: 228
+        height: 365
+      alignment: 9
+      pivot: {x: 0.52412283, y: 0.5410959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b566fb3cbe157e420800000000000000
+      internalID: 2659184178028832347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1312
+        width: 228
+        height: 365
+      alignment: 9
+      pivot: {x: 0.52412283, y: 0.5410959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b0cda85fbeaddf0800000000000000
+      internalID: -154551797361669226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00008
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 590
+        width: 241
+        height: 355
+      alignment: 9
+      pivot: {x: 0.5207469, y: 0.52816904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9becaab4b8438000800000000000000
+      internalID: 36953163012303772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 583
+        width: 226
+        height: 362
+      alignment: 9
+      pivot: {x: 0.5287611, y: 0.53176796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9cff1cb93f5ae80800000000000000
+      internalID: -8167854498866280029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 583
+        width: 226
+        height: 362
+      alignment: 9
+      pivot: {x: 0.5287611, y: 0.53176796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c3ae35918552ee0800000000000000
+      internalID: -1286525252739122103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00011
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1314
+        width: 303
+        height: 363
+      alignment: 9
+      pivot: {x: 0.46369636, y: 0.5192838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f65edf013dc8780800000000000000
+      internalID: -8679330311917179048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1679
+        width: 306
+        height: 368
+      alignment: 9
+      pivot: {x: 0.47875816, y: 0.5149456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e588377ce1221a040800000000000000
+      internalID: 4657041005268404318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1679
+        width: 306
+        height: 368
+      alignment: 9
+      pivot: {x: 0.47875816, y: 0.5149456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd5bd8728aa8bb40800000000000000
+      internalID: 5456298425909468659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 222
+        width: 294
+        height: 359
+      alignment: 9
+      pivot: {x: 0.49829933, y: 0.5139276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7f1e95b9258b020800000000000000
+      internalID: 2357725232109844473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 222
+        width: 294
+        height: 359
+      alignment: 9
+      pivot: {x: 0.49829933, y: 0.5139276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa6dd314af615a30800000000000000
+      internalID: 4202262677811981050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 947
+        width: 312
+        height: 363
+      alignment: 9
+      pivot: {x: 0.5048077, y: 0.5082645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c031e8d65e4da0e30800000000000000
+      internalID: 4470619661969265420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00017
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1684
+        width: 293
+        height: 363
+      alignment: 9
+      pivot: {x: 0.49317408, y: 0.5082645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93371d0bb7655f850800000000000000
+      internalID: 6410124733879251769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00018
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1684
+        width: 293
+        height: 363
+      alignment: 9
+      pivot: {x: 0.49317408, y: 0.5082645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a469aab1c716050800000000000000
+      internalID: 5792047054043105866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00019
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1684
+        width: 293
+        height: 363
+      alignment: 9
+      pivot: {x: 0.49317408, y: 0.5082645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862d4e9c58edc27a0800000000000000
+      internalID: -6400496304201084312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00020
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1684
+        width: 293
+        height: 363
+      alignment: 9
+      pivot: {x: 0.49317408, y: 0.5082645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17c5e4de3d2bd450800000000000000
+      internalID: 6114530666968631066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00021
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1684
+        width: 293
+        height: 363
+      alignment: 9
+      pivot: {x: 0.49317408, y: 0.5082645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad84196813c7429b0800000000000000
+      internalID: -5105819525378389798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00022
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1684
+        width: 293
+        height: 363
+      alignment: 9
+      pivot: {x: 0.49317408, y: 0.5082645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6785a9f406a25a560800000000000000
+      internalID: 7324306962128722038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00023
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1684
+        width: 293
+        height: 363
+      alignment: 9
+      pivot: {x: 0.49317408, y: 0.5082645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9a9ee2058cab260800000000000000
+      internalID: 7114218808095123933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00024
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1701
+        width: 298
+        height: 346
+      alignment: 9
+      pivot: {x: 0.5218121, y: 0.5245665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcfb09500ed3e370800000000000000
+      internalID: 8350762227150355673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00025
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1400
+        width: 317
+        height: 322
+      alignment: 9
+      pivot: {x: 0.56624603, y: 0.5636646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3babed82260e03610800000000000000
+      internalID: 1599024579913628339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00026
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1400
+        width: 317
+        height: 322
+      alignment: 9
+      pivot: {x: 0.56624603, y: 0.5636646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ad1b490fad4f940800000000000000
+      internalID: 5329124985907829358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00027
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1724
+        width: 321
+        height: 323
+      alignment: 9
+      pivot: {x: 0.5685358, y: 0.5619195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b8e7146b5628c40800000000000000
+      internalID: 5513080727312173974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00028
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1339
+        width: 276
+        height: 351
+      alignment: 9
+      pivot: {x: 0.5452899, y: 0.517094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7f14a92c72d3370800000000000000
+      internalID: 8303837004706215916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00029
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1339
+        width: 276
+        height: 351
+      alignment: 9
+      pivot: {x: 0.5452899, y: 0.517094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebba214cae8f7910800000000000000
+      internalID: 1837344043469290464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00030
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 990
+        width: 285
+        height: 347
+      alignment: 9
+      pivot: {x: 0.56666666, y: 0.5230548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14438f9706e44d880800000000000000
+      internalID: -8587152413218556863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00031
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 990
+        width: 285
+        height: 347
+      alignment: 9
+      pivot: {x: 0.56666666, y: 0.5230548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4576ca0fff01770800000000000000
+      internalID: 8579638699290481837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00032
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 973
+        width: 291
+        height: 352
+      alignment: 9
+      pivot: {x: 0.5618557, y: 0.51846594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9427dbac364e5c50800000000000000
+      internalID: 6655834525695157402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00033
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 252
+        width: 297
+        height: 347
+      alignment: 9
+      pivot: {x: 0.5707071, y: 0.5230548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed90801ed6e2f0940800000000000000
+      internalID: 5264477538881112542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00034
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1700
+        width: 304
+        height: 347
+      alignment: 9
+      pivot: {x: 0.57730263, y: 0.5230548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cffac462f6a0af40800000000000000
+      internalID: 5737769485273333702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00035
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1700
+        width: 304
+        height: 347
+      alignment: 9
+      pivot: {x: 0.57730263, y: 0.5230548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31d4840a0dbf4620800000000000000
+      internalID: 2760632947324539196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00036
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 624
+        width: 293
+        height: 347
+      alignment: 9
+      pivot: {x: 0.5784983, y: 0.5230548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3d681df6be12230800000000000000
+      internalID: 3612427241617019856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00037
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 601
+        width: 299
+        height: 354
+      alignment: 9
+      pivot: {x: 0.5568562, y: 0.5211864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7097b350cb5d2f0800000000000000
+      internalID: -948645415832975443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00038
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1351
+        width: 282
+        height: 347
+      alignment: 9
+      pivot: {x: 0.55851066, y: 0.5230548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05de1d0b0427e6ed0800000000000000
+      internalID: -2418870327681356464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_FISHPICK_00039
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1351
+        width: 282
+        height: 347
+      alignment: 9
+      pivot: {x: 0.55851066, y: 0.5230548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3303051e2a2a880800000000000000
+      internalID: -8601133249727548454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TOA_FISHPICK_00029: 1837344043469290464
+      TOA_FISHPICK_00015: 4202262677811981050
+      TOA_FISHPICK_00026: 5329124985907829358
+      TOA_FISHPICK_00016: 4470619661969265420
+      TOA_FISHPICK_00021: -5105819525378389798
+      TOA_FISHPICK_00011: -8679330311917179048
+      TOA_FISHPICK_00033: 5264477538881112542
+      TOA_FISHPICK_00014: 2357725232109844473
+      TOA_FISHPICK_00024: 8350762227150355673
+      TOA_FISHPICK_00007: -154551797361669226
+      TOA_FISHPICK_00002: -6536614159037025285
+      TOA_FISHPICK_00001: 1158361324968790958
+      TOA_FISHPICK_00020: 6114530666968631066
+      TOA_FISHPICK_00028: 8303837004706215916
+      TOA_FISHPICK_00022: 7324306962128722038
+      TOA_FISHPICK_00008: 36953163012303772
+      TOA_FISHPICK_00000: -2148278507130189601
+      TOA_FISHPICK_00003: 1238913002029918137
+      TOA_FISHPICK_00018: 5792047054043105866
+      TOA_FISHPICK_00037: -948645415832975443
+      TOA_FISHPICK_00025: 1599024579913628339
+      TOA_FISHPICK_00030: -8587152413218556863
+      TOA_FISHPICK_00009: -8167854498866280029
+      TOA_FISHPICK_00006: 2659184178028832347
+      TOA_FISHPICK_00010: -1286525252739122103
+      TOA_FISHPICK_00017: 6410124733879251769
+      TOA_FISHPICK_00035: 2760632947324539196
+      TOA_FISHPICK_00036: 3612427241617019856
+      TOA_FISHPICK_00038: -2418870327681356464
+      TOA_FISHPICK_00032: 6655834525695157402
+      TOA_FISHPICK_00013: 5456298425909468659
+      TOA_FISHPICK_00031: 8579638699290481837
+      TOA_FISHPICK_00023: 7114218808095123933
+      TOA_FISHPICK_00039: -8601133249727548454
+      TOA_FISHPICK_00005: 1868809245532126360
+      TOA_FISHPICK_00034: 5737769485273333702
+      TOA_FISHPICK_00004: 5275054609502243882
+      TOA_FISHPICK_00012: 4657041005268404318
+      TOA_FISHPICK_00027: 5513080727312173974
+      TOA_FISHPICK_00019: -6400496304201084312
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

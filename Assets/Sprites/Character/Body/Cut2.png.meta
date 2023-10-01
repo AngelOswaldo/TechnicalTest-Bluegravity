@@ -1,0 +1,784 @@
+fileFormatVersion: 2
+guid: baab82b11a918b143bf0128e79361ad2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6910291064725858080
+    second: SCISSOR_CUT_00000
+  - first:
+      213: 4002317403267921736
+    second: SCISSOR_CUT_00001
+  - first:
+      213: -9187032956348718359
+    second: SCISSOR_CUT_00002
+  - first:
+      213: 6665544810796760789
+    second: SCISSOR_CUT_00003
+  - first:
+      213: 9011410475890705066
+    second: SCISSOR_CUT_00004
+  - first:
+      213: -1203667721568039175
+    second: SCISSOR_CUT_00005
+  - first:
+      213: -6430973468035212867
+    second: SCISSOR_CUT_00006
+  - first:
+      213: -6859924945843533821
+    second: SCISSOR_CUT_00007
+  - first:
+      213: -7949514204850513758
+    second: SCISSOR_CUT_00008
+  - first:
+      213: -5933794987393235546
+    second: SCISSOR_CUT_00009
+  - first:
+      213: -3745716208353644805
+    second: SCISSOR_CUT_00010
+  - first:
+      213: -1233829783297480898
+    second: SCISSOR_CUT_00011
+  - first:
+      213: -7659753363921060126
+    second: SCISSOR_CUT_00012
+  - first:
+      213: 4601434891189174174
+    second: TOA_CUT_00000
+  - first:
+      213: -6861449501191119754
+    second: TOA_CUT_00001
+  - first:
+      213: 6534334294174144412
+    second: TOA_CUT_00002
+  - first:
+      213: 4232728162784881675
+    second: TOA_CUT_00003
+  - first:
+      213: 2529257648698902034
+    second: TOA_CUT_00004
+  - first:
+      213: 8192742074931633233
+    second: TOA_CUT_00005
+  - first:
+      213: 1525624498859384217
+    second: TOA_CUT_00006
+  - first:
+      213: 4039617990298820299
+    second: TOA_CUT_00007
+  - first:
+      213: -5417442956787310065
+    second: TOA_CUT_00008
+  - first:
+      213: 8352899373739045402
+    second: TOA_CUT_00009
+  - first:
+      213: -7232336594285966115
+    second: TOA_CUT_00010
+  - first:
+      213: -4762353510383374493
+    second: TOA_CUT_00011
+  - first:
+      213: 2489921319705628333
+    second: TOA_CUT_00012
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SCISSOR_CUT_00000
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1039
+        width: 178
+        height: 163
+      alignment: 9
+      pivot: {x: 0.014044944, y: 0.9969325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8957093e6b910a0800000000000000
+      internalID: -6910291064725858080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCISSOR_CUT_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1246
+        width: 261
+        height: 167
+      alignment: 9
+      pivot: {x: 0.2624521, y: 0.8233533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847f52c19761b8730800000000000000
+      internalID: 4002317403267921736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCISSOR_CUT_00002
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1552
+        width: 266
+        height: 143
+      alignment: 9
+      pivot: {x: 0.25375938, y: 0.8006993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e22701833a118080800000000000000
+      internalID: -9187032956348718359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCISSOR_CUT_00003
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1552
+        width: 266
+        height: 143
+      alignment: 9
+      pivot: {x: 0.25375938, y: 0.8006993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de3df990b5c08c50800000000000000
+      internalID: 6665544810796760789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCISSOR_CUT_00004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1902
+        width: 291
+        height: 145
+      alignment: 9
+      pivot: {x: 0.26632303, y: 0.7758621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa203b45516fe0d70800000000000000
+      internalID: 9011410475890705066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCISSOR_CUT_00005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1761
+        width: 281
+        height: 139
+      alignment: 9
+      pivot: {x: 0.2935943, y: 0.73741007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe4554a596bb4fe0800000000000000
+      internalID: -1203667721568039175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCISSOR_CUT_00006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1761
+        width: 281
+        height: 139
+      alignment: 9
+      pivot: {x: 0.2935943, y: 0.73741007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db99ccd14b790c6a0800000000000000
+      internalID: -6430973468035212867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCISSOR_CUT_00007
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1235
+        width: 229
+        height: 116
+      alignment: 9
+      pivot: {x: 0.12882096, y: 1.0215517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308c7217b96acc0a0800000000000000
+      internalID: -6859924945843533821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCISSOR_CUT_00008
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1721
+        width: 139
+        height: 155
+      alignment: 9
+      pivot: {x: -0.12589929, y: 1.1516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a896f2f2f6ada190800000000000000
+      internalID: -7949514204850513758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCISSOR_CUT_00009
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1878
+        width: 142
+        height: 169
+      alignment: 9
+      pivot: {x: -0.08802817, y: 1.0798817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5ce66c5ece6ada0800000000000000
+      internalID: -5933794987393235546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCISSOR_CUT_00010
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1878
+        width: 142
+        height: 169
+      alignment: 9
+      pivot: {x: -0.08802817, y: 1.0798817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe68a344fa840cc0800000000000000
+      internalID: -3745716208353644805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCISSOR_CUT_00011
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1878
+        width: 142
+        height: 169
+      alignment: 9
+      pivot: {x: -0.08802817, y: 1.0798817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37a145695e80eee0800000000000000
+      internalID: -1233829783297480898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCISSOR_CUT_00012
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1878
+        width: 142
+        height: 169
+      alignment: 9
+      pivot: {x: -0.08802817, y: 1.0798817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eeb16c06e613b590800000000000000
+      internalID: -7659753363921060126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_CUT_00000
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1204
+        width: 261
+        height: 346
+      alignment: 9
+      pivot: {x: 0.4348659, y: 0.5245665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f3b6277a49bdf30800000000000000
+      internalID: 4601434891189174174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_CUT_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1415
+        width: 279
+        height: 344
+      alignment: 9
+      pivot: {x: 0.48924732, y: 0.5247093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cd83d380c37c0a0800000000000000
+      internalID: -6861449501191119754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_CUT_00002
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1697
+        width: 284
+        height: 350
+      alignment: 9
+      pivot: {x: 0.50880283, y: 0.51857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9717ef8b6e9eaa50800000000000000
+      internalID: 6534334294174144412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_CUT_00003
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1697
+        width: 284
+        height: 350
+      alignment: 9
+      pivot: {x: 0.50880283, y: 0.51857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ca59d86dbadba30800000000000000
+      internalID: 4232728162784881675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_CUT_00004
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1353
+        width: 274
+        height: 346
+      alignment: 9
+      pivot: {x: 0.5419708, y: 0.5245665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21643205e6ab91320800000000000000
+      internalID: 2529257648698902034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_CUT_00005
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1701
+        width: 276
+        height: 346
+      alignment: 9
+      pivot: {x: 0.54891306, y: 0.5245665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c52b8928772b170800000000000000
+      internalID: 8192742074931633233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_CUT_00006
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1701
+        width: 276
+        height: 346
+      alignment: 9
+      pivot: {x: 0.54891306, y: 0.5245665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d952b066b1c2510800000000000000
+      internalID: 1525624498859384217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_CUT_00007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 898
+        width: 242
+        height: 346
+      alignment: 9
+      pivot: {x: 0.49380165, y: 0.5216763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bced90cc82b9f0830800000000000000
+      internalID: 4039617990298820299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_CUT_00008
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 882
+        width: 228
+        height: 351
+      alignment: 9
+      pivot: {x: 0.49780703, y: 0.517094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0220c9655061d4b0800000000000000
+      internalID: -5417442956787310065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_CUT_00009
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1000
+        width: 231
+        height: 351
+      alignment: 9
+      pivot: {x: 0.49134198, y: 0.517094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a127c4099b57be370800000000000000
+      internalID: 8352899373739045402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_CUT_00010
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1000
+        width: 231
+        height: 351
+      alignment: 9
+      pivot: {x: 0.49134198, y: 0.517094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcc681af2491ab90800000000000000
+      internalID: -7232336594285966115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_CUT_00011
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1000
+        width: 231
+        height: 351
+      alignment: 9
+      pivot: {x: 0.49134198, y: 0.517094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fa3ced6b8b8edb0800000000000000
+      internalID: -4762353510383374493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_CUT_00012
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1000
+        width: 231
+        height: 351
+      alignment: 9
+      pivot: {x: 0.49134198, y: 0.517094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daec9b38f3afd8220800000000000000
+      internalID: 2489921319705628333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TOA_CUT_00011: -4762353510383374493
+      SCISSOR_CUT_00007: -6859924945843533821
+      TOA_CUT_00001: -6861449501191119754
+      TOA_CUT_00007: 4039617990298820299
+      TOA_CUT_00010: -7232336594285966115
+      SCISSOR_CUT_00006: -6430973468035212867
+      SCISSOR_CUT_00005: -1203667721568039175
+      SCISSOR_CUT_00004: 9011410475890705066
+      SCISSOR_CUT_00002: -9187032956348718359
+      SCISSOR_CUT_00012: -7659753363921060126
+      TOA_CUT_00012: 2489921319705628333
+      TOA_CUT_00004: 2529257648698902034
+      SCISSOR_CUT_00001: 4002317403267921736
+      TOA_CUT_00002: 6534334294174144412
+      TOA_CUT_00009: 8352899373739045402
+      TOA_CUT_00000: 4601434891189174174
+      SCISSOR_CUT_00008: -7949514204850513758
+      SCISSOR_CUT_00009: -5933794987393235546
+      TOA_CUT_00003: 4232728162784881675
+      TOA_CUT_00006: 1525624498859384217
+      SCISSOR_CUT_00010: -3745716208353644805
+      TOA_CUT_00008: -5417442956787310065
+      SCISSOR_CUT_00011: -1233829783297480898
+      TOA_CUT_00005: 8192742074931633233
+      SCISSOR_CUT_00003: 6665544810796760789
+      SCISSOR_CUT_00000: -6910291064725858080
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

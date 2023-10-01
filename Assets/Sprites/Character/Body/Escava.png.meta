@@ -1,0 +1,958 @@
+fileFormatVersion: 2
+guid: 535d68d7e3dbab449a8899a6b19529b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3389985086445137738
+    second: Excava01
+  - first:
+      213: -5563603522116651370
+    second: Excava02
+  - first:
+      213: 6401450561590802409
+    second: Excava03
+  - first:
+      213: 496928343412480774
+    second: Excava04
+  - first:
+      213: 1032071009953323626
+    second: Excava05
+  - first:
+      213: 3414829800060268437
+    second: Excava06
+  - first:
+      213: 6920048738138573667
+    second: Excava07
+  - first:
+      213: -1304173113116632879
+    second: Excava08
+  - first:
+      213: 6211097876651515213
+    second: Excava09
+  - first:
+      213: -4988271301320377257
+    second: Excava10
+  - first:
+      213: 8634062252618063573
+    second: Excava11
+  - first:
+      213: 2704522998544257989
+    second: Excava12
+  - first:
+      213: -3533192303387130157
+    second: Excava13
+  - first:
+      213: -1833282375001207360
+    second: Excava14
+  - first:
+      213: 8067443726116680103
+    second: Excava15
+  - first:
+      213: -5798004093975519088
+    second: Excava16
+  - first:
+      213: -4180250804321983601
+    second: PALA_00000
+  - first:
+      213: -7038369966413152731
+    second: PALA_00001
+  - first:
+      213: -8061480062408040160
+    second: PALA_00002
+  - first:
+      213: -799427128675747129
+    second: PALA_00003
+  - first:
+      213: 8280478744558008827
+    second: PALA_00004
+  - first:
+      213: 7914172084404392616
+    second: PALA_00005
+  - first:
+      213: -4150971642289154939
+    second: PALA_00006
+  - first:
+      213: 7695403376307681185
+    second: PALA_00007
+  - first:
+      213: -8194541367517287780
+    second: PALA_00008
+  - first:
+      213: -1940716804707666422
+    second: PALA_00009
+  - first:
+      213: -787597948895610202
+    second: PALA_00010
+  - first:
+      213: -9213077206962376234
+    second: PALA_00011
+  - first:
+      213: -7897328428742358474
+    second: PALA_00012
+  - first:
+      213: -5460803186976136850
+    second: TOA_EXCAVA_00000
+  - first:
+      213: 7325103200336380809
+    second: TOA_EXCAVA_00001
+  - first:
+      213: 8867022208201457194
+    second: TOA_EXCAVA_00002
+  - first:
+      213: -6507855124748493075
+    second: TOA_EXCAVA_00003
+  - first:
+      213: -3359361724745545698
+    second: TOA_EXCAVA_00004
+  - first:
+      213: -5711157597375458472
+    second: TOA_EXCAVA_00005
+  - first:
+      213: -4284208030085747970
+    second: TOA_EXCAVA_00006
+  - first:
+      213: 7342896433186356657
+    second: TOA_EXCAVA_00007
+  - first:
+      213: 5132895027070901905
+    second: TOA_EXCAVA_00008
+  - first:
+      213: 8127069520008602654
+    second: TOA_EXCAVA_00009
+  - first:
+      213: -680530488887424565
+    second: TOA_EXCAVA_00010
+  - first:
+      213: -5825362667670242477
+    second: TOA_EXCAVA_00011
+  - first:
+      213: 1344467097844570935
+    second: TOA_EXCAVA_00012
+  - first:
+      213: 9019332004674234355
+    second: PALA-PALA01
+  - first:
+      213: -5158555507152385367
+    second: PALA-PALA02
+  - first:
+      213: -6996853357071853732
+    second: PALA-PALA03
+  - first:
+      213: 2523960500041025255
+    second: PALA-PALA04
+  - first:
+      213: -545066618916178885
+    second: PALA-PALA05
+  - first:
+      213: 7375178873113498151
+    second: PALA-PALA06
+  - first:
+      213: -2172387462663010040
+    second: PALA-PALA07
+  - first:
+      213: 6058994501928016741
+    second: PALA-PALA08
+  - first:
+      213: -7391348642348613868
+    second: PALA-PALA09
+  - first:
+      213: 6817906593527015275
+    second: PALA-PALA10
+  - first:
+      213: 4764597744179541254
+    second: PALA-PALA11
+  - first:
+      213: -6208319038284172175
+    second: PALA-PALA12
+  - first:
+      213: -1523088083607832911
+    second: PALA-PALA13
+  - first:
+      213: -1119093413871459773
+    second: PALA-PALA14
+  - first:
+      213: -8667855299600677574
+    second: PALA-PALA15
+  - first:
+      213: 600314872639767194
+    second: PALA-PALA16
+  - first:
+      213: -1494452412741275614
+    second: PALA-PALA_00000
+  - first:
+      213: 3208419279644777732
+    second: PALA-PALA_00001
+  - first:
+      213: 9128799923128272123
+    second: PALA-PALA_00002
+  - first:
+      213: -182035863253509405
+    second: PALA-PALA_00003
+  - first:
+      213: -6626264870167231601
+    second: PALA-PALA_00004
+  - first:
+      213: -8676428583729843880
+    second: PALA-PALA_00005
+  - first:
+      213: -5492579986981187624
+    second: PALA-PALA_00006
+  - first:
+      213: 7952310684147151214
+    second: PALA-PALA_00007
+  - first:
+      213: -4890649382291663088
+    second: PALA-PALA_00008
+  - first:
+      213: -2630272380074592400
+    second: PALA-PALA_00009
+  - first:
+      213: 3105026645398156861
+    second: PALA-PALA_00010
+  - first:
+      213: 7921715186554790119
+    second: PALA-PALA_00011
+  - first:
+      213: -7029352287066873198
+    second: PALA-PALA_00012
+  - first:
+      213: 4963897788354594615
+    second: TOA_EXCAVA-TOA_EXCAVA_00000
+  - first:
+      213: 1330479381671407032
+    second: TOA_EXCAVA-TOA_EXCAVA_00001
+  - first:
+      213: 5904947063469633488
+    second: TOA_EXCAVA-TOA_EXCAVA_00002
+  - first:
+      213: 5337098012316234054
+    second: TOA_EXCAVA-TOA_EXCAVA_00003
+  - first:
+      213: 4730731563092199012
+    second: TOA_EXCAVA-TOA_EXCAVA_00004
+  - first:
+      213: 252458894233631362
+    second: TOA_EXCAVA-TOA_EXCAVA_00005
+  - first:
+      213: 2486875218454540306
+    second: TOA_EXCAVA-TOA_EXCAVA_00006
+  - first:
+      213: 4675164766427737753
+    second: TOA_EXCAVA-TOA_EXCAVA_00007
+  - first:
+      213: -6301025029290416680
+    second: TOA_EXCAVA-TOA_EXCAVA_00008
+  - first:
+      213: -8218850919888092997
+    second: TOA_EXCAVA-TOA_EXCAVA_00009
+  - first:
+      213: 5245354529617742461
+    second: TOA_EXCAVA-TOA_EXCAVA_00010
+  - first:
+      213: -1126535358542585668
+    second: TOA_EXCAVA-TOA_EXCAVA_00011
+  - first:
+      213: 7905283792613723616
+    second: TOA_EXCAVA-TOA_EXCAVA_00012
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PALA_00000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 359
+        height: 148
+      alignment: 9
+      pivot: {x: 0.39693594, y: 1.1655406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83e8589a04ccf5c0800000000000000
+      internalID: -4180250804321983601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALA_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 359
+        height: 148
+      alignment: 9
+      pivot: {x: 0.39693594, y: 1.1655406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e7a227ecfa25e90800000000000000
+      internalID: -7038369966413152731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALA_00002
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 185
+        width: 347
+        height: 135
+      alignment: 9
+      pivot: {x: 0.39337176, y: 1.2481482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0216644489edf1090800000000000000
+      internalID: -8061480062408040160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALA_00003
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 185
+        width: 347
+        height: 135
+      alignment: 9
+      pivot: {x: 0.39337176, y: 1.2481482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cab873134dd7e4f0800000000000000
+      internalID: -799427128675747129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALA_00004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 153
+        width: 346
+        height: 163
+      alignment: 9
+      pivot: {x: 0.4118497, y: 0.892638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf97d8bdb8b2ae270800000000000000
+      internalID: 8280478744558008827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALA_00005
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 58
+        width: 273
+        height: 125
+      alignment: 9
+      pivot: {x: 0.06043956, y: 1.428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a29c366499c4dd60800000000000000
+      internalID: 7914172084404392616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALA_00006
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 58
+        width: 273
+        height: 125
+      alignment: 9
+      pivot: {x: 0.06043956, y: 1.428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58492acb849c466c0800000000000000
+      internalID: -4150971642289154939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALA_00007
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 58
+        width: 273
+        height: 125
+      alignment: 9
+      pivot: {x: 0.06043956, y: 1.428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7392849909bca60800000000000000
+      internalID: 7695403376307681185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALA_00008
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 821
+        width: 208
+        height: 202
+      alignment: 9
+      pivot: {x: -0.14663461, y: 0.47772276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a63e3fa04274e80800000000000000
+      internalID: -8194541367517287780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALA_00009
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 821
+        width: 208
+        height: 202
+      alignment: 9
+      pivot: {x: -0.14663461, y: 0.47772276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06b4c539503115e0800000000000000
+      internalID: -1940716804707666422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALA_00010
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 142
+        width: 173
+        height: 178
+      alignment: 9
+      pivot: {x: -0.17052023, y: -0.053370785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa304e96d3e115f0800000000000000
+      internalID: -787597948895610202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALA_00011
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 142
+        width: 173
+        height: 178
+      alignment: 9
+      pivot: {x: -0.17052023, y: -0.053370785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d172ced713942080800000000000000
+      internalID: -9213077206962376234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALA_00012
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 142
+        width: 173
+        height: 178
+      alignment: 9
+      pivot: {x: -0.17052023, y: -0.053370785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ac73ac2ad076290800000000000000
+      internalID: -7897328428742358474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_EXCAVA_00000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 672
+        width: 269
+        height: 351
+      alignment: 9
+      pivot: {x: 0.50743496, y: 0.53418803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6167fb1f645734b0800000000000000
+      internalID: -5460803186976136850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_EXCAVA_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 672
+        width: 269
+        height: 351
+      alignment: 9
+      pivot: {x: 0.50743496, y: 0.53418803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9838027fc8ef7a560800000000000000
+      internalID: 7325103200336380809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_EXCAVA_00002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 318
+        width: 268
+        height: 352
+      alignment: 9
+      pivot: {x: 0.505597, y: 0.52982956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ef85708bdfd0b70800000000000000
+      internalID: 8867022208201457194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_EXCAVA_00003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 318
+        width: 268
+        height: 352
+      alignment: 9
+      pivot: {x: 0.505597, y: 0.52982956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee19af7e347fa5a0800000000000000
+      internalID: -6507855124748493075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_EXCAVA_00004
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 681
+        width: 259
+        height: 342
+      alignment: 9
+      pivot: {x: 0.527027, y: 0.53070176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e188f7c5f462161d0800000000000000
+      internalID: -3359361724745545698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_EXCAVA_00005
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 322
+        width: 245
+        height: 357
+      alignment: 9
+      pivot: {x: 0.4387755, y: 0.5280112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85399289c64edb0b0800000000000000
+      internalID: -5711157597375458472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_EXCAVA_00006
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 322
+        width: 245
+        height: 357
+      alignment: 9
+      pivot: {x: 0.4387755, y: 0.5280112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaecdece7f6b84c0800000000000000
+      internalID: -4284208030085747970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_EXCAVA_00007
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 323
+        width: 245
+        height: 356
+      alignment: 9
+      pivot: {x: 0.4387755, y: 0.5294944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd3e82d66537e560800000000000000
+      internalID: 7342896433186356657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_EXCAVA_00008
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 683
+        width: 263
+        height: 340
+      alignment: 9
+      pivot: {x: 0.42775667, y: 0.53382355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e1ee5f4d4bb3740800000000000000
+      internalID: 5132895027070901905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_EXCAVA_00009
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 683
+        width: 263
+        height: 340
+      alignment: 9
+      pivot: {x: 0.42775667, y: 0.53382355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14640d5ba629c070800000000000000
+      internalID: 8127069520008602654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_EXCAVA_00010
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 322
+        width: 237
+        height: 348
+      alignment: 9
+      pivot: {x: 0.47046414, y: 0.5215517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9ca0f30254e86f0800000000000000
+      internalID: -680530488887424565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_EXCAVA_00011
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 322
+        width: 237
+        height: 348
+      alignment: 9
+      pivot: {x: 0.47046414, y: 0.5215517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b71b19487282fa0800000000000000
+      internalID: -5825362667670242477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_EXCAVA_00012
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 322
+        width: 237
+        height: 348
+      alignment: 9
+      pivot: {x: 0.47046414, y: 0.5215517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bd933c3b188a210800000000000000
+      internalID: 1344467097844570935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PALA_00006: -4150971642289154939
+      TOA_EXCAVA_00003: -6507855124748493075
+      PALA_00005: 7914172084404392616
+      PALA_00009: -1940716804707666422
+      PALA_00001: -7038369966413152731
+      PALA_00012: -7897328428742358474
+      TOA_EXCAVA_00008: 5132895027070901905
+      TOA_EXCAVA_00011: -5825362667670242477
+      PALA_00000: -4180250804321983601
+      TOA_EXCAVA_00000: -5460803186976136850
+      TOA_EXCAVA_00006: -4284208030085747970
+      TOA_EXCAVA_00012: 1344467097844570935
+      TOA_EXCAVA_00009: 8127069520008602654
+      PALA_00011: -9213077206962376234
+      TOA_EXCAVA_00001: 7325103200336380809
+      TOA_EXCAVA_00005: -5711157597375458472
+      PALA_00008: -8194541367517287780
+      TOA_EXCAVA_00002: 8867022208201457194
+      TOA_EXCAVA_00010: -680530488887424565
+      PALA_00002: -8061480062408040160
+      TOA_EXCAVA_00007: 7342896433186356657
+      PALA_00004: 8280478744558008827
+      PALA_00007: 7695403376307681185
+      PALA_00003: -799427128675747129
+      PALA_00010: -787597948895610202
+      TOA_EXCAVA_00004: -3359361724745545698
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

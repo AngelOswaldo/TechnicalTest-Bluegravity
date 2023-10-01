@@ -1,0 +1,534 @@
+fileFormatVersion: 2
+guid: 720ef864134ff374b8282cedd7eb82c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1405905773133802071
+    second: TOA_LEVANTAR_00000
+  - first:
+      213: 1202379577781429130
+    second: TOA_LEVANTAR_00001
+  - first:
+      213: 6516034094125481349
+    second: TOA_LEVANTAR_00002
+  - first:
+      213: 5740636089719600804
+    second: TOA_LEVANTAR_00003
+  - first:
+      213: 5884293156316848627
+    second: TOA_LEVANTAR_00004
+  - first:
+      213: -8505065894150751482
+    second: TOA_LEVANTAR_00005
+  - first:
+      213: -6713218614639198284
+    second: TOA_LEVANTAR_00006
+  - first:
+      213: -5329337962991120621
+    second: TOA_LEVANTAR_00007
+  - first:
+      213: -2323521419999884055
+    second: TOA_LEVANTAR_00008
+  - first:
+      213: 197200603278377126
+    second: TOA_LEVANTAR_00009
+  - first:
+      213: -3559495583237127242
+    second: TOA_LEVANTAR_00010
+  - first:
+      213: 7434016533792137963
+    second: TOA_LEVANTAR_00011
+  - first:
+      213: -8665162804291012199
+    second: TOA_LEVANTAR_00012
+  - first:
+      213: -6461187803823144165
+    second: TOA_LEVANTAR_00013
+  - first:
+      213: 2551781356590059524
+    second: TOA_LEVANTAR_00014
+  - first:
+      213: 1074721601999861145
+    second: TOA_LEVANTAR_00015
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TOA_LEVANTAR_00000
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 402
+        width: 284
+        height: 344
+      alignment: 9
+      pivot: {x: 0.49823943, y: 0.52761626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75aaf431ad7c28310800000000000000
+      internalID: 1405905773133802071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_LEVANTAR_00001
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1705
+        width: 321
+        height: 342
+      alignment: 9
+      pivot: {x: 0.47819313, y: 0.5131579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83a8d20bd5bfa010800000000000000
+      internalID: 1202379577781429130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_LEVANTAR_00002
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1707
+        width: 312
+        height: 340
+      alignment: 9
+      pivot: {x: 0.46314102, y: 0.51617646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58dfea43c7a9d6a50800000000000000
+      internalID: 6516034094125481349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_LEVANTAR_00003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1703
+        width: 345
+        height: 344
+      alignment: 9
+      pivot: {x: 0.46811596, y: 0.5334302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a63680cb16daaf40800000000000000
+      internalID: 5740636089719600804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_LEVANTAR_00004
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1399
+        width: 297
+        height: 304
+      alignment: 9
+      pivot: {x: 0.3956229, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f12788037539a150800000000000000
+      internalID: 5884293156316848627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_LEVANTAR_00005
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1399
+        width: 299
+        height: 306
+      alignment: 9
+      pivot: {x: 0.39966556, y: 0.5866013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bbadb81afe7f980800000000000000
+      internalID: -8505065894150751482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_LEVANTAR_00006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1397
+        width: 293
+        height: 304
+      alignment: 9
+      pivot: {x: 0.4112628, y: 0.6200658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bff3e6fc3bd5d2a0800000000000000
+      internalID: -6713218614639198284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_LEVANTAR_00007
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1102
+        width: 293
+        height: 295
+      alignment: 9
+      pivot: {x: 0.4112628, y: 0.60847455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f09e3db536a06b0800000000000000
+      internalID: -5329337962991120621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_LEVANTAR_00008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 329
+        width: 277
+        height: 351
+      alignment: 9
+      pivot: {x: 0.43862817, y: 0.51424503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec45ec349131cfd0800000000000000
+      internalID: -2323521419999884055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_LEVANTAR_00009
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1045
+        width: 288
+        height: 352
+      alignment: 9
+      pivot: {x: 0.41145834, y: 0.51278406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a086e367e89cb200800000000000000
+      internalID: 197200603278377126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_LEVANTAR_00010
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 748
+        width: 288
+        height: 352
+      alignment: 9
+      pivot: {x: 0.41145834, y: 0.51278406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3449540a12a9ec0800000000000000
+      internalID: -3559495583237127242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_LEVANTAR_00011
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 683
+        width: 287
+        height: 360
+      alignment: 9
+      pivot: {x: 0.42334494, y: 0.5263889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2af0f76aeea2760800000000000000
+      internalID: 7434016533792137963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_LEVANTAR_00012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1035
+        width: 291
+        height: 360
+      alignment: 9
+      pivot: {x: 0.41752577, y: 0.5263889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9997e49e6582fb780800000000000000
+      internalID: -8665162804291012199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_LEVANTAR_00013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 682
+        width: 288
+        height: 351
+      alignment: 9
+      pivot: {x: 0.41145834, y: 0.51424503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13090edcef3556a0800000000000000
+      internalID: -6461187803823144165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_LEVANTAR_00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 682
+        width: 288
+        height: 351
+      alignment: 9
+      pivot: {x: 0.41145834, y: 0.51424503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400d308bf9fb96320800000000000000
+      internalID: 2551781356590059524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_LEVANTAR_00015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 682
+        width: 288
+        height: 351
+      alignment: 9
+      pivot: {x: 0.41145834, y: 0.51424503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995f3a75a9d2aee00800000000000000
+      internalID: 1074721601999861145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TOA_LEVANTAR_00015: 1074721601999861145
+      TOA_LEVANTAR_00011: 7434016533792137963
+      TOA_LEVANTAR_00007: -5329337962991120621
+      TOA_LEVANTAR_00014: 2551781356590059524
+      TOA_LEVANTAR_00000: 1405905773133802071
+      TOA_LEVANTAR_00005: -8505065894150751482
+      TOA_LEVANTAR_00001: 1202379577781429130
+      TOA_LEVANTAR_00012: -8665162804291012199
+      TOA_LEVANTAR_00006: -6713218614639198284
+      TOA_LEVANTAR_00008: -2323521419999884055
+      TOA_LEVANTAR_00003: 5740636089719600804
+      TOA_LEVANTAR_00013: -6461187803823144165
+      TOA_LEVANTAR_00002: 6516034094125481349
+      TOA_LEVANTAR_00009: 197200603278377126
+      TOA_LEVANTAR_00004: 5884293156316848627
+      TOA_LEVANTAR_00010: -3559495583237127242
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

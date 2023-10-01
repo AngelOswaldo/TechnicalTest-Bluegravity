@@ -1,0 +1,759 @@
+fileFormatVersion: 2
+guid: 17117be541dafad4c92cbdbad95ed94a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8586244079174226014
+    second: TOA_SIT_HAND UP_00000
+  - first:
+      213: -5671482524271747171
+    second: TOA_SIT_HAND UP_00001
+  - first:
+      213: -7842370052617787007
+    second: TOA_SIT_HAND UP_00002
+  - first:
+      213: -4703818513690175872
+    second: TOA_SIT_HAND UP_00003
+  - first:
+      213: 9092256725364297234
+    second: TOA_SIT_HAND UP_00004
+  - first:
+      213: 8895799475146741862
+    second: TOA_SIT_HAND UP_00005
+  - first:
+      213: -4230931364041217009
+    second: TOA_SIT_HAND UP_00006
+  - first:
+      213: -3288081709590605292
+    second: TOA_SIT_HAND UP_00007
+  - first:
+      213: 8565760621792113329
+    second: TOA_SIT_HAND UP_00008
+  - first:
+      213: -3369268989630608469
+    second: TOA_SIT_HAND UP_00009
+  - first:
+      213: -3677356789737213289
+    second: TOA_SIT_HAND UP_00010
+  - first:
+      213: -4997732893843094665
+    second: TOA_SIT_HAND UP_00011
+  - first:
+      213: -7520328349973418109
+    second: TOA_SIT_HAND UP_00012
+  - first:
+      213: -5803043154286289862
+    second: TOA_SIT_HAND UP_00013
+  - first:
+      213: -2935117788694526322
+    second: TOA_SIT_HAND UP_00014
+  - first:
+      213: -5635671555914755593
+    second: TOA_SIT_HAND UP_00015
+  - first:
+      213: 5342544979120422386
+    second: TOA_SIT_HAND UP_00016
+  - first:
+      213: 1746112905816666889
+    second: TOA_SIT_HAND UP_00017
+  - first:
+      213: -478604536402747143
+    second: TOA_SIT_HAND UP_00018
+  - first:
+      213: -3651185048443402180
+    second: TOA_SIT_HAND UP_00019
+  - first:
+      213: 6178712914145296654
+    second: TOA_SIT_HAND UP_00020
+  - first:
+      213: -4723675756734043089
+    second: TOA_SIT_HAND UP_00021
+  - first:
+      213: -5103419697101363229
+    second: TOA_SIT_HAND UP_00022
+  - first:
+      213: 1766244315328191957
+    second: TOA_SIT_HAND UP_00023
+  - first:
+      213: 8435325104871211126
+    second: TOA_SIT_HAND UP_00024
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 426
+        width: 272
+        height: 304
+      alignment: 9
+      pivot: {x: 0.5165441, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e501bf58f77782770800000000000000
+      internalID: 8586244079174226014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 426
+        width: 272
+        height: 304
+      alignment: 9
+      pivot: {x: 0.5165441, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f52f661b8da41b0800000000000000
+      internalID: -5671482524271747171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1741
+        width: 304
+        height: 306
+      alignment: 9
+      pivot: {x: 0.47203946, y: 0.58986926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1892e80ecfd4a2390800000000000000
+      internalID: -7842370052617787007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1741
+        width: 304
+        height: 306
+      alignment: 9
+      pivot: {x: 0.47203946, y: 0.58986926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0865793dbfda8beb0800000000000000
+      internalID: -4703818513690175872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 93
+        width: 270
+        height: 331
+      alignment: 9
+      pivot: {x: 0.49814814, y: 0.54531723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ecef1a15f2e2e70800000000000000
+      internalID: 9092256725364297234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 93
+        width: 270
+        height: 331
+      alignment: 9
+      pivot: {x: 0.49814814, y: 0.54531723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6685a3d9d7a347b70800000000000000
+      internalID: 8895799475146741862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 732
+        width: 282
+        height: 353
+      alignment: 9
+      pivot: {x: 0.51950353, y: 0.51133144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ca3414756b845c0800000000000000
+      internalID: -4230931364041217009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 732
+        width: 282
+        height: 353
+      alignment: 9
+      pivot: {x: 0.51950353, y: 0.51133144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412946b2b136e52d0800000000000000
+      internalID: -3288081709590605292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00008
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1014
+        width: 285
+        height: 342
+      alignment: 9
+      pivot: {x: 0.5245614, y: 0.5277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2b2f4f6e1bfd670800000000000000
+      internalID: 8565760621792113329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00009
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1351
+        width: 291
+        height: 345
+      alignment: 9
+      pivot: {x: 0.5343643, y: 0.5231884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab045084b3fd31d0800000000000000
+      internalID: -3369268989630608469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00010
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1351
+        width: 291
+        height: 345
+      alignment: 9
+      pivot: {x: 0.5343643, y: 0.5231884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792b753bb7767fcc0800000000000000
+      internalID: -3677356789737213289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00011
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1703
+        width: 300
+        height: 344
+      alignment: 9
+      pivot: {x: 0.54833335, y: 0.5247093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7738234896c74aab0800000000000000
+      internalID: -4997732893843094665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00012
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1358
+        width: 296
+        height: 343
+      alignment: 9
+      pivot: {x: 0.5422297, y: 0.52623904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fe889c53d62a790800000000000000
+      internalID: -7520328349973418109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00013
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1703
+        width: 300
+        height: 344
+      alignment: 9
+      pivot: {x: 0.54833335, y: 0.5247093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cd08c3ff2777fa0800000000000000
+      internalID: -5803043154286289862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00014
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1703
+        width: 300
+        height: 344
+      alignment: 9
+      pivot: {x: 0.54833335, y: 0.5247093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86ceee0ced5447d0800000000000000
+      internalID: -2935117788694526322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00015
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1698
+        width: 296
+        height: 349
+      alignment: 9
+      pivot: {x: 0.5422297, y: 0.51432663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f19de634921ac1b0800000000000000
+      internalID: -5635671555914755593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1087
+        width: 295
+        height: 343
+      alignment: 9
+      pivot: {x: 0.5372881, y: 0.5233236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdf40d3a58842a40800000000000000
+      internalID: 5342544979120422386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1087
+        width: 295
+        height: 343
+      alignment: 9
+      pivot: {x: 0.5372881, y: 0.5233236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9037de0cf607b3810800000000000000
+      internalID: 1746112905816666889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00018
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1018
+        width: 278
+        height: 331
+      alignment: 9
+      pivot: {x: 0.51258993, y: 0.54531723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0e2dbb5b7ab59f0800000000000000
+      internalID: -478604536402747143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00019
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1018
+        width: 278
+        height: 331
+      alignment: 9
+      pivot: {x: 0.51258993, y: 0.54531723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3840521b82645dc0800000000000000
+      internalID: -3651185048443402180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00020
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 706
+        width: 278
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5089928, y: 0.58225805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01cfb0c8a23fb550800000000000000
+      internalID: 6178712914145296654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1432
+        width: 298
+        height: 307
+      alignment: 9
+      pivot: {x: 0.48154363, y: 0.5879479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c2eb52de1227eb0800000000000000
+      internalID: -4723675756734043089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00022
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1432
+        width: 298
+        height: 307
+      alignment: 9
+      pivot: {x: 0.48154363, y: 0.5879479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7aa8613d20d29b0800000000000000
+      internalID: -5103419697101363229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00023
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 705
+        width: 275
+        height: 307
+      alignment: 9
+      pivot: {x: 0.52181816, y: 0.5879479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd90b9c8d5f28810800000000000000
+      internalID: 1766244315328191957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_SIT_HAND UP_00024
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 123
+        width: 272
+        height: 301
+      alignment: 9
+      pivot: {x: 0.5165441, y: 0.5996678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67088c89d7b401570800000000000000
+      internalID: 8435325104871211126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TOA_SIT_HAND UP_00010: -3677356789737213289
+      TOA_SIT_HAND UP_00006: -4230931364041217009
+      TOA_SIT_HAND UP_00005: 8895799475146741862
+      TOA_SIT_HAND UP_00013: -5803043154286289862
+      TOA_SIT_HAND UP_00000: 8586244079174226014
+      TOA_SIT_HAND UP_00012: -7520328349973418109
+      TOA_SIT_HAND UP_00021: -4723675756734043089
+      TOA_SIT_HAND UP_00015: -5635671555914755593
+      TOA_SIT_HAND UP_00020: 6178712914145296654
+      TOA_SIT_HAND UP_00016: 5342544979120422386
+      TOA_SIT_HAND UP_00004: 9092256725364297234
+      TOA_SIT_HAND UP_00022: -5103419697101363229
+      TOA_SIT_HAND UP_00017: 1746112905816666889
+      TOA_SIT_HAND UP_00008: 8565760621792113329
+      TOA_SIT_HAND UP_00019: -3651185048443402180
+      TOA_SIT_HAND UP_00024: 8435325104871211126
+      TOA_SIT_HAND UP_00003: -4703818513690175872
+      TOA_SIT_HAND UP_00002: -7842370052617787007
+      TOA_SIT_HAND UP_00009: -3369268989630608469
+      TOA_SIT_HAND UP_00023: 1766244315328191957
+      TOA_SIT_HAND UP_00011: -4997732893843094665
+      TOA_SIT_HAND UP_00007: -3288081709590605292
+      TOA_SIT_HAND UP_00018: -478604536402747143
+      TOA_SIT_HAND UP_00001: -5671482524271747171
+      TOA_SIT_HAND UP_00014: -2935117788694526322
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

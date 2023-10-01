@@ -1,0 +1,765 @@
+fileFormatVersion: 2
+guid: 0b99fca0d99fb544b8804ff12395751e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9096471999301923934
+    second: Esfuerzo01
+  - first:
+      213: 2861680233682019366
+    second: Esfuerzo02
+  - first:
+      213: 7679204138385977528
+    second: Esfuerzo03
+  - first:
+      213: 6038712774800127807
+    second: Esfuerzo04
+  - first:
+      213: 4816615066002015308
+    second: Esfuerzo05
+  - first:
+      213: 9025735601913407349
+    second: Esfuerzo06
+  - first:
+      213: -5482716427131693477
+    second: Esfuerzo07
+  - first:
+      213: 4492580162265933485
+    second: Esfuerzo08
+  - first:
+      213: 7310211799927526498
+    second: Esfuerzo09
+  - first:
+      213: -5485929630279433917
+    second: Esfuerzo10
+  - first:
+      213: 878686640681520310
+    second: Esfuerzo11
+  - first:
+      213: 1736779556432630979
+    second: Esfuerzo12
+  - first:
+      213: -838399413846564020
+    second: Esfuerzo13
+  - first:
+      213: -2713202243729944847
+    second: Esfuerzo14
+  - first:
+      213: 503196627286077255
+    second: Esfuerzo15
+  - first:
+      213: 6729419456461441504
+    second: Esfuerzo16
+  - first:
+      213: -7671331942179224179
+    second: Esfuerzo17
+  - first:
+      213: -1392672692220004684
+    second: Esfuerzo18
+  - first:
+      213: 5877519497283954664
+    second: Esfuerzo19
+  - first:
+      213: -4555415505311405823
+    second: Esfuerzo20
+  - first:
+      213: -3109811268291192626
+    second: Esfuerzo21
+  - first:
+      213: -8144284888940724476
+    second: Esfuerzo22
+  - first:
+      213: 3663233655055642653
+    second: Esfuerzo23
+  - first:
+      213: 7527027052345785702
+    second: Esfuerzo24
+  - first:
+      213: 3480562282523041513
+    second: Esfuerzo25
+  - first:
+      213: 7215075069878206484
+    second: Esfuerzo26
+  - first:
+      213: 1230939975078350709
+    second: Esfuerzo27
+  - first:
+      213: -8348365800868463091
+    second: TOA_ESFUERZO_00000
+  - first:
+      213: 2730114894238531206
+    second: TOA_ESFUERZO_00001
+  - first:
+      213: -2253128626812846710
+    second: TOA_ESFUERZO_00002
+  - first:
+      213: 8705009162651947572
+    second: TOA_ESFUERZO_00003
+  - first:
+      213: 3703276869776878174
+    second: TOA_ESFUERZO_00004
+  - first:
+      213: -7130987361979708743
+    second: TOA_ESFUERZO_00005
+  - first:
+      213: 5690205895940836518
+    second: TOA_ESFUERZO_00006
+  - first:
+      213: 5804448384985479782
+    second: TOA_ESFUERZO_00007
+  - first:
+      213: 7905044435076782356
+    second: TOA_ESFUERZO_00008
+  - first:
+      213: 2491019889101386565
+    second: TOA_ESFUERZO_00009
+  - first:
+      213: -3584846271802089304
+    second: TOA_ESFUERZO_00010
+  - first:
+      213: 2576446209942712021
+    second: TOA_ESFUERZO_00011
+  - first:
+      213: -7587859151384958253
+    second: TOA_ESFUERZO_00012
+  - first:
+      213: -3449829123573208048
+    second: TOA_ESFUERZO_00013
+  - first:
+      213: 6030227821272810564
+    second: TOA_ESFUERZO_00014
+  - first:
+      213: -3731275805663831742
+    second: TOA_ESFUERZO_00015
+  - first:
+      213: -779747314463623498
+    second: TOA_ESFUERZO_00016
+  - first:
+      213: -2302072844306397056
+    second: TOA_ESFUERZO_00017
+  - first:
+      213: 3958289066451405651
+    second: TOA_ESFUERZO_00018
+  - first:
+      213: -5945579575385989836
+    second: TOA_ESFUERZO_00019
+  - first:
+      213: -5894964114272289521
+    second: TOA_ESFUERZO_00020
+  - first:
+      213: 6404404239302919701
+    second: TOA_ESFUERZO_00021
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TOA_ESFUERZO_00000
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 353
+        width: 282
+        height: 343
+      alignment: 9
+      pivot: {x: 0.50177306, y: 0.52623904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e37302985a42c80800000000000000
+      internalID: -8348365800868463091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_ESFUERZO_00001
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1708
+        width: 318
+        height: 339
+      alignment: 9
+      pivot: {x: 0.4418239, y: 0.5294985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e3713180153e520800000000000000
+      internalID: 2730114894238531206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_ESFUERZO_00002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1377
+        width: 316
+        height: 334
+      alignment: 9
+      pivot: {x: 0.44462025, y: 0.5224551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d7e8593774bb0e0800000000000000
+      internalID: -2253128626812846710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_ESFUERZO_00003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1713
+        width: 339
+        height: 334
+      alignment: 9
+      pivot: {x: 0.46165192, y: 0.5254491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432d36a56b76ec870800000000000000
+      internalID: 8705009162651947572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_ESFUERZO_00004
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1405
+        width: 295
+        height: 301
+      alignment: 9
+      pivot: {x: 0.3983051, y: 0.59634554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5aa8f731bea46330800000000000000
+      internalID: 3703276869776878174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_ESFUERZO_00005
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 835
+        width: 288
+        height: 301
+      alignment: 9
+      pivot: {x: 0.38368055, y: 0.59634554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba466f96c4a90d90800000000000000
+      internalID: -7130987361979708743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_ESFUERZO_00006
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1758
+        width: 300
+        height: 289
+      alignment: 9
+      pivot: {x: 0.38166666, y: 0.6211073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac03664d1ca7fe40800000000000000
+      internalID: 5690205895940836518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_ESFUERZO_00007
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1467
+        width: 300
+        height: 289
+      alignment: 9
+      pivot: {x: 0.38166666, y: 0.6211073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a36288d0b8d8050800000000000000
+      internalID: 5804448384985479782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_ESFUERZO_00008
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1138
+        width: 293
+        height: 327
+      alignment: 9
+      pivot: {x: 0.42832765, y: 0.55504584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4191e6ee70c54bd60800000000000000
+      internalID: 7905044435076782356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_ESFUERZO_00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 356
+        width: 282
+        height: 329
+      alignment: 9
+      pivot: {x: 0.43439716, y: 0.55167174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54332522461e19220800000000000000
+      internalID: 2491019889101386565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_ESFUERZO_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1048
+        width: 290
+        height: 327
+      alignment: 9
+      pivot: {x: 0.43275863, y: 0.55504584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a06ad22f41104ec0800000000000000
+      internalID: -3584846271802089304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_ESFUERZO_00011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 356
+        width: 282
+        height: 329
+      alignment: 9
+      pivot: {x: 0.43439716, y: 0.55167174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de69866d2061c320800000000000000
+      internalID: 2576446209942712021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_ESFUERZO_00012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 356
+        width: 282
+        height: 329
+      alignment: 9
+      pivot: {x: 0.43439716, y: 0.55167174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3daa004dd4282b690800000000000000
+      internalID: -7587859151384958253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_ESFUERZO_00013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1048
+        width: 290
+        height: 327
+      alignment: 9
+      pivot: {x: 0.43275863, y: 0.55504584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c2f99a0bebf10d0800000000000000
+      internalID: -3449829123573208048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_ESFUERZO_00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 356
+        width: 282
+        height: 329
+      alignment: 9
+      pivot: {x: 0.43439716, y: 0.55167174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444c4a1014cafa350800000000000000
+      internalID: 6030227821272810564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_ESFUERZO_00015
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 112
+        width: 280
+        height: 370
+      alignment: 9
+      pivot: {x: 0.44464287, y: 0.49324325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249d5648c68d73cc0800000000000000
+      internalID: -3731275805663831742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_ESFUERZO_00016
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1059
+        width: 291
+        height: 344
+      alignment: 9
+      pivot: {x: 0.41065294, y: 0.52761626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6b4d2e2f7cd25f0800000000000000
+      internalID: -779747314463623498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_ESFUERZO_00017
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 698
+        width: 283
+        height: 359
+      alignment: 9
+      pivot: {x: 0.4328622, y: 0.5027855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0884b0ce1f46d00e0800000000000000
+      internalID: -2302072844306397056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_ESFUERZO_00018
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 687
+        width: 283
+        height: 359
+      alignment: 9
+      pivot: {x: 0.4328622, y: 0.5027855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b062c1feaaee630800000000000000
+      internalID: 3958289066451405651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_ESFUERZO_00019
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1059
+        width: 291
+        height: 344
+      alignment: 9
+      pivot: {x: 0.41065294, y: 0.52761626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ddc4190ee0d7da0800000000000000
+      internalID: -5945579575385989836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_ESFUERZO_00020
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1059
+        width: 291
+        height: 344
+      alignment: 9
+      pivot: {x: 0.41065294, y: 0.52761626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dff15fe51e03ea0800000000000000
+      internalID: -5894964114272289521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_ESFUERZO_00021
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 484
+        width: 282
+        height: 349
+      alignment: 9
+      pivot: {x: 0.43085107, y: 0.5200573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51608a149b301e850800000000000000
+      internalID: 6404404239302919701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TOA_ESFUERZO_00015: -3731275805663831742
+      TOA_ESFUERZO_00003: 8705009162651947572
+      TOA_ESFUERZO_00012: -7587859151384958253
+      TOA_ESFUERZO_00007: 5804448384985479782
+      TOA_ESFUERZO_00010: -3584846271802089304
+      TOA_ESFUERZO_00014: 6030227821272810564
+      TOA_ESFUERZO_00008: 7905044435076782356
+      TOA_ESFUERZO_00006: 5690205895940836518
+      TOA_ESFUERZO_00011: 2576446209942712021
+      TOA_ESFUERZO_00019: -5945579575385989836
+      TOA_ESFUERZO_00004: 3703276869776878174
+      TOA_ESFUERZO_00018: 3958289066451405651
+      TOA_ESFUERZO_00009: 2491019889101386565
+      TOA_ESFUERZO_00021: 6404404239302919701
+      TOA_ESFUERZO_00000: -8348365800868463091
+      TOA_ESFUERZO_00020: -5894964114272289521
+      TOA_ESFUERZO_00002: -2253128626812846710
+      TOA_ESFUERZO_00001: 2730114894238531206
+      TOA_ESFUERZO_00016: -779747314463623498
+      TOA_ESFUERZO_00013: -3449829123573208048
+      TOA_ESFUERZO_00017: -2302072844306397056
+      TOA_ESFUERZO_00005: -7130987361979708743
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1134 @@
+fileFormatVersion: 2
+guid: fb67d5656c066d24d8ce1067aa4a92ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6967078695867258048
+    second: PALO_DE_PESCAR_00000
+  - first:
+      213: 6583624241748130075
+    second: PALO_DE_PESCAR_00001
+  - first:
+      213: -4444875171504461760
+    second: PALO_DE_PESCAR_00002
+  - first:
+      213: 3994052470381249344
+    second: PALO_DE_PESCAR_00003
+  - first:
+      213: -6473356959249307361
+    second: PALO_DE_PESCAR_00004
+  - first:
+      213: 4312337313570604278
+    second: PALO_DE_PESCAR_00005
+  - first:
+      213: 5865955706840296765
+    second: PALO_DE_PESCAR_00006
+  - first:
+      213: 6591896448483714438
+    second: PALO_DE_PESCAR_00007
+  - first:
+      213: -4019434166777789573
+    second: PALO_DE_PESCAR_00008
+  - first:
+      213: 1954745775190806943
+    second: PALO_DE_PESCAR_00009
+  - first:
+      213: 8572967201013753612
+    second: PALO_DE_PESCAR_00010
+  - first:
+      213: -8927197512576941455
+    second: PALO_DE_PESCAR_00011
+  - first:
+      213: 9021522937420780718
+    second: PALO_DE_PESCAR_00012
+  - first:
+      213: -3277329877178577354
+    second: PALO_DE_PESCAR_00013
+  - first:
+      213: -1445780819710799502
+    second: PALO_DE_PESCAR_00014
+  - first:
+      213: -3072020981865786450
+    second: PALO_DE_PESCAR_00015
+  - first:
+      213: 239400616266824988
+    second: PALO_DE_PESCAR_00016
+  - first:
+      213: 4687780272568188175
+    second: PALO_DE_PESCAR_00017
+  - first:
+      213: 8310044416434048036
+    second: PALO_DE_PESCAR_00018
+  - first:
+      213: 4422535116118080605
+    second: PALO_DE_PESCAR_00019
+  - first:
+      213: -95275624663235375
+    second: PALO_DE_PESCAR_00020
+  - first:
+      213: -5812904292693144436
+    second: PALO_DE_PESCAR_00021
+  - first:
+      213: -1441789725260807023
+    second: PALO_DE_PESCAR_00022
+  - first:
+      213: -5783675500557415274
+    second: PALO_DE_PESCAR_00023
+  - first:
+      213: 8154835783131476889
+    second: PALO_DE_PESCAR_00024
+  - first:
+      213: 2211638722107642623
+    second: PALO_DE_PESCAR_00025
+  - first:
+      213: -5038892202489538610
+    second: PALO_DE_PESCAR_00026
+  - first:
+      213: -5097706963893605438
+    second: PALO_DE_PESCAR_00027
+  - first:
+      213: 3524976342069509757
+    second: PALO_DE_PESCAR_00028
+  - first:
+      213: -3004521676455033639
+    second: PALO_DE_PESCAR_00029
+  - first:
+      213: 5811157619290955329
+    second: PALO_DE_PESCAR_00030
+  - first:
+      213: 8536472474418655474
+    second: PALO_DE_PESCAR_00031
+  - first:
+      213: -22359993336807834
+    second: PALO_DE_PESCAR_00032
+  - first:
+      213: 8504631214634115957
+    second: PALO_DE_PESCAR_00033
+  - first:
+      213: 7390626758098407967
+    second: PALO_DE_PESCAR_00034
+  - first:
+      213: -2610093805563808517
+    second: PALO_DE_PESCAR_00035
+  - first:
+      213: -2691482850423817762
+    second: PALO_DE_PESCAR_00036
+  - first:
+      213: 1064374279443522311
+    second: PALO_DE_PESCAR_00037
+  - first:
+      213: -6995477072675827820
+    second: PALO_DE_PESCAR_00038
+  - first:
+      213: -3881826792851879631
+    second: PALO_DE_PESCAR_00039
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00000
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 120
+        width: 346
+        height: 378
+      alignment: 9
+      pivot: {x: -0.0072254334, y: 0.66798943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04be3aad6d6ff4f90800000000000000
+      internalID: -6967078695867258048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00001
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 49
+        width: 311
+        height: 324
+      alignment: 9
+      pivot: {x: -0.09163987, y: 0.7021605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b193c08cd5bbd5b50800000000000000
+      internalID: 6583624241748130075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00002
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 49
+        width: 311
+        height: 324
+      alignment: 9
+      pivot: {x: -0.09163987, y: 0.7021605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048e58bd491a052c0800000000000000
+      internalID: -4444875171504461760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00003
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 375
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: -0.08412699, y: 0.75457317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04388577f89bd6730800000000000000
+      internalID: 3994052470381249344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00004
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 705
+        width: 317
+        height: 318
+      alignment: 9
+      pivot: {x: -0.09936909, y: 0.7437107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1964a394240a26a0800000000000000
+      internalID: -6473356959249307361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00005
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 705
+        width: 317
+        height: 318
+      alignment: 9
+      pivot: {x: -0.09936909, y: 0.7437107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4c90f50ff78db30800000000000000
+      internalID: 4312337313570604278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00006
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 645
+        width: 339
+        height: 378
+      alignment: 9
+      pivot: {x: -0.028023599, y: 0.66798943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d246ed2af086150800000000000000
+      internalID: 5865955706840296765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00007
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 645
+        width: 339
+        height: 378
+      alignment: 9
+      pivot: {x: -0.028023599, y: 0.66798943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685e70005ee1b7b50800000000000000
+      internalID: 6591896448483714438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00008
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 275
+        width: 340
+        height: 368
+      alignment: 9
+      pivot: {x: -0.036764707, y: 0.6861413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b734423dbe91838c0800000000000000
+      internalID: -4019434166777789573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 20
+        width: 389
+        height: 463
+      alignment: 9
+      pivot: {x: 0.1092545, y: 0.44816414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9191740de6a02b10800000000000000
+      internalID: 1954745775190806943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 20
+        width: 389
+        height: 463
+      alignment: 9
+      pivot: {x: 0.1092545, y: 0.44816414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07ef7f6f3c49f670800000000000000
+      internalID: 8572967201013753612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00011
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 41
+        width: 421
+        height: 453
+      alignment: 9
+      pivot: {x: 0.21733966, y: 0.37417218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172c91f19293c1480800000000000000
+      internalID: -8927197512576941455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00012
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 500
+        width: 357
+        height: 523
+      alignment: 9
+      pivot: {x: 0.41036415, y: 0.33938813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea411024053e23d70800000000000000
+      internalID: 9021522937420780718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00013
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 500
+        width: 357
+        height: 523
+      alignment: 9
+      pivot: {x: 0.41036415, y: 0.33938813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e0ffa37d59482d0800000000000000
+      internalID: -3277329877178577354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 485
+        width: 350
+        height: 538
+      alignment: 9
+      pivot: {x: 0.4757143, y: 0.31877324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271901a210e8febe0800000000000000
+      internalID: -1445780819710799502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 485
+        width: 350
+        height: 538
+      alignment: 9
+      pivot: {x: 0.4757143, y: 0.31877324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3d759713dfd55d0800000000000000
+      internalID: -3072020981865786450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00016
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 496
+        width: 374
+        height: 527
+      alignment: 9
+      pivot: {x: 0.43716577, y: 0.33681214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1df7939795825300800000000000000
+      internalID: 239400616266824988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00017
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 690
+        width: 59
+        height: 333
+      alignment: 9
+      pivot: {x: 2.618644, y: 0.524024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0db28b22575e0140800000000000000
+      internalID: 4687780272568188175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00018
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 690
+        width: 59
+        height: 333
+      alignment: 9
+      pivot: {x: 2.618644, y: 0.524024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c05454e55335370800000000000000
+      internalID: 8310044416434048036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00019
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 690
+        width: 59
+        height: 333
+      alignment: 9
+      pivot: {x: 2.618644, y: 0.524024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cb8eaa140006d30800000000000000
+      internalID: 4422535116118080605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00020
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 690
+        width: 59
+        height: 333
+      alignment: 9
+      pivot: {x: 2.618644, y: 0.524024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4c13cf2538daef0800000000000000
+      internalID: -95275624663235375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00021
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 690
+        width: 59
+        height: 333
+      alignment: 9
+      pivot: {x: 2.618644, y: 0.524024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c8ea8085a645fa0800000000000000
+      internalID: -5812904292693144436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00022
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 690
+        width: 59
+        height: 333
+      alignment: 9
+      pivot: {x: 2.618644, y: 0.524024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194850142ebbdfbe0800000000000000
+      internalID: -1441789725260807023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00023
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 690
+        width: 59
+        height: 333
+      alignment: 9
+      pivot: {x: 2.618644, y: 0.524024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c452586c14cbfa0800000000000000
+      internalID: -5783675500557415274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00024
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 690
+        width: 40
+        height: 333
+      alignment: 9
+      pivot: {x: 3.6375, y: 0.53003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993323740fbcb2170800000000000000
+      internalID: 8154835783131476889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00025
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 678
+        width: 50
+        height: 345
+      alignment: 9
+      pivot: {x: 3.81, y: 0.57246375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff299b233b151be10800000000000000
+      internalID: 2211638722107642623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00026
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 678
+        width: 50
+        height: 345
+      alignment: 9
+      pivot: {x: 3.81, y: 0.57246375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec710213d32421ab0800000000000000
+      internalID: -5038892202489538610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00027
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 493
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 366.5, y: -365.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb2610768e4149b0800000000000000
+      internalID: -5097706963893605438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00028
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 493
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 366.5, y: -365.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e75b69e4b3be030800000000000000
+      internalID: 3524976342069509757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00029
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 493
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 366.5, y: -365.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4cfe2347bcd46d0800000000000000
+      internalID: -3004521676455033639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00030
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 493
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 366.5, y: -365.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e54afd01165a050800000000000000
+      internalID: 5811157619290955329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00031
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 493
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 366.5, y: -365.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0bf90cc74a77670800000000000000
+      internalID: 8536472474418655474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00032
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 493
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 366.5, y: -365.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ebafb54bf80bff0800000000000000
+      internalID: -22359993336807834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00033
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 493
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 366.5, y: -365.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57327fdb705860670800000000000000
+      internalID: 8504631214634115957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00034
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 493
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 366.5, y: -365.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12d3f711e7c09660800000000000000
+      internalID: 7390626758098407967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00035
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 493
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 366.5, y: -365.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4fbe0438517cbd0800000000000000
+      internalID: -2610093805563808517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00036
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 493
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 366.5, y: -365.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9be6d8b9ee5aad0800000000000000
+      internalID: -2691482850423817762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00037
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 493
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 366.5, y: -365.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7032b4294ca65ce00800000000000000
+      internalID: 1064374279443522311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00038
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 493
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 366.5, y: -365.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f84c08aa21bee90800000000000000
+      internalID: -6995477072675827820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PALO_DE_PESCAR_00039
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 493
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 366.5, y: -365.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1394874491bf02ac0800000000000000
+      internalID: -3881826792851879631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PALO_DE_PESCAR_00026: -5038892202489538610
+      PALO_DE_PESCAR_00012: 9021522937420780718
+      PALO_DE_PESCAR_00028: 3524976342069509757
+      PALO_DE_PESCAR_00032: -22359993336807834
+      PALO_DE_PESCAR_00035: -2610093805563808517
+      PALO_DE_PESCAR_00031: 8536472474418655474
+      PALO_DE_PESCAR_00017: 4687780272568188175
+      PALO_DE_PESCAR_00039: -3881826792851879631
+      PALO_DE_PESCAR_00009: 1954745775190806943
+      PALO_DE_PESCAR_00023: -5783675500557415274
+      PALO_DE_PESCAR_00027: -5097706963893605438
+      PALO_DE_PESCAR_00025: 2211638722107642623
+      PALO_DE_PESCAR_00030: 5811157619290955329
+      PALO_DE_PESCAR_00003: 3994052470381249344
+      PALO_DE_PESCAR_00029: -3004521676455033639
+      PALO_DE_PESCAR_00011: -8927197512576941455
+      PALO_DE_PESCAR_00005: 4312337313570604278
+      PALO_DE_PESCAR_00013: -3277329877178577354
+      PALO_DE_PESCAR_00022: -1441789725260807023
+      PALO_DE_PESCAR_00016: 239400616266824988
+      PALO_DE_PESCAR_00019: 4422535116118080605
+      PALO_DE_PESCAR_00006: 5865955706840296765
+      PALO_DE_PESCAR_00018: 8310044416434048036
+      PALO_DE_PESCAR_00002: -4444875171504461760
+      PALO_DE_PESCAR_00033: 8504631214634115957
+      PALO_DE_PESCAR_00034: 7390626758098407967
+      PALO_DE_PESCAR_00004: -6473356959249307361
+      PALO_DE_PESCAR_00038: -6995477072675827820
+      PALO_DE_PESCAR_00010: 8572967201013753612
+      PALO_DE_PESCAR_00021: -5812904292693144436
+      PALO_DE_PESCAR_00020: -95275624663235375
+      PALO_DE_PESCAR_00015: -3072020981865786450
+      PALO_DE_PESCAR_00007: 6591896448483714438
+      PALO_DE_PESCAR_00000: -6967078695867258048
+      PALO_DE_PESCAR_00014: -1445780819710799502
+      PALO_DE_PESCAR_00024: 8154835783131476889
+      PALO_DE_PESCAR_00036: -2691482850423817762
+      PALO_DE_PESCAR_00037: 1064374279443522311
+      PALO_DE_PESCAR_00008: -4019434166777789573
+      PALO_DE_PESCAR_00001: 6583624241748130075
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

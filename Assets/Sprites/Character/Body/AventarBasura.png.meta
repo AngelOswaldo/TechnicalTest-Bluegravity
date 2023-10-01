@@ -1,0 +1,934 @@
+fileFormatVersion: 2
+guid: 2db77a228e1e31d4199f32aa6a5d8cdd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8598681113991889640
+    second: TOA_AVENTAR_BASURA_00000
+  - first:
+      213: 3275967191383565995
+    second: TOA_AVENTAR_BASURA_00001
+  - first:
+      213: 4112546015702602650
+    second: TOA_AVENTAR_BASURA_00002
+  - first:
+      213: -8344251909455070301
+    second: TOA_AVENTAR_BASURA_00003
+  - first:
+      213: -4801564318345786799
+    second: TOA_AVENTAR_BASURA_00004
+  - first:
+      213: -5557497171938232379
+    second: TOA_AVENTAR_BASURA_00005
+  - first:
+      213: 9072933817969525121
+    second: TOA_AVENTAR_BASURA_00006
+  - first:
+      213: 7085985823873428439
+    second: TOA_AVENTAR_BASURA_00007
+  - first:
+      213: 8744670394213439422
+    second: TOA_AVENTAR_BASURA_00008
+  - first:
+      213: -4967341044863654320
+    second: TOA_AVENTAR_BASURA_00009
+  - first:
+      213: 9014604576308866983
+    second: TOA_AVENTAR_BASURA_00010
+  - first:
+      213: -5618039253308823783
+    second: TOA_AVENTAR_BASURA_00011
+  - first:
+      213: 8762746003287745730
+    second: TOA_AVENTAR_BASURA_00012
+  - first:
+      213: -8063381505330541426
+    second: TOA_AVENTAR_BASURA_00013
+  - first:
+      213: 6255662559766320817
+    second: TOA_AVENTAR_BASURA_00014
+  - first:
+      213: -1072214436673121483
+    second: TOA_AVENTAR_BASURA_00015
+  - first:
+      213: 4809459750276011206
+    second: TOA_AVENTAR_BASURA_00016
+  - first:
+      213: -299437212832255467
+    second: TOA_AVENTAR_BASURA_00017
+  - first:
+      213: 6688730053558042851
+    second: TOA_AVENTAR_BASURA_00018
+  - first:
+      213: 9054531129390914968
+    second: TOA_AVENTAR_BASURA_00019
+  - first:
+      213: 7515614200037810849
+    second: TOA_AVENTAR_BASURA_00020
+  - first:
+      213: 3313990862127954298
+    second: TOA_AVENTAR_BASURA_00021
+  - first:
+      213: -2854319218036587646
+    second: TOA_AVENTAR_BASURA_00022
+  - first:
+      213: 9050377243198793317
+    second: TOA_AVENTAR_BASURA_00023
+  - first:
+      213: -8749722550105681942
+    second: TOA_AVENTAR_BASURA_00024
+  - first:
+      213: -4112894413307995281
+    second: TOA_AVENTAR_BASURA_00025
+  - first:
+      213: -1084593920060042269
+    second: TOA_AVENTAR_BASURA_00026
+  - first:
+      213: -8654775552798627112
+    second: TOA_AVENTAR_BASURA_00027
+  - first:
+      213: 4542314962628482779
+    second: TOA_AVENTAR_BASURA_00028
+  - first:
+      213: 1842266397280998776
+    second: TOA_AVENTAR_BASURA_00029
+  - first:
+      213: -4821872768969945261
+    second: TOA_AVENTAR_BASURA_00030
+  - first:
+      213: -221417156123801688
+    second: TOA_AVENTAR_BASURA_00031
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00000
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1349
+        width: 281
+        height: 349
+      alignment: 9
+      pivot: {x: 0.49644127, y: 0.517192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2c8585ae6a45770800000000000000
+      internalID: 8598681113991889640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1002
+        width: 233
+        height: 344
+      alignment: 9
+      pivot: {x: 0.50858366, y: 0.52761626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba66042cdc2967d20800000000000000
+      internalID: 3275967191383565995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1002
+        width: 233
+        height: 344
+      alignment: 9
+      pivot: {x: 0.50858366, y: 0.52761626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93d664efc2b21930800000000000000
+      internalID: 4112546015702602650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00003
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 315
+        width: 232
+        height: 338
+      alignment: 9
+      pivot: {x: 0.51077586, y: 0.53698224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab3e8c1913433c80800000000000000
+      internalID: -8344251909455070301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 658
+        width: 232
+        height: 342
+      alignment: 9
+      pivot: {x: 0.5064655, y: 0.53070176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a0fc631ba6d5db0800000000000000
+      internalID: -4801564318345786799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 658
+        width: 232
+        height: 342
+      alignment: 9
+      pivot: {x: 0.5064655, y: 0.53070176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7326a54cdcfd2b0800000000000000
+      internalID: -5557497171938232379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00006
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 999
+        width: 232
+        height: 342
+      alignment: 9
+      pivot: {x: 0.5064655, y: 0.53070176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181c3baac3989ed70800000000000000
+      internalID: 9072933817969525121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00007
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 999
+        width: 232
+        height: 342
+      alignment: 9
+      pivot: {x: 0.5064655, y: 0.53070176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbed6b409a765260800000000000000
+      internalID: 7085985823873428439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 314
+        width: 232
+        height: 342
+      alignment: 9
+      pivot: {x: 0.5064655, y: 0.53070176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb797fc646f4b5970800000000000000
+      internalID: 8744670394213439422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00009
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 655
+        width: 232
+        height: 342
+      alignment: 9
+      pivot: {x: 0.5064655, y: 0.53070176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0562fa643a5701bb0800000000000000
+      internalID: -4967341044863654320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00010
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 655
+        width: 232
+        height: 342
+      alignment: 9
+      pivot: {x: 0.5064655, y: 0.53070176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af2089c91f4a1d70800000000000000
+      internalID: 9014604576308866983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 658
+        width: 232
+        height: 342
+      alignment: 9
+      pivot: {x: 0.5064655, y: 0.53070176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917a3549017b802b0800000000000000
+      internalID: -5618039253308823783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00012
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 999
+        width: 243
+        height: 348
+      alignment: 9
+      pivot: {x: 0.47942388, y: 0.53304595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4a0fe10178b9970800000000000000
+      internalID: 8762746003287745730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00013
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 999
+        width: 243
+        height: 348
+      alignment: 9
+      pivot: {x: 0.47942388, y: 0.53304595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c81561e3d191090800000000000000
+      internalID: -8063381505330541426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1701
+        width: 393
+        height: 346
+      alignment: 9
+      pivot: {x: 0.40076336, y: 0.5216763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6159544f390d650800000000000000
+      internalID: 6255662559766320817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1701
+        width: 393
+        height: 346
+      alignment: 9
+      pivot: {x: 0.40076336, y: 0.5216763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5339d0396aabe11f0800000000000000
+      internalID: -1072214436673121483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00016
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1700
+        width: 321
+        height: 347
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5259366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c49db84922aeb240800000000000000
+      internalID: 4809459750276011206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00017
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1700
+        width: 321
+        height: 347
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5259366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512b990017f28dbf0800000000000000
+      internalID: -299437212832255467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00018
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1700
+        width: 321
+        height: 347
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5259366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e08ec89b8423dc50800000000000000
+      internalID: 6688730053558042851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1348
+        width: 313
+        height: 351
+      alignment: 9
+      pivot: {x: 0.5063898, y: 0.517094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ddf07d61828ad70800000000000000
+      internalID: 9054531129390914968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00020
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1694
+        width: 299
+        height: 353
+      alignment: 9
+      pivot: {x: 0.49665552, y: 0.5283286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2a226ab43dc4860800000000000000
+      internalID: 7515614200037810849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00021
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1694
+        width: 299
+        height: 353
+      alignment: 9
+      pivot: {x: 0.49665552, y: 0.5283286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79f60e7129adfd20800000000000000
+      internalID: 3313990862127954298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00022
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1343
+        width: 281
+        height: 349
+      alignment: 9
+      pivot: {x: 0.49644127, y: 0.517192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283cb554bcb6368d0800000000000000
+      internalID: -2854319218036587646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00023
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1343
+        width: 281
+        height: 349
+      alignment: 9
+      pivot: {x: 0.49644127, y: 0.517192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566a428d626699d70800000000000000
+      internalID: 9050377243198793317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00024
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1343
+        width: 281
+        height: 349
+      alignment: 9
+      pivot: {x: 0.49644127, y: 0.517192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefc9bdd2bdb29680800000000000000
+      internalID: -8749722550105681942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00025
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1343
+        width: 281
+        height: 349
+      alignment: 9
+      pivot: {x: 0.49644127, y: 0.517192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b961872501ce6c0800000000000000
+      internalID: -4112894413307995281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00026
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1343
+        width: 281
+        height: 349
+      alignment: 9
+      pivot: {x: 0.49644127, y: 0.517192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3d54d739fb2f0f0800000000000000
+      internalID: -1084593920060042269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00027
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1343
+        width: 281
+        height: 349
+      alignment: 9
+      pivot: {x: 0.49644127, y: 0.517192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dae3bc5d7f04e780800000000000000
+      internalID: -8654775552798627112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00028
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1343
+        width: 281
+        height: 349
+      alignment: 9
+      pivot: {x: 0.49644127, y: 0.517192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6996d646b890f30800000000000000
+      internalID: 4542314962628482779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00029
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1343
+        width: 281
+        height: 349
+      alignment: 9
+      pivot: {x: 0.49644127, y: 0.517192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875929f078b019910800000000000000
+      internalID: 1842266397280998776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00030
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1343
+        width: 281
+        height: 349
+      alignment: 9
+      pivot: {x: 0.49644127, y: 0.517192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fca659344451db0800000000000000
+      internalID: -4821872768969945261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_AVENTAR_BASURA_00031
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1343
+        width: 281
+        height: 349
+      alignment: 9
+      pivot: {x: 0.49644127, y: 0.517192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a74016054e5decf0800000000000000
+      internalID: -221417156123801688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TOA_AVENTAR_BASURA_00008: 8744670394213439422
+      TOA_AVENTAR_BASURA_00016: 4809459750276011206
+      TOA_AVENTAR_BASURA_00013: -8063381505330541426
+      TOA_AVENTAR_BASURA_00023: 9050377243198793317
+      TOA_AVENTAR_BASURA_00009: -4967341044863654320
+      TOA_AVENTAR_BASURA_00007: 7085985823873428439
+      TOA_AVENTAR_BASURA_00014: 6255662559766320817
+      TOA_AVENTAR_BASURA_00015: -1072214436673121483
+      TOA_AVENTAR_BASURA_00022: -2854319218036587646
+      TOA_AVENTAR_BASURA_00011: -5618039253308823783
+      TOA_AVENTAR_BASURA_00021: 3313990862127954298
+      TOA_AVENTAR_BASURA_00001: 3275967191383565995
+      TOA_AVENTAR_BASURA_00030: -4821872768969945261
+      TOA_AVENTAR_BASURA_00024: -8749722550105681942
+      TOA_AVENTAR_BASURA_00004: -4801564318345786799
+      TOA_AVENTAR_BASURA_00019: 9054531129390914968
+      TOA_AVENTAR_BASURA_00000: 8598681113991889640
+      TOA_AVENTAR_BASURA_00020: 7515614200037810849
+      TOA_AVENTAR_BASURA_00010: 9014604576308866983
+      TOA_AVENTAR_BASURA_00028: 4542314962628482779
+      TOA_AVENTAR_BASURA_00012: 8762746003287745730
+      TOA_AVENTAR_BASURA_00029: 1842266397280998776
+      TOA_AVENTAR_BASURA_00026: -1084593920060042269
+      TOA_AVENTAR_BASURA_00002: 4112546015702602650
+      TOA_AVENTAR_BASURA_00003: -8344251909455070301
+      TOA_AVENTAR_BASURA_00017: -299437212832255467
+      TOA_AVENTAR_BASURA_00027: -8654775552798627112
+      TOA_AVENTAR_BASURA_00006: 9072933817969525121
+      TOA_AVENTAR_BASURA_00018: 6688730053558042851
+      TOA_AVENTAR_BASURA_00005: -5557497171938232379
+      TOA_AVENTAR_BASURA_00025: -4112894413307995281
+      TOA_AVENTAR_BASURA_00031: -221417156123801688
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
