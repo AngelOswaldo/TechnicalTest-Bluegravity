@@ -6,6 +6,7 @@ using UnityEngine;
 public class ShopManager : MonoBehaviour
 {
     [SerializeField] private GameObject _shopPanel;
+    [SerializeField] private ClothesData _clothesData;
 
     public static Action OpenUIShopEvent;
 
@@ -28,5 +29,21 @@ public class ShopManager : MonoBehaviour
     {
         _shopPanel.SetActive(false);
         PlayerController.CanPlayerWalkEvent?.Invoke(true);
+    }
+
+    public void BuyItem(string code)
+    {
+        if(!_clothesData.IsItemUnlocked(code))
+        {
+            _clothesData.BuyClothes(code, 0);
+        }
+    }
+
+    public void SellItem(string code)
+    {
+        if (_clothesData.IsItemUnlocked(code))
+        {
+            _clothesData.SellClothes(code);
+        }
     }
 }

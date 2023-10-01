@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbb6f4fdc1ddbd24faf45b6df17d6109, type: 3}
+  m_Name: ClothesData
+  m_EditorClassIdentifier: 
+  AllLockedClothes:
+  - Class: 0
+    Id: 1
+    Price: 10
+    Code: Shirt_01
+    Icon: {fileID: 0}
+  - Class: 0
+    Id: 2
+    Price: 10
+    Code: Shirt_02
+    Icon: {fileID: 0}
+  - Class: 0
+    Id: 3
+    Price: 10
+    Code: Shirt_03
+    Icon: {fileID: 0}
+  - Class: 1
+    Id: 1
+    Price: 10
+    Code: Pants_01
+    Icon: {fileID: 0}
+  - Class: 1
+    Id: 2
+    Price: 10
+    Code: Pants_02
+    Icon: {fileID: 0}
+  - Class: 2
+    Id: 1
+    Price: 10
+    Code: Glasses_01
+    Icon: {fileID: 21300000, guid: fcaed2d90fb47ec4f869a161b67bcc8e, type: 3}
+  - Class: 2
+    Id: 2
+    Price: 10
+    Code: Glasses_02
+    Icon: {fileID: 21300000, guid: 69bfd0c4dba77594db49fe3b6e69842c, type: 3}
+  - Class: 2
+    Id: 3
+    Price: 10
+    Code: Glasses_03
+    Icon: {fileID: 21300000, guid: bbbe0ab60ded90542a853012d864a796, type: 3}
+  - Class: 3
+    Id: 1
+    Price: 10
+    Code: Haircut_01
+    Icon: {fileID: 21300000, guid: 3adb246426243e84ebd87ca030a1d69e, type: 3}
+  - Class: 3
+    Id: 2
+    Price: 10
+    Code: Haircut_02
+    Icon: {fileID: 21300000, guid: 5dd8662189a717344b2ff8b05962befc, type: 3}
+  - Class: 3
+    Id: 3
+    Price: 10
+    Code: Haircut_03
+    Icon: {fileID: 21300000, guid: 219a9bfaf4a4af24689e19dd249e65b5, type: 3}
+  - Class: 3
+    Id: 4
+    Price: 10
+    Code: Haircut_04
+    Icon: {fileID: 21300000, guid: 70ab13e481517a14fa0d34cfa55dd4f1, type: 3}
+  - Class: 4
+    Id: 1
+    Price: 10
+    Code: Accessory_01
+    Icon: {fileID: 21300000, guid: ff77b05c2090432428ec33ce57a150de, type: 3}
+  - Class: 4
+    Id: 2
+    Price: 10
+    Code: Accessory_02
+    Icon: {fileID: 21300000, guid: 90ec3d3169780b244be799fe275fe262, type: 3}
+  - Class: 4
+    Id: 3
+    Price: 10
+    Code: Accessory_03
+    Icon: {fileID: 21300000, guid: ba299f1550982a34382f9306c9f30af3, type: 3}
+  - Class: 4
+    Id: 4
+    Price: 10
+    Code: Accessory_04
+    Icon: {fileID: 21300000, guid: 463ac6684572a15479828392ff8394d9, type: 3}
+  - Class: 4
+    Id: 5
+    Price: 10
+    Code: Accessory_05
+    Icon: {fileID: 21300000, guid: fa6e947ce400840479f32621e4253b0e, type: 3}
+  AllUnlockedClothes: []
