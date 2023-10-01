@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -8,17 +9,33 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D _rb;
     private Vector2 _movementInput;
 
+    private bool _canWalk = true;
     private bool _isWalking = false;
     private bool _bodyFlip = false;
     private bool _isFacingRight = true;
+
+    public static Action<bool> CanPlayerWalkEvent;
 
     private void Awake()
     {
         _rb = GetComponent<Rigidbody2D>();
     }
 
+    private void OnEnable()
+    {
+        CanPlayerWalkEvent += CanWalk;
+    }
+
+    private void OnDisable()
+    {
+        CanPlayerWalkEvent -= CanWalk;
+    }
+
     private void FixedUpdate()
     {
+        if (!_canWalk)
+            return;
+
         Movement();
     }
 
@@ -49,5 +66,10 @@ public class PlayerController : MonoBehaviour
         }
 
         _rb.velocity = _movementInput * _speed;
+    }
+
+    private void CanWalk(bool value)
+    {
+        _canWalk = value;
     }
 }

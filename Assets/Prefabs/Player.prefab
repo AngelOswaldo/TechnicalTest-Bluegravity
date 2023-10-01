@@ -10,7 +10,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1242638222207009734}
   - component: {fileID: 1242638222207009785}
+  - component: {fileID: 4690143423504299999}
+  - component: {fileID: 704000144851925742}
   - component: {fileID: 1242638222207009784}
+  - component: {fileID: -2509237361130588258}
   m_Layer: 8
   m_Name: Player
   m_TagString: Player
@@ -55,6 +58,48 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!70 &4690143423504299999
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1242638222207009787}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.0106031895, y: -0.045158863}
+  m_Size: {x: 1.28267, y: 2.1261282}
+  m_Direction: 0
+--- !u!61 &704000144851925742
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1242638222207009787}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 6, y: 5}
+  m_EdgeRadius: 0
 --- !u!114 &1242638222207009784
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -68,6 +113,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _speed: 5
+--- !u!114 &-2509237361130588258
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1242638222207009787}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e6247b91601efa49945f6b2e9a2929e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _currentInteractable: {fileID: 0}
+  _canInteract: 0
 --- !u!1 &1242638222235151786
 GameObject:
   m_ObjectHideFlags: 0
