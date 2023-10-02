@@ -4,15 +4,22 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "NewClothesData", menuName = "Custom/ClothesData")]
 public class ClothesData : ScriptableObject
 {
-    [field: SerializeField] private List<ItemInfo> AllLockedClothes = new List<ItemInfo>();
+    [SerializeField] private List<ItemInfo> _originalLockedClothes = new List<ItemInfo>();
     [field: SerializeField] public List<ItemInfo> AllUnlockedClothes { get; private set; } = new List<ItemInfo>();
+    private List<ItemInfo> _currentLockedClothes = new List<ItemInfo>();
 
     private Dictionary<string, ItemInfo> _itemDictionary = new Dictionary<string, ItemInfo>();
 
+    private void Awake()
+    {
+
+    }
+
     private void OnEnable()
     {
-        BuildItemDictionary(AllLockedClothes);
-        //PrintDictionaryValues();
+        ResetClothesLists();
+        BuildItemDictionary(_currentLockedClothes);
+        PrintDictionaryValues();
     }
 
     private void BuildItemDictionary(List<ItemInfo> itemList)
@@ -57,22 +64,37 @@ public class ClothesData : ScriptableObject
         return _itemDictionary.TryGetValue(itemCode, out ItemInfo item) && AllUnlockedClothes.Contains(item);
     }
 
+    public int GetItemPrice(string itemCode)
+    {
+        if (_itemDictionary.TryGetValue(itemCode, out ItemInfo item))
+        {
+            return item.Price;
+        }
+        return 0;
+    }
+
     private void UnlockItem(ItemInfo item)
     {
         if (!AllUnlockedClothes.Contains(item))
         {
             AllUnlockedClothes.Add(item);
-            AllLockedClothes.Remove(item);
+            _currentLockedClothes.Remove(item);
         }
     }
 
     private void LockItem(ItemInfo item)
     {
-        if (!AllLockedClothes.Contains(item))
+        if (!_currentLockedClothes.Contains(item))
         {
-            AllLockedClothes.Add(item);
+            _currentLockedClothes.Add(item);
             AllUnlockedClothes.Remove(item);
         }
+    }
+
+    private void ResetClothesLists()
+    {
+        _currentLockedClothes = new List<ItemInfo>(_originalLockedClothes);
+        AllUnlockedClothes.Clear();
     }
 }
 

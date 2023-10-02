@@ -12,6 +12,11 @@ public class PlayerEconomy : MonoBehaviour
     public static Action<int> SpendMoneyEvent;
     public static Action<int> EarnMoneyEvent;
 
+    private void Start()
+    {
+        EarnMoneyEvent.Invoke(200);
+    }
+
     private void OnEnable()
     {
         SpendMoneyEvent += SpendMoney;
@@ -31,7 +36,7 @@ public class PlayerEconomy : MonoBehaviour
 
     private void SpendMoney(int value)
     {
-        if(value < CurrentMoney)
+        if(value <= CurrentMoney)
         {
             CurrentMoney -= value;
             UpdateMoneyUI();

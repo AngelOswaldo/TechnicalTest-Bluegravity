@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cbb6f4fdc1ddbd24faf45b6df17d6109, type: 3}
   m_Name: ClothesData
   m_EditorClassIdentifier: 
-  AllLockedClothes:
+  _originalLockedClothes:
   - Class: 0
     Id: 1
     Price: 10
@@ -98,4 +98,4 @@ MonoBehaviour:
     Price: 10
     Code: Accessory_05
     Icon: {fileID: 21300000, guid: fa6e947ce400840479f32621e4253b0e, type: 3}
-  AllUnlockedClothes: []
+  <AllUnlockedClothes>k__BackingField: []

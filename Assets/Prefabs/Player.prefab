@@ -45,19 +45,19 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1242638222207009787}
-  m_BodyType: 1
+  m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!70 &4690143423504299999
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -434,7 +434,7 @@ GameObject:
   - component: {fileID: 1242638223433110554}
   - component: {fileID: 1242638223433110555}
   m_Layer: 8
-  m_Name: Accessories
+  m_Name: Accessory
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -518,7 +518,7 @@ GameObject:
   - component: {fileID: 1242638223504465476}
   - component: {fileID: 1242638223504465477}
   m_Layer: 8
-  m_Name: Hair
+  m_Name: Haircut
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -716,3 +716,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _currentShirtID: 0
   _currentPantsID: 0
+  _currentGlassesID: 0
+  _currentHaircutID: 0
+  _currentAccessoryID: 0
+  _glassesRenderer: {fileID: 1242638223224469789}
+  _glassesSprites:
+  - {fileID: 21300000, guid: fcaed2d90fb47ec4f869a161b67bcc8e, type: 3}
+  - {fileID: 21300000, guid: 69bfd0c4dba77594db49fe3b6e69842c, type: 3}
+  - {fileID: 21300000, guid: bbbe0ab60ded90542a853012d864a796, type: 3}
+  _haircutRenderer: {fileID: 1242638223504465477}
+  _haircutSprites:
+  - {fileID: 21300000, guid: 3adb246426243e84ebd87ca030a1d69e, type: 3}
+  - {fileID: 21300000, guid: 5dd8662189a717344b2ff8b05962befc, type: 3}
+  - {fileID: 21300000, guid: 219a9bfaf4a4af24689e19dd249e65b5, type: 3}
+  - {fileID: 21300000, guid: 70ab13e481517a14fa0d34cfa55dd4f1, type: 3}
+  _accessoryRenderer: {fileID: 1242638223433110555}
+  _accessorySprites:
+  - {fileID: 21300000, guid: ff77b05c2090432428ec33ce57a150de, type: 3}
+  - {fileID: 21300000, guid: 90ec3d3169780b244be799fe275fe262, type: 3}
+  - {fileID: 21300000, guid: ba299f1550982a34382f9306c9f30af3, type: 3}
+  - {fileID: 21300000, guid: 463ac6684572a15479828392ff8394d9, type: 3}
+  - {fileID: 21300000, guid: fa6e947ce400840479f32621e4253b0e, type: 3}

@@ -35,7 +35,10 @@ public class ShopManager : MonoBehaviour
     {
         if(!_clothesData.IsItemUnlocked(code))
         {
-            _clothesData.BuyClothes(code, 0);
+            if(_clothesData.BuyClothes(code, PlayerEconomy.CurrentMoney))
+            {
+                PlayerEconomy.SpendMoneyEvent?.Invoke(_clothesData.GetItemPrice(code));
+            }
         }
     }
 

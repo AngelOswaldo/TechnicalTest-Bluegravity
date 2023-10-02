@@ -34,7 +34,10 @@ public class PlayerController : MonoBehaviour
     private void FixedUpdate()
     {
         if (!_canWalk)
+        {
+            _rb.velocity = Vector2.zero;
             return;
+        }
 
         Movement();
     }
