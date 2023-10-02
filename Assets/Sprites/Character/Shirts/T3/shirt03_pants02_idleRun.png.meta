@@ -1,0 +1,2162 @@
+fileFormatVersion: 2
+guid: 481c06a64f18f9744b4e648fab4d1f27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1667684089501113123
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00000
+  - first:
+      213: -4627588277691494390
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00001
+  - first:
+      213: 4829540983270303882
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00002
+  - first:
+      213: -3902974144525552277
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00003
+  - first:
+      213: -2957906369183027704
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00004
+  - first:
+      213: -1877875438953987346
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00005
+  - first:
+      213: -4304982821128339759
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00006
+  - first:
+      213: 2121397506075127547
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00007
+  - first:
+      213: -7375863781816425324
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00008
+  - first:
+      213: 3634760055452775700
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00009
+  - first:
+      213: -2475793950163406413
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00010
+  - first:
+      213: -5169035462475380003
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00011
+  - first:
+      213: -760787106892292568
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00012
+  - first:
+      213: -7165214201775247746
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00013
+  - first:
+      213: -1728104282445813022
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00014
+  - first:
+      213: -8045237078479767451
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00015
+  - first:
+      213: 4204905159716184698
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00016
+  - first:
+      213: 6395665633138920063
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00017
+  - first:
+      213: 815081974008358729
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00018
+  - first:
+      213: 7800836007051813022
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00019
+  - first:
+      213: 7204042352785065917
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00020
+  - first:
+      213: 4854648950272693916
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00021
+  - first:
+      213: -8819441595024677457
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00022
+  - first:
+      213: 9189492987515644874
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00023
+  - first:
+      213: 8084823524954428170
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00024
+  - first:
+      213: 3116240134079385041
+    second: SHIRT-TOA_T3_SHIRT_IDLE_00025
+  - first:
+      213: -1248609276407408852
+    second: SHIRT-TOA_TRAJE3_SHIRT_RUN_00000
+  - first:
+      213: -9057816918937500446
+    second: SHIRT-TOA_TRAJE3_SHIRT_RUN_00001
+  - first:
+      213: 198113208949568782
+    second: SHIRT-TOA_TRAJE3_SHIRT_RUN_00002
+  - first:
+      213: 8774632409528039196
+    second: SHIRT-TOA_TRAJE3_SHIRT_RUN_00003
+  - first:
+      213: -4632570694942590558
+    second: SHIRT-TOA_TRAJE3_SHIRT_RUN_00004
+  - first:
+      213: -9166377418320981942
+    second: SHIRT-TOA_TRAJE3_SHIRT_RUN_00005
+  - first:
+      213: -6861017806510081450
+    second: SHIRT-TOA_TRAJE3_SHIRT_RUN_00006
+  - first:
+      213: 2218065607236974654
+    second: SHIRT-TOA_TRAJE3_SHIRT_RUN_00007
+  - first:
+      213: 4645791365162782401
+    second: SHIRT-TOA_TRAJE3_SHIRT_RUN_00008
+  - first:
+      213: -2422066594706533157
+    second: SHIRT-TOA_TRAJE3_SHIRT_RUN_00009
+  - first:
+      213: 7293668856663979854
+    second: SHIRT-TOA_TRAJE3_SHIRT_RUN_00010
+  - first:
+      213: -5793913319727214626
+    second: SHIRT-TOA_TRAJE3_SHIRT_RUN_00011
+  - first:
+      213: -1778157049967907481
+    second: SHIRT-TOA_TRAJE3_SHIRT_RUN_00012
+  - first:
+      213: 2209693586112580982
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00000
+  - first:
+      213: 6568046651036069865
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00001
+  - first:
+      213: 5023115807424817290
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00002
+  - first:
+      213: -5131915029008637426
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00003
+  - first:
+      213: 5123049705365333565
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00004
+  - first:
+      213: -4542137126690765176
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00005
+  - first:
+      213: -7602631243328722153
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00006
+  - first:
+      213: 3929188504271356969
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00007
+  - first:
+      213: -1415991221185729024
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00008
+  - first:
+      213: -3023479202041942387
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00009
+  - first:
+      213: -4643318916529842767
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00010
+  - first:
+      213: -2403782266276382530
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00011
+  - first:
+      213: -6945272414251109654
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00012
+  - first:
+      213: 8301447470286661030
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00013
+  - first:
+      213: -1510927893636601581
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00014
+  - first:
+      213: -69030128415919827
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00015
+  - first:
+      213: -6040756235267048226
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00016
+  - first:
+      213: 2708644068783733778
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00017
+  - first:
+      213: 939635809612100221
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00018
+  - first:
+      213: 1716399262123622113
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00019
+  - first:
+      213: 5684568156809189029
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00020
+  - first:
+      213: -5858784706884797616
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00021
+  - first:
+      213: 6643303344521747289
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00022
+  - first:
+      213: 9082109151284817242
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00023
+  - first:
+      213: 4092163640508682419
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00024
+  - first:
+      213: 8325735051204653166
+    second: SKIRT-TOA_T3_SKIRT_IDLE_00025
+  - first:
+      213: -4648628016040277534
+    second: SKIRT-TOA_TRAJE3_SKIRT_RUN_00000
+  - first:
+      213: 323952351834544897
+    second: SKIRT-TOA_TRAJE3_SKIRT_RUN_00001
+  - first:
+      213: -7218673693639927561
+    second: SKIRT-TOA_TRAJE3_SKIRT_RUN_00002
+  - first:
+      213: -2065950898681887626
+    second: SKIRT-TOA_TRAJE3_SKIRT_RUN_00003
+  - first:
+      213: -1237167817694583155
+    second: SKIRT-TOA_TRAJE3_SKIRT_RUN_00004
+  - first:
+      213: -4883529864277688879
+    second: SKIRT-TOA_TRAJE3_SKIRT_RUN_00005
+  - first:
+      213: 4481890608139421324
+    second: SKIRT-TOA_TRAJE3_SKIRT_RUN_00006
+  - first:
+      213: -8313429235608986536
+    second: SKIRT-TOA_TRAJE3_SKIRT_RUN_00007
+  - first:
+      213: 378143715376519741
+    second: SKIRT-TOA_TRAJE3_SKIRT_RUN_00008
+  - first:
+      213: 3589929944778283913
+    second: SKIRT-TOA_TRAJE3_SKIRT_RUN_00009
+  - first:
+      213: 3095048473061605081
+    second: SKIRT-TOA_TRAJE3_SKIRT_RUN_00010
+  - first:
+      213: -7557066084092273951
+    second: SKIRT-TOA_TRAJE3_SKIRT_RUN_00011
+  - first:
+      213: 1053634827957438132
+    second: SKIRT-TOA_TRAJE3_SKIRT_RUN_00012
+  - first:
+      213: 9046852409660747919
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00000
+  - first:
+      213: -8344320020002055620
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00001
+  - first:
+      213: -5412585605776625244
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00002
+  - first:
+      213: -773449030644212288
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00003
+  - first:
+      213: -7120752120148358716
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00004
+  - first:
+      213: 6128350252980415351
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00005
+  - first:
+      213: -8000905122833841870
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00006
+  - first:
+      213: 7760341751349473476
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00007
+  - first:
+      213: -1832464897250797309
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00008
+  - first:
+      213: -158753596978044059
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00009
+  - first:
+      213: -6635795147147975179
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00010
+  - first:
+      213: 8840931554296246440
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00011
+  - first:
+      213: 3526697314432925427
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00012
+  - first:
+      213: 7422212748870777580
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00013
+  - first:
+      213: -5092197905026726283
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00014
+  - first:
+      213: 2825826310747252330
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00015
+  - first:
+      213: 96377952810772726
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00016
+  - first:
+      213: -4601265904545136544
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00017
+  - first:
+      213: 4936766998829067486
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00018
+  - first:
+      213: 751736799128392595
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00019
+  - first:
+      213: 7855134753909830778
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00020
+  - first:
+      213: -1861229125964316775
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00021
+  - first:
+      213: 6725010258854547776
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00022
+  - first:
+      213: -7103570729833704043
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00023
+  - first:
+      213: -6981851651050030155
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00024
+  - first:
+      213: 2069472159779289636
+    second: SKIRT (1)-TOA_T3_SKIRT_IDLE_00025
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1211
+        width: 257
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5311284, y: 0.70382166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bd848f7ddc42710800000000000000
+      internalID: 1667684089501113123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1211
+        width: 257
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5311284, y: 0.70382166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00df6dbaf087cfb0800000000000000
+      internalID: -4627588277691494390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1211
+        width: 257
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5311284, y: 0.70382166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a886400bfe9f50340800000000000000
+      internalID: 4829540983270303882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1211
+        width: 257
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5311284, y: 0.70382166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b653504c1b9d5d9c0800000000000000
+      internalID: -3902974144525552277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1878
+        width: 271
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5590406, y: 0.6360947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80eeaf134d763f6d0800000000000000
+      internalID: -2957906369183027704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1878
+        width: 271
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5590406, y: 0.6360947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee287b8dc3270f5e0800000000000000
+      internalID: -1877875438953987346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1878
+        width: 271
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5590406, y: 0.6360947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de7c76dee0a144c0800000000000000
+      internalID: -4304982821128339759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00007
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1388
+        width: 260
+        height: 170
+      alignment: 9
+      pivot: {x: 0.52884614, y: 0.6735294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfee109cac7b07d10800000000000000
+      internalID: 2121397506075127547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00008
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1388
+        width: 260
+        height: 170
+      alignment: 9
+      pivot: {x: 0.52884614, y: 0.6735294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494a92d28faa3a990800000000000000
+      internalID: -7375863781816425324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00009
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1388
+        width: 260
+        height: 170
+      alignment: 9
+      pivot: {x: 0.52884614, y: 0.6735294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415ba0d3303417230800000000000000
+      internalID: 3634760055452775700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1535
+        width: 260
+        height: 173
+      alignment: 9
+      pivot: {x: 0.525, y: 0.66184974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1f277058634add0800000000000000
+      internalID: -2475793950163406413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1535
+        width: 260
+        height: 173
+      alignment: 9
+      pivot: {x: 0.525, y: 0.66184974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda02c332a5e348b0800000000000000
+      internalID: -5169035462475380003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1535
+        width: 260
+        height: 173
+      alignment: 9
+      pivot: {x: 0.525, y: 0.66184974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82edcf738242175f0800000000000000
+      internalID: -760787106892292568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00013
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1560
+        width: 262
+        height: 186
+      alignment: 9
+      pivot: {x: 0.53625953, y: 0.62096775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e2a9b75ab009c90800000000000000
+      internalID: -7165214201775247746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00014
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1560
+        width: 262
+        height: 186
+      alignment: 9
+      pivot: {x: 0.53625953, y: 0.62096775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea6cfd9f4a8408e0800000000000000
+      internalID: -1728104282445813022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00015
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1560
+        width: 262
+        height: 186
+      alignment: 9
+      pivot: {x: 0.53625953, y: 0.62096775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568796ba083995090800000000000000
+      internalID: -8045237078479767451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00016
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1748
+        width: 265
+        height: 168
+      alignment: 9
+      pivot: {x: 0.545283, y: 0.6994048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a722717d6f2da5a30800000000000000
+      internalID: 4204905159716184698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00017
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1748
+        width: 265
+        height: 168
+      alignment: 9
+      pivot: {x: 0.545283, y: 0.6994048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a4b65f108f1c850800000000000000
+      internalID: 6395665633138920063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00018
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1748
+        width: 265
+        height: 168
+      alignment: 9
+      pivot: {x: 0.545283, y: 0.6994048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947a793acb0cf4b00800000000000000
+      internalID: 815081974008358729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00019
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1748
+        width: 265
+        height: 168
+      alignment: 9
+      pivot: {x: 0.545283, y: 0.6994048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90666f8403224c60800000000000000
+      internalID: 7800836007051813022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00020
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1559
+        width: 262
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5400763, y: 0.65337425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db78f98e956e9f360800000000000000
+      internalID: 7204042352785065917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00021
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1559
+        width: 262
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5400763, y: 0.65337425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c961a3ecf7d2f5340800000000000000
+      internalID: 4854648950272693916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00022
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1559
+        width: 262
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5400763, y: 0.65337425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5ef33c89c0b9580800000000000000
+      internalID: -8819441595024677457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00023
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1054
+        width: 254
+        height: 155
+      alignment: 9
+      pivot: {x: 0.52559054, y: 0.7129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb20d22f23a78f70800000000000000
+      internalID: 9189492987515644874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00024
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1054
+        width: 254
+        height: 155
+      alignment: 9
+      pivot: {x: 0.52559054, y: 0.7129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0351a42920133070800000000000000
+      internalID: 8084823524954428170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_T3_SHIRT_IDLE_00025
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1054
+        width: 254
+        height: 155
+      alignment: 9
+      pivot: {x: 0.52559054, y: 0.7129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd0e9234eb1f3b20800000000000000
+      internalID: 3116240134079385041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE3_SHIRT_RUN_00000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1710
+        width: 263
+        height: 166
+      alignment: 9
+      pivot: {x: 0.48859316, y: 0.5572289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c279a708a7c0caee0800000000000000
+      internalID: -1248609276407408852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE3_SHIRT_RUN_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1710
+        width: 263
+        height: 166
+      alignment: 9
+      pivot: {x: 0.48859316, y: 0.5572289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4053aa08b2c4280800000000000000
+      internalID: -9057816918937500446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE3_SHIRT_RUN_00002
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1216
+        width: 258
+        height: 170
+      alignment: 9
+      pivot: {x: 0.49031007, y: 0.5852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0570c4f9e6dfb200800000000000000
+      internalID: 198113208949568782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE3_SHIRT_RUN_00003
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1048
+        width: 252
+        height: 166
+      alignment: 9
+      pivot: {x: 0.4940476, y: 0.6295181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c177c8cbfa1c5c970800000000000000
+      internalID: 8774632409528039196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE3_SHIRT_RUN_00004
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 955
+        width: 252
+        height: 162
+      alignment: 9
+      pivot: {x: 0.50595236, y: 0.6697531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9ff035f7dc5bfb0800000000000000
+      internalID: -4632570694942590558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE3_SHIRT_RUN_00005
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 955
+        width: 252
+        height: 162
+      alignment: 9
+      pivot: {x: 0.50595236, y: 0.6697531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40d0d7bd4c7ac080800000000000000
+      internalID: -9166377418320981942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE3_SHIRT_RUN_00006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1370
+        width: 259
+        height: 163
+      alignment: 9
+      pivot: {x: 0.53474903, y: 0.70858896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a365df7a4c8c0a0800000000000000
+      internalID: -6861017806510081450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE3_SHIRT_RUN_00007
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1376
+        width: 259
+        height: 181
+      alignment: 9
+      pivot: {x: 0.46911198, y: 0.5718232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38fedffae628ce10800000000000000
+      internalID: 2218065607236974654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE3_SHIRT_RUN_00008
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1724
+        width: 263
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46197718, y: 0.5638889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ceca15d1aa297040800000000000000
+      internalID: 4645791365162782401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE3_SHIRT_RUN_00009
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1724
+        width: 263
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46197718, y: 0.5638889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd45d28c347136ed0800000000000000
+      internalID: -2422066594706533157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE3_SHIRT_RUN_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 762
+        width: 245
+        height: 162
+      alignment: 9
+      pivot: {x: 0.49591836, y: 0.595679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4739ce7e21583560800000000000000
+      internalID: 7293668856663979854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE3_SHIRT_RUN_00011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 762
+        width: 245
+        height: 162
+      alignment: 9
+      pivot: {x: 0.49591836, y: 0.595679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf414e7882e79fa0800000000000000
+      internalID: -5793913319727214626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHIRT-TOA_TRAJE3_SHIRT_RUN_00012
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1906
+        width: 270
+        height: 141
+      alignment: 9
+      pivot: {x: 0.53518516, y: 0.78368795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d6ec98597b257e0800000000000000
+      internalID: -1778157049967907481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00000
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 803
+        width: 245
+        height: 115
+      alignment: 9
+      pivot: {x: 0.53265303, y: 1.5434783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8037359550ec8d70800000000000000
+      internalID: 9046852409660747919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00001
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 803
+        width: 245
+        height: 115
+      alignment: 9
+      pivot: {x: 0.53265303, y: 1.5434783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ad893e625033c80800000000000000
+      internalID: -8344320020002055620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00002
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 803
+        width: 245
+        height: 115
+      alignment: 9
+      pivot: {x: 0.53265303, y: 1.5434783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1ba439112a2e4b0800000000000000
+      internalID: -5412585605776625244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00003
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 803
+        width: 245
+        height: 115
+      alignment: 9
+      pivot: {x: 0.53265303, y: 1.5434783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdd49c54382445f0800000000000000
+      internalID: -773449030644212288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00004
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 920
+        width: 248
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5423387, y: 1.4246032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c982f09ca10e2d90800000000000000
+      internalID: -7120752120148358716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00005
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 920
+        width: 248
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5423387, y: 1.4246032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ba210f5164c0550800000000000000
+      internalID: 6128350252980415351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00006
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 920
+        width: 248
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5423387, y: 1.4246032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231c2ef6e2317f090800000000000000
+      internalID: -8000905122833841870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00007
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 916
+        width: 245
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5367347, y: 1.4421488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c071d0f4b542bb60800000000000000
+      internalID: 7760341751349473476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00008
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 916
+        width: 245
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5367347, y: 1.4421488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3095eff72e6c196e0800000000000000
+      internalID: -1832464897250797309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00009
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 916
+        width: 245
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5367347, y: 1.4421488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563ee45d17efbcdf0800000000000000
+      internalID: -158753596978044059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 926
+        width: 252
+        height: 126
+      alignment: 9
+      pivot: {x: 0.53373015, y: 1.3849206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5ebfbb87be8e3a0800000000000000
+      internalID: -6635795147147975179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 926
+        width: 252
+        height: 126
+      alignment: 9
+      pivot: {x: 0.53373015, y: 1.3849206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0be59486c41ba70800000000000000
+      internalID: 8840931554296246440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 926
+        width: 252
+        height: 126
+      alignment: 9
+      pivot: {x: 0.53373015, y: 1.3849206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe3911b58851f030800000000000000
+      internalID: 3526697314432925427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00013
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1119
+        width: 257
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5389105, y: 1.3320895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea71d7ab2ff00760800000000000000
+      internalID: 7422212748870777580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00014
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1119
+        width: 257
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5389105, y: 1.3320895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576c4e82cf0e459b0800000000000000
+      internalID: -5092197905026726283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00015
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1119
+        width: 257
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5389105, y: 1.3320895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66ea09ce0a573720800000000000000
+      internalID: 2825826310747252330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00016
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1918
+        width: 267
+        height: 129
+      alignment: 9
+      pivot: {x: 0.51123595, y: 1.3837209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f82779cc37665100800000000000000
+      internalID: 96377952810772726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00017
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1918
+        width: 267
+        height: 129
+      alignment: 9
+      pivot: {x: 0.51123595, y: 1.3837209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0608872d9050520c0800000000000000
+      internalID: -4601265904545136544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00018
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1918
+        width: 267
+        height: 129
+      alignment: 9
+      pivot: {x: 0.51123595, y: 1.3837209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edce318ed6be28440800000000000000
+      internalID: 4936766998829067486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00019
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1918
+        width: 267
+        height: 129
+      alignment: 9
+      pivot: {x: 0.51123595, y: 1.3837209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39313acc2a4be6a00800000000000000
+      internalID: 751736799128392595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00020
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 831
+        width: 248
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5302419, y: 1.4631147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74fe9db07b030d60800000000000000
+      internalID: 7855134753909830778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00021
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 831
+        width: 248
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5302419, y: 1.4631147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f394d98f59b26e0800000000000000
+      internalID: -1861229125964316775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00022
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 831
+        width: 248
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5302419, y: 1.4631147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04112e52339045d50800000000000000
+      internalID: 6725010258854547776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00023
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1255
+        width: 258
+        height: 119
+      alignment: 9
+      pivot: {x: 0.51744187, y: 1.4747899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595566bbe0c0b6d90800000000000000
+      internalID: -7103570729833704043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00024
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1255
+        width: 258
+        height: 119
+      alignment: 9
+      pivot: {x: 0.51744187, y: 1.4747899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb30b03aea7b1f90800000000000000
+      internalID: -6981851651050030155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT (1)-TOA_T3_SKIRT_IDLE_00025
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1255
+        width: 258
+        height: 119
+      alignment: 9
+      pivot: {x: 0.51744187, y: 1.4747899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a743cf6fd38bc10800000000000000
+      internalID: 2069472159779289636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT-TOA_TRAJE3_SKIRT_RUN_00000
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1174
+        width: 234
+        height: 109
+      alignment: 9
+      pivot: {x: 0.43376067, y: 1.3715596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e98dfae271cc7fb0800000000000000
+      internalID: -4648628016040277534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT-TOA_TRAJE3_SKIRT_RUN_00001
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1174
+        width: 234
+        height: 109
+      alignment: 9
+      pivot: {x: 0.43376067, y: 1.3715596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b104792f8ee7400800000000000000
+      internalID: 323952351834544897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT-TOA_TRAJE3_SKIRT_RUN_00002
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1620
+        width: 220
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5022727, y: 1.3769841}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f89225958e12db90800000000000000
+      internalID: -7218673693639927561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT-TOA_TRAJE3_SKIRT_RUN_00003
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 794
+        width: 227
+        height: 120
+      alignment: 9
+      pivot: {x: 0.49118942, y: 1.4875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674caa08a944453e0800000000000000
+      internalID: -2065950898681887626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT-TOA_TRAJE3_SKIRT_RUN_00004
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 665
+        width: 224
+        height: 136
+      alignment: 9
+      pivot: {x: 0.52008927, y: 1.3713236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86e4c2bc62b4dee0800000000000000
+      internalID: -1237167817694583155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT-TOA_TRAJE3_SKIRT_RUN_00005
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 665
+        width: 224
+        height: 136
+      alignment: 9
+      pivot: {x: 0.52008927, y: 1.3713236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd77b566773a3cb0800000000000000
+      internalID: -4883529864277688879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT-TOA_TRAJE3_SKIRT_RUN_00006
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 699
+        width: 244
+        height: 130
+      alignment: 9
+      pivot: {x: 0.4897541, y: 1.4730769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c864f4413cfd23e30800000000000000
+      internalID: 4481890608139421324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT-TOA_TRAJE3_SKIRT_RUN_00007
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1452
+        width: 229
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 1.4292452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cdd2a1824c0ac80800000000000000
+      internalID: -8313429235608986536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT-TOA_TRAJE3_SKIRT_RUN_00008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 612
+        width: 228
+        height: 148
+      alignment: 9
+      pivot: {x: 0.45394737, y: 1.2533784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a5015a4bf6f3500800000000000000
+      internalID: 378143715376519741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT-TOA_TRAJE3_SKIRT_RUN_00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 612
+        width: 228
+        height: 148
+      alignment: 9
+      pivot: {x: 0.45394737, y: 1.2533784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b1c07b34ef1d130800000000000000
+      internalID: 3589929944778283913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT-TOA_TRAJE3_SKIRT_RUN_00010
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1285
+        width: 228
+        height: 165
+      alignment: 9
+      pivot: {x: 0.4758772, y: 1.1848484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9deb37f1032d3fa20800000000000000
+      internalID: 3095048473061605081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT-TOA_TRAJE3_SKIRT_RUN_00011
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1285
+        width: 228
+        height: 165
+      alignment: 9
+      pivot: {x: 0.4758772, y: 1.1848484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea17818f68ef1790800000000000000
+      internalID: -7557066084092273951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKIRT-TOA_TRAJE3_SKIRT_RUN_00012
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1039
+        width: 248
+        height: 133
+      alignment: 9
+      pivot: {x: 0.48185483, y: 1.4774436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6026b2b434f9e00800000000000000
+      internalID: 1053634827957438132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SHIRT-TOA_TRAJE3_SHIRT_RUN_00012: -1778157049967907481
+      SHIRT-TOA_TRAJE3_SHIRT_RUN_00008: 4645791365162782401
+      SHIRT-TOA_TRAJE3_SHIRT_RUN_00005: -9166377418320981942
+      SHIRT-TOA_T3_SHIRT_IDLE_00001: -4627588277691494390
+      SHIRT-TOA_T3_SHIRT_IDLE_00005: -1877875438953987346
+      SHIRT-TOA_T3_SHIRT_IDLE_00007: 2121397506075127547
+      SHIRT-TOA_T3_SHIRT_IDLE_00015: -8045237078479767451
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00025: 2069472159779289636
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00022: 6725010258854547776
+      SHIRT-TOA_T3_SHIRT_IDLE_00008: -7375863781816425324
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00013: 7422212748870777580
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00008: -1832464897250797309
+      SHIRT-TOA_T3_SHIRT_IDLE_00002: 4829540983270303882
+      SKIRT-TOA_TRAJE3_SKIRT_RUN_00002: -7218673693639927561
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00019: 751736799128392595
+      SHIRT-TOA_T3_SHIRT_IDLE_00013: -7165214201775247746
+      SHIRT-TOA_TRAJE3_SHIRT_RUN_00000: -1248609276407408852
+      SHIRT-TOA_T3_SHIRT_IDLE_00011: -5169035462475380003
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00005: 6128350252980415351
+      SHIRT-TOA_T3_SHIRT_IDLE_00016: 4204905159716184698
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00021: -1861229125964316775
+      SHIRT-TOA_T3_SHIRT_IDLE_00000: 1667684089501113123
+      SHIRT-TOA_T3_SHIRT_IDLE_00024: 8084823524954428170
+      SHIRT-TOA_T3_SHIRT_IDLE_00025: 3116240134079385041
+      SHIRT-TOA_T3_SHIRT_IDLE_00006: -4304982821128339759
+      SHIRT-TOA_TRAJE3_SHIRT_RUN_00002: 198113208949568782
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00014: -5092197905026726283
+      SHIRT-TOA_TRAJE3_SHIRT_RUN_00011: -5793913319727214626
+      SHIRT-TOA_TRAJE3_SHIRT_RUN_00003: 8774632409528039196
+      SKIRT-TOA_TRAJE3_SKIRT_RUN_00004: -1237167817694583155
+      SKIRT-TOA_TRAJE3_SKIRT_RUN_00001: 323952351834544897
+      SKIRT-TOA_TRAJE3_SKIRT_RUN_00011: -7557066084092273951
+      SHIRT-TOA_T3_SHIRT_IDLE_00009: 3634760055452775700
+      SKIRT-TOA_TRAJE3_SKIRT_RUN_00007: -8313429235608986536
+      SHIRT-TOA_TRAJE3_SHIRT_RUN_00007: 2218065607236974654
+      SHIRT-TOA_T3_SHIRT_IDLE_00017: 6395665633138920063
+      SKIRT-TOA_TRAJE3_SKIRT_RUN_00010: 3095048473061605081
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00009: -158753596978044059
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00016: 96377952810772726
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00018: 4936766998829067486
+      SKIRT-TOA_TRAJE3_SKIRT_RUN_00005: -4883529864277688879
+      SHIRT-TOA_T3_SHIRT_IDLE_00019: 7800836007051813022
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00001: -8344320020002055620
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00003: -773449030644212288
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00011: 8840931554296246440
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00017: -4601265904545136544
+      SHIRT-TOA_TRAJE3_SHIRT_RUN_00006: -6861017806510081450
+      SHIRT-TOA_T3_SHIRT_IDLE_00004: -2957906369183027704
+      SHIRT-TOA_T3_SHIRT_IDLE_00023: 9189492987515644874
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00010: -6635795147147975179
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00004: -7120752120148358716
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00012: 3526697314432925427
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00023: -7103570729833704043
+      SKIRT-TOA_TRAJE3_SKIRT_RUN_00006: 4481890608139421324
+      SKIRT-TOA_TRAJE3_SKIRT_RUN_00008: 378143715376519741
+      SHIRT-TOA_TRAJE3_SHIRT_RUN_00009: -2422066594706533157
+      SKIRT-TOA_TRAJE3_SKIRT_RUN_00003: -2065950898681887626
+      SHIRT-TOA_T3_SHIRT_IDLE_00018: 815081974008358729
+      SKIRT-TOA_TRAJE3_SKIRT_RUN_00000: -4648628016040277534
+      SHIRT-TOA_T3_SHIRT_IDLE_00022: -8819441595024677457
+      SKIRT-TOA_TRAJE3_SKIRT_RUN_00009: 3589929944778283913
+      SHIRT-TOA_T3_SHIRT_IDLE_00020: 7204042352785065917
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00002: -5412585605776625244
+      SHIRT-TOA_T3_SHIRT_IDLE_00003: -3902974144525552277
+      SHIRT-TOA_T3_SHIRT_IDLE_00021: 4854648950272693916
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00015: 2825826310747252330
+      SHIRT-TOA_T3_SHIRT_IDLE_00014: -1728104282445813022
+      SHIRT-TOA_TRAJE3_SHIRT_RUN_00010: 7293668856663979854
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00000: 9046852409660747919
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00006: -8000905122833841870
+      SHIRT-TOA_T3_SHIRT_IDLE_00012: -760787106892292568
+      SHIRT-TOA_TRAJE3_SHIRT_RUN_00001: -9057816918937500446
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00024: -6981851651050030155
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00020: 7855134753909830778
+      SKIRT (1)-TOA_T3_SKIRT_IDLE_00007: 7760341751349473476
+      SKIRT-TOA_TRAJE3_SKIRT_RUN_00012: 1053634827957438132
+      SHIRT-TOA_T3_SHIRT_IDLE_00010: -2475793950163406413
+      SHIRT-TOA_TRAJE3_SHIRT_RUN_00004: -4632570694942590558
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

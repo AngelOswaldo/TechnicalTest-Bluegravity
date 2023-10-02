@@ -1,0 +1,880 @@
+fileFormatVersion: 2
+guid: 71b0c0b0e023eb14c8e49577a499909e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6729413282492997702
+    second: TOA_AVATAR IDLE_WHITE01
+  - first:
+      213: -5638884368699567504
+    second: TOA_AVATAR IDLE_WHITE02
+  - first:
+      213: 2735748350149815484
+    second: TOA_AVATAR IDLE_WHITE03
+  - first:
+      213: -7981677696142304028
+    second: TOA_AVATAR IDLE_WHITE04
+  - first:
+      213: 8233781323330774671
+    second: TOA_AVATAR IDLE_WHITE05
+  - first:
+      213: -5715655810355180213
+    second: TOA_AVATAR IDLE_WHITE06
+  - first:
+      213: -9067923639563458253
+    second: TOA_AVATAR IDLE_WHITE07
+  - first:
+      213: -658803672354130737
+    second: TOA_AVATAR IDLE_WHITE08
+  - first:
+      213: -8444025911094888097
+    second: TOA_AVATAR IDLE_WHITE09
+  - first:
+      213: -1925463162953428830
+    second: TOA_AVATAR IDLE_WHITE10
+  - first:
+      213: 6799938603412278155
+    second: TOA_AVATAR IDLE_WHITE11
+  - first:
+      213: 7356386045227491829
+    second: TOA_AVATAR IDLE_WHITE12
+  - first:
+      213: -1468354336235310640
+    second: TOA_AVATAR IDLE_WHITE13
+  - first:
+      213: 6222193812203428144
+    second: TOA_AVATAR IDLE_WHITE14
+  - first:
+      213: -1296572035675178466
+    second: TOA_AVATAR IDLE_WHITE15
+  - first:
+      213: 55412535398904235
+    second: TOA_AVATAR IDLE_WHITE16
+  - first:
+      213: 752759814945300754
+    second: TOA_AVATAR IDLE_WHITE17
+  - first:
+      213: 1372221255817295392
+    second: TOA_AVATAR IDLE_WHITE18
+  - first:
+      213: 8230644625497966420
+    second: TOA_AVATAR IDLE_WHITE19
+  - first:
+      213: 3501616849306770583
+    second: TOA_AVATAR IDLE_WHITE20
+  - first:
+      213: -6229936964432663284
+    second: TOA_AVATAR IDLE_WHITE21
+  - first:
+      213: 9144290376954592829
+    second: TOA_AVATAR IDLE_WHITE22
+  - first:
+      213: 9002897380675587444
+    second: TOA_AVATAR IDLE_WHITE23
+  - first:
+      213: -4364996366385155910
+    second: TOA_AVATAR IDLE_WHITE24
+  - first:
+      213: -78213350352673141
+    second: TOA_AVATAR IDLE_WHITE25
+  - first:
+      213: 2082578043786661161
+    second: TOA_AVATAR IDLE_WHITE26
+  - first:
+      213: 3288536272187130971
+    second: TOA_AVATAR IDLE_WHITE27
+  - first:
+      213: -8083808976999461906
+    second: TOA_AVATAR IDLE_WHITE28
+  - first:
+      213: 2722703666628842949
+    second: TOA_AVATAR IDLE_WHITE29
+  - first:
+      213: -6507322359346957455
+    second: TOA_AVATAR IDLE_WHITE30
+  - first:
+      213: 3930045273385085996
+    second: TOA_AVATAR IDLE_WHITE31
+  - first:
+      213: -7051049900282252400
+    second: TOA_AVATAR IDLE_WHITE32
+  - first:
+      213: -2883507431089965792
+    second: TOA_IDLE_WHITE_00000
+  - first:
+      213: 6738444319614759951
+    second: TOA_IDLE_WHITE_00001
+  - first:
+      213: -3513571026908110588
+    second: TOA_IDLE_WHITE_00002
+  - first:
+      213: 691035174202338450
+    second: TOA_IDLE_WHITE_00003
+  - first:
+      213: 6325456732600719207
+    second: TOA_IDLE_WHITE_00004
+  - first:
+      213: 488690722101655571
+    second: TOA_IDLE_WHITE_00005
+  - first:
+      213: 8437713060339363347
+    second: TOA_IDLE_WHITE_00006
+  - first:
+      213: -6727290918757747478
+    second: TOA_IDLE_WHITE_00007
+  - first:
+      213: 4352723212789302443
+    second: TOA_IDLE_WHITE_00008
+  - first:
+      213: 509506712998102850
+    second: TOA_IDLE_WHITE_00009
+  - first:
+      213: -1626899003855625501
+    second: TOA_IDLE_WHITE_00010
+  - first:
+      213: -7361379673132192537
+    second: TOA_IDLE_WHITE_00011
+  - first:
+      213: 6787700199291875820
+    second: TOA_IDLE_WHITE_00012
+  - first:
+      213: -1153511396926382981
+    second: TOA_IDLE_WHITE_00013
+  - first:
+      213: 581336331294528114
+    second: TOA_IDLE_WHITE_00014
+  - first:
+      213: -120904954520910530
+    second: TOA_IDLE_WHITE_00015
+  - first:
+      213: 2882257589236691441
+    second: TOA_IDLE_WHITE_00016
+  - first:
+      213: -8810719736200764390
+    second: TOA_IDLE_WHITE_00017
+  - first:
+      213: -6002743084713008869
+    second: TOA_IDLE_WHITE_00018
+  - first:
+      213: 6870471697988406914
+    second: TOA_IDLE_WHITE_00019
+  - first:
+      213: 2559627461437119981
+    second: TOA_IDLE_WHITE_00020
+  - first:
+      213: 9032076414133408662
+    second: TOA_IDLE_WHITE_00021
+  - first:
+      213: -2398470195420053789
+    second: TOA_IDLE_WHITE_00022
+  - first:
+      213: 7003163542147206740
+    second: TOA_IDLE_WHITE_00023
+  - first:
+      213: -682330486514561297
+    second: TOA_IDLE_WHITE_00024
+  - first:
+      213: -5056828052026617513
+    second: TOA_IDLE_WHITE_00025
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00000
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1703
+        width: 284
+        height: 344
+      alignment: 9
+      pivot: {x: 0.49823943, y: 0.52761626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025fea6d449bbf7d0800000000000000
+      internalID: -2883507431089965792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00001
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1703
+        width: 284
+        height: 344
+      alignment: 9
+      pivot: {x: 0.49823943, y: 0.52761626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04f2692863c38d50800000000000000
+      internalID: 6738444319614759951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00002
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1703
+        width: 284
+        height: 344
+      alignment: 9
+      pivot: {x: 0.49823943, y: 0.52761626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401a90844c94d3fc0800000000000000
+      internalID: -3513571026908110588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00003
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1703
+        width: 284
+        height: 344
+      alignment: 9
+      pivot: {x: 0.49823943, y: 0.52761626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c61a564dc079900800000000000000
+      internalID: 691035174202338450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 986
+        width: 276
+        height: 346
+      alignment: 9
+      pivot: {x: 0.4981884, y: 0.5216763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767d4c4726988c750800000000000000
+      internalID: 6325456732600719207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 986
+        width: 276
+        height: 346
+      alignment: 9
+      pivot: {x: 0.4981884, y: 0.5216763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318f5ef5f9d28c600800000000000000
+      internalID: 488690722101655571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 986
+        width: 276
+        height: 346
+      alignment: 9
+      pivot: {x: 0.4981884, y: 0.5216763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ea33ec257c81570800000000000000
+      internalID: 8437713060339363347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1692
+        width: 284
+        height: 355
+      alignment: 9
+      pivot: {x: 0.5052817, y: 0.52816904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4bbb65d8cd3a2a0800000000000000
+      internalID: -6727290918757747478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1692
+        width: 284
+        height: 355
+      alignment: 9
+      pivot: {x: 0.5052817, y: 0.52816904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba447e743baf76c30800000000000000
+      internalID: 4352723212789302443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1692
+        width: 284
+        height: 355
+      alignment: 9
+      pivot: {x: 0.5052817, y: 0.52816904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247cdeee7a1221700800000000000000
+      internalID: 509506712998102850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1334
+        width: 281
+        height: 356
+      alignment: 9
+      pivot: {x: 0.50711745, y: 0.5098315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2afb5c9f71c69e0800000000000000
+      internalID: -1626899003855625501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1334
+        width: 281
+        height: 356
+      alignment: 9
+      pivot: {x: 0.50711745, y: 0.5098315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecac26803027d990800000000000000
+      internalID: -7361379673132192537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1334
+        width: 281
+        height: 356
+      alignment: 9
+      pivot: {x: 0.50711745, y: 0.5098315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1f3a45e51c23e50800000000000000
+      internalID: 6787700199291875820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00013
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1337
+        width: 281
+        height: 352
+      alignment: 9
+      pivot: {x: 0.5, y: 0.515625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c96ddfe77edffe0800000000000000
+      internalID: -1153511396926382981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00014
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1337
+        width: 281
+        height: 352
+      alignment: 9
+      pivot: {x: 0.5, y: 0.515625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272d6d13052511800800000000000000
+      internalID: 581336331294528114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00015
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1337
+        width: 281
+        height: 352
+      alignment: 9
+      pivot: {x: 0.5, y: 0.515625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35423e9595725ef0800000000000000
+      internalID: -120904954520910530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00016
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1691
+        width: 282
+        height: 356
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.52106744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f170ada106dff720800000000000000
+      internalID: 2882257589236691441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00017
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1691
+        width: 282
+        height: 356
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.52106744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14ea34c4190ab580800000000000000
+      internalID: -8810719736200764390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00018
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1691
+        width: 282
+        height: 356
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.52106744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11afb5e7f8f1bca0800000000000000
+      internalID: -6002743084713008869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00019
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1691
+        width: 282
+        height: 356
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.52106744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e49f5ab91d85f50800000000000000
+      internalID: 6870471697988406914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00020
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1347
+        width: 282
+        height: 354
+      alignment: 9
+      pivot: {x: 0.50177306, y: 0.5211864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded5b4c5d9f958320800000000000000
+      internalID: 2559627461437119981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00021
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1347
+        width: 282
+        height: 354
+      alignment: 9
+      pivot: {x: 0.50177306, y: 0.5211864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6931b9805a1685d70800000000000000
+      internalID: 9032076414133408662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00022
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1347
+        width: 282
+        height: 354
+      alignment: 9
+      pivot: {x: 0.50177306, y: 0.5211864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee30ad901ce6bed0800000000000000
+      internalID: -2398470195420053789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00023
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 998
+        width: 280
+        height: 347
+      alignment: 9
+      pivot: {x: 0.49821427, y: 0.5201729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e86a1232c303160800000000000000
+      internalID: 7003163542147206740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00024
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 998
+        width: 280
+        height: 347
+      alignment: 9
+      pivot: {x: 0.49821427, y: 0.5201729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee41e3a900e786f0800000000000000
+      internalID: -682330486514561297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOA_IDLE_WHITE_00025
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 998
+        width: 280
+        height: 347
+      alignment: 9
+      pivot: {x: 0.49821427, y: 0.5201729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75119bccda982d9b0800000000000000
+      internalID: -5056828052026617513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TOA_IDLE_WHITE_00020: 2559627461437119981
+      TOA_IDLE_WHITE_00021: 9032076414133408662
+      TOA_IDLE_WHITE_00017: -8810719736200764390
+      TOA_IDLE_WHITE_00006: 8437713060339363347
+      TOA_IDLE_WHITE_00011: -7361379673132192537
+      TOA_IDLE_WHITE_00015: -120904954520910530
+      TOA_IDLE_WHITE_00024: -682330486514561297
+      TOA_IDLE_WHITE_00005: 488690722101655571
+      TOA_IDLE_WHITE_00001: 6738444319614759951
+      TOA_IDLE_WHITE_00002: -3513571026908110588
+      TOA_IDLE_WHITE_00003: 691035174202338450
+      TOA_IDLE_WHITE_00019: 6870471697988406914
+      TOA_IDLE_WHITE_00023: 7003163542147206740
+      TOA_IDLE_WHITE_00007: -6727290918757747478
+      TOA_IDLE_WHITE_00008: 4352723212789302443
+      TOA_IDLE_WHITE_00012: 6787700199291875820
+      TOA_IDLE_WHITE_00013: -1153511396926382981
+      TOA_IDLE_WHITE_00014: 581336331294528114
+      TOA_IDLE_WHITE_00016: 2882257589236691441
+      TOA_IDLE_WHITE_00009: 509506712998102850
+      TOA_IDLE_WHITE_00022: -2398470195420053789
+      TOA_IDLE_WHITE_00018: -6002743084713008869
+      TOA_IDLE_WHITE_00000: -2883507431089965792
+      TOA_IDLE_WHITE_00025: -5056828052026617513
+      TOA_IDLE_WHITE_00010: -1626899003855625501
+      TOA_IDLE_WHITE_00004: 6325456732600719207
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

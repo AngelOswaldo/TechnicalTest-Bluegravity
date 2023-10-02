@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Interactable
   layers:
   - Default
   - TransparentFX
@@ -12,9 +13,9 @@ TagManager:
   - Water
   - UI
   - 
-  - 
-  - 
-  - 
+  - Background
+  - Player
+  - Objects
   - 
   - 
   - 
@@ -40,4 +41,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 291127069
+    locked: 0
+  - name: Player
+    uniqueID: 4227379623
+    locked: 0
+  - name: NPCs
+    uniqueID: 1504587217
+    locked: 0
+  - name: Objects
+    uniqueID: 2655345405
     locked: 0
