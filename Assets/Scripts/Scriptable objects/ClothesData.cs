@@ -10,18 +10,17 @@ public class ClothesData : ScriptableObject
 
     private Dictionary<string, ItemInfo> _itemDictionary = new Dictionary<string, ItemInfo>();
 
-    private void Awake()
-    {
-
-    }
-
     private void OnEnable()
     {
-        ResetClothesLists();
-        BuildItemDictionary(_currentLockedClothes);
-        PrintDictionaryValues();
+        ResetClothesLists(); // Reset the clothes lists to their original state
+        BuildItemDictionary(_currentLockedClothes); // Build the item dictionary with the current locked clothes
+        PrintDictionaryValues(); // Print the values of the item dictionary
     }
 
+    /// <summary>
+    /// Build the item dictionary from a list of items.
+    /// </summary>
+    /// <param name="itemList">The list of items to build the dictionary from.</param>
     private void BuildItemDictionary(List<ItemInfo> itemList)
     {
         foreach (var item in itemList)
@@ -33,6 +32,9 @@ public class ClothesData : ScriptableObject
         }
     }
 
+    /// <summary>
+    /// Print the values of the item dictionary.
+    /// </summary>
     private void PrintDictionaryValues()
     {
         foreach (var item in _itemDictionary)
@@ -41,38 +43,62 @@ public class ClothesData : ScriptableObject
         }
     }
 
+    /// <summary>
+    /// Attempt to buy an item with the given item code and player money.
+    /// </summary>
+    /// <param name="itemCode">The code of the item to buy.</param>
+    /// <param name="playerMoney">The player's current money.</param>
+    /// <returns>True if the item was bought successfully, false otherwise.</returns>
     public bool BuyClothes(string itemCode, int playerMoney)
     {
         if (_itemDictionary.TryGetValue(itemCode, out ItemInfo item) && item.Price <= playerMoney)
         {
-            UnlockItem(item);
-            return true;
+            UnlockItem(item); // Unlock the item
+            return true; // Return true to indicate successful purchase
         }
-        return false;
+        return false; // Return false if the purchase was not successful
     }
 
+    /// <summary>
+    /// Sell an item with the given item code.
+    /// </summary>
+    /// <param name="itemCode">The code of the item to sell.</param>
     public void SellClothes(string itemCode)
     {
         if (_itemDictionary.TryGetValue(itemCode, out ItemInfo item))
         {
-            LockItem(item);
+            LockItem(item); // Lock the item
         }
     }
 
+    /// <summary>
+    /// Check if an item with the given item code is unlocked.
+    /// </summary>
+    /// <param name="itemCode">The code of the item to check.</param>
+    /// <returns>True if the item is unlocked, false otherwise.</returns>
     public bool IsItemUnlocked(string itemCode)
     {
         return _itemDictionary.TryGetValue(itemCode, out ItemInfo item) && AllUnlockedClothes.Contains(item);
     }
 
+    /// <summary>
+    /// Get the price of an item with the given item code.
+    /// </summary>
+    /// <param name="itemCode">The code of the item to get the price for.</param>
+    /// <returns>The price of the item, or 0 if the item is not found.</returns>
     public int GetItemPrice(string itemCode)
     {
         if (_itemDictionary.TryGetValue(itemCode, out ItemInfo item))
         {
             return item.Price;
         }
-        return 0;
+        return 0; // Return 0 if the item is not found
     }
 
+    /// <summary>
+    /// Unlock an item and move it to the list of unlocked clothes.
+    /// </summary>
+    /// <param name="item">The item to unlock.</param>
     private void UnlockItem(ItemInfo item)
     {
         if (!AllUnlockedClothes.Contains(item))
@@ -82,6 +108,10 @@ public class ClothesData : ScriptableObject
         }
     }
 
+    /// <summary>
+    /// Lock an item and move it to the list of locked clothes.
+    /// </summary>
+    /// <param name="item">The item to lock.</param>
     private void LockItem(ItemInfo item)
     {
         if (!_currentLockedClothes.Contains(item))
@@ -91,6 +121,9 @@ public class ClothesData : ScriptableObject
         }
     }
 
+    /// <summary>
+    /// Reset the clothes lists to their original state.
+    /// </summary>
     private void ResetClothesLists()
     {
         _currentLockedClothes = new List<ItemInfo>(_originalLockedClothes);

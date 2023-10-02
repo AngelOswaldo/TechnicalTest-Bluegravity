@@ -12,12 +12,12 @@ public class PlayerInteraction : MonoBehaviour
 
     private void OnEnable()
     {
-        EnableInteractionEvent += EnableInteraction;
+        EnableInteractionEvent += EnableInteraction; // Subscribe to the EnableInteractionEvent
     }
 
     private void OnDisable()
     {
-        EnableInteractionEvent -= EnableInteraction;
+        EnableInteractionEvent -= EnableInteraction; // Unsubscribe from the EnableInteractionEvent
     }
 
     private void Update()
@@ -27,8 +27,8 @@ public class PlayerInteraction : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.E))
         {
-            _currentInteractable.Interact();
-            _canInteract = false;
+            _currentInteractable.Interact(); // Trigger the interaction with the current interactable
+            _canInteract = false; // Disable further interaction until re-enabled
         }
     }
 
@@ -36,10 +36,10 @@ public class PlayerInteraction : MonoBehaviour
     {
         if (collision.CompareTag("Interactable"))
         {
-            _currentInteractable = collision?.GetComponent<Interactable>();
-            if(_currentInteractable != null )
+            _currentInteractable = collision?.GetComponent<Interactable>(); // Get the Interactable component from the collider
+            if (_currentInteractable != null)
             {
-                _canInteract = true;
+                _canInteract = true; // Enable interaction when a valid interactable object is detected
             }
         }
     }
@@ -48,13 +48,16 @@ public class PlayerInteraction : MonoBehaviour
     {
         if (collision.CompareTag("Interactable"))
         {
-            _currentInteractable = null;
-            _canInteract = false;
+            _currentInteractable = null; // Clear the reference to the current interactable
+            _canInteract = false; // Disable interaction when the player moves away from the interactable object
         }
     }
 
+    /// <summary>
+    /// Enable interaction, allowing the player to interact with objects.
+    /// </summary>
     private void EnableInteraction()
     {
-        _canInteract = true;
+        _canInteract = true; // Enable interaction
     }
 }
