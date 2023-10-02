@@ -36,6 +36,7 @@ public class PlayerController : MonoBehaviour
         if (!_canWalk)
         {
             _rb.velocity = Vector2.zero;
+            PlayerAnimation.WalkEvent?.Invoke(false);
             return;
         }
 
