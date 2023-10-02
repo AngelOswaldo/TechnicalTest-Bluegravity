@@ -29,6 +29,7 @@ public class ShopManager : MonoBehaviour
     {
         _shopPanel.SetActive(false);
         PlayerController.CanPlayerWalkEvent?.Invoke(true);
+        PlayerInteraction.EnableInteractionEvent?.Invoke();
     }
 
     public void BuyItem(string code)

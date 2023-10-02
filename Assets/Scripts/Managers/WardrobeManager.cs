@@ -32,6 +32,7 @@ public class WardrobeManager : MonoBehaviour
         _wardrobePanel.SetActive(false);
         Wardrobe.CloseChestEvent?.Invoke();
         PlayerController.CanPlayerWalkEvent?.Invoke(true);
+        PlayerInteraction.EnableInteractionEvent?.Invoke();
     }
 
     public void WearShirt(int value)
